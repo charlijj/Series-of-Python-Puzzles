@@ -1,0 +1,5146 @@
+<play name="Love's Labour's Lost">
+  <div type="act" n="1">
+    <div type="scene" n="1">
+      <sp who="#Ferdinand">
+        <lb n="5">Let fame, that all hunt after in their lives,
+Live register'd upon our brazen tombs
+And then grace us in the disgrace of death;
+When, spite of cormorant devouring Time,
+The endeavor of this present breath may buy
+That honour which shall bate his scythe's keen edge
+And make us heirs of all eternity.
+Therefore, brave conquerors,--for so you are,
+That war against your own affections
+And the huge army of the world's desires,--
+Our late edict shall strongly stand in force:
+Navarre shall be the wonder of the world;
+Our court shall be a little Academe,
+Still and contemplative in living art.
+You three, Biron, Dumain, and Longaville,
+Have sworn for three years' term to live with me
+My fellow-scholars, and to keep those statutes
+That are recorded in this schedule here:
+Your oaths are pass'd; and now subscribe your names,
+That his own hand may strike his honour down
+That violates the smallest branch herein:
+If you are arm'd to do as sworn to do,
+Subscribe to your deep oaths, and keep it too.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="28">I am resolved; 'tis but a three years' fast:
+The mind shall banquet, though the body pine:
+Fat paunches have lean pates, and dainty bits
+Make rich the ribs, but bankrupt quite the wits.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="32">My loving lord, Dumain is mortified:
+The grosser manner of these world's delights
+He throws upon the gross world's baser slaves:
+To love, to wealth, to pomp, I pine and die;
+With all these living in philosophy.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="37">I can but say their protestation over;
+So much, dear liege, I have already sworn,
+That is, to live and study here three years.
+But there are other strict observances;
+As, not to see a woman in that term,
+Which I hope well is not enrolled there;
+And one day in a week to touch no food
+And but one meal on every day beside,
+The which I hope is not enrolled there;
+And then, to sleep but three hours in the night,
+And not be seen to wink of all the day--
+When I was wont to think no harm all night
+And make a dark night too of half the day--
+Which I hope well is not enrolled there:
+O, these are barren tasks, too hard to keep,
+Not to see ladies, study, fast, not sleep!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="53">Your oath is pass'd to pass away from these.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="54">Let me say no, my liege, an if you please:
+I only swore to study with your grace
+And stay here in your court for three years' space.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="57">You swore to that, Biron, and to the rest.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="58">By yea and nay, sir, then I swore in jest.
+What is the end of study? let me know.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="60">Why, that to know, which else we should not know.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="61">Things hid and barr'd, you mean, from common sense?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="62">Ay, that is study's godlike recompense.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="63">Come on, then; I will swear to study so,
+To know the thing I am forbid to know:
+As thus,--to study where I well may dine,
+When I to feast expressly am forbid;
+Or study where to meet some mistress fine,
+When mistresses from common sense are hid;
+Or, having sworn too hard a keeping oath,
+Study to break it and not break my troth.
+If study's gain be thus and this be so,
+Study knows that which yet it doth not know:
+Swear me to this, and I will ne'er say no.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="74">These be the stops that hinder study quite
+And train our intellects to vain delight.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="76">Why, all delights are vain; but that most vain,
+Which with pain purchased doth inherit pain:
+As, painfully to pore upon a book
+To seek the light of truth; while truth the while
+Doth falsely blind the eyesight of his look:
+Light seeking light doth light of light beguile:
+So, ere you find where light in darkness lies,
+Your light grows dark by losing of your eyes.
+Study me how to please the eye indeed
+By fixing it upon a fairer eye,
+Who dazzling so, that eye shall be his heed
+And give him light that it was blinded by.
+Study is like the heaven's glorious sun
+That will not be deep-search'd with saucy looks:
+Small have continual plodders ever won
+Save base authority from others' books
+These earthly godfathers of heaven's lights
+That give a name to every fixed star
+Have no more profit of their shining nights
+Than those that walk and wot not what they are.
+Too much to know is to know nought but fame;
+And every godfather can give a name.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="98">How well he's read, to reason against reading!</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="99">Proceeded well, to stop all good proceeding!</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="100">He weeds the corn and still lets grow the weeding.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="101">The spring is near when green geese are a-breeding.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="102">How follows that?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="103">Fit in his place and time.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="104">In reason nothing.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="105">Something then in rhyme.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="106">Biron is like an envious sneaping frost,
+That bites the first-born infants of the spring.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="108">Well, say I am; why should proud summer boast
+Before the birds have any cause to sing?
+Why should I joy in any abortive birth?
+At Christmas I no more desire a rose
+Than wish a snow in May's new-fangled mirth;
+But like of each thing that in season grows.
+So you, to study now it is too late,
+Climb o'er the house to unlock the little gate.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="116">Well, sit you out: go home, Biron: adieu.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="117">No, my good lord; I have sworn to stay with you:
+And though I have for barbarism spoke more
+Than for that angel knowledge you can say,
+Yet confident I'll keep what I have swore
+And bide the penance of each three years' day.
+Give me the paper; let me read the same;
+And to the strict'st decrees I'll write my name.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="124">How well this yielding rescues thee from shame!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="125">[Reads] 'Item, That no woman shall come within a
+mile of my court:' Hath this been proclaimed?</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="127">Four days ago.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="128">Let's see the penalty.
+[Reads]
+'On pain of losing her tongue.' Who devised this penalty?</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="131">Marry, that did I.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="132">Sweet lord, and why?</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="133">To fright them hence with that dread penalty.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="134">A dangerous law against gentility!
+[Reads]
+'Item, If any man be seen to talk with a woman
+within the term of three years, he shall endure such
+public shame as the rest of the court can possibly devise.'
+This article, my liege, yourself must break;
+For well you know here comes in embassy
+The French king's daughter with yourself to speak--
+A maid of grace and complete majesty--
+About surrender up of Aquitaine
+To her decrepit, sick and bedrid father:
+Therefore this article is made in vain,
+Or vainly comes the admired princess hither.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="147">What say you, lords? Why, this was quite forgot.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="148">So study evermore is overshot:
+While it doth study to have what it would
+It doth forget to do the thing it should,
+And when it hath the thing it hunteth most,
+'Tis won as towns with fire, so won, so lost.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="153">We must of force dispense with this decree;
+She must lie here on mere necessity.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="155">Necessity will make us all forsworn
+Three thousand times within this three years' space;
+For every man with his affects is born,
+Not by might master'd but by special grace:
+If I break faith, this word shall speak for me;
+I am forsworn on 'mere necessity.'
+So to the laws at large I write my name:
+[Subscribes]
+And he that breaks them in the least degree
+Stands in attainder of eternal shame:
+Suggestions are to other as to me;
+But I believe, although I seem so loath,
+I am the last that will last keep his oath.
+But is there no quick recreation granted?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="169">Ay, that there is. Our court, you know, is haunted
+With a refined traveller of Spain;
+A man in all the world's new fashion planted,
+That hath a mint of phrases in his brain;
+One whom the music of his own vain tongue
+Doth ravish like enchanting harmony;
+A man of complements, whom right and wrong
+Have chose as umpire of their mutiny:
+This child of fancy, that Armado hight,
+For interim to our studies shall relate
+In high-born words the worth of many a knight
+From tawny Spain lost in the world's debate.
+How you delight, my lords, I know not, I;
+But, I protest, I love to hear him lie
+And I will use him for my minstrelsy.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="184">Armado is a most illustrious wight,
+A man of fire-new words, fashion's own knight.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="186">Costard the swain and he shall be our sport;
+And so to study, three years is but short.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="188">[Enter DULL with a letter, and COSTARD]</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="189">Which is the duke's own person?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="190">This, fellow: what wouldst?</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="191">I myself reprehend his own person, for I am his
+grace's tharborough: but I would see his own person
+in flesh and blood.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="194">This is he.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="195">Signior Arme--Arme--commends you. There's villany
+abroad: this letter will tell you more.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="197">Sir, the contempts thereof are as touching me.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="198">A letter from the magnificent Armado.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="199">How low soever the matter, I hope in God for high words.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="200">A high hope for a low heaven: God grant us patience!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="201">To hear? or forbear laughing?</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="202">To hear meekly, sir, and to laugh moderately; or to
+forbear both.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="204">Well, sir, be it as the style shall give us cause to
+climb in the merriness.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="206">The matter is to me, sir, as concerning Jaquenetta.
+The manner of it is, I was taken with the manner.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="208">In what manner?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="209">In manner and form following, sir; all those three:
+I was seen with her in the manor-house, sitting with
+her upon the form, and taken following her into the
+park; which, put together, is in manner and form
+following. Now, sir, for the manner,--it is the
+manner of a man to speak to a woman: for the form,--
+in some form.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="216">For the following, sir?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="217">As it shall follow in my correction: and God defend
+the right!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="219">Will you hear this letter with attention?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="220">As we would hear an oracle.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="221">Such is the simplicity of man to hearken after the flesh.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="222">[Reads] 'Great deputy, the welkin's vicegerent and
+sole dominator of Navarre, my soul's earth's god,
+and body's fostering patron.'</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="225">Not a word of Costard yet.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="226">[Reads] 'So it is,'--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="227">It may be so: but if he say it is so, he is, in
+telling true, but so.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="229">Peace!</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="230">Be to me and every man that dares not fight!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="231">No words!</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="232">Of other men's secrets, I beseech you.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="233">[Reads] 'So it is, besieged with sable-coloured
+melancholy, I did commend the black-oppressing humour
+to the most wholesome physic of thy health-giving
+air; and, as I am a gentleman, betook myself to
+walk. The time when. About the sixth hour; when
+beasts most graze, birds best peck, and men sit down
+to that nourishment which is called supper: so much
+for the time when. Now for the ground which; which,
+I mean, I walked upon: it is y-cleped thy park. Then
+for the place where; where, I mean, I did encounter
+that obscene and preposterous event, that draweth
+from my snow-white pen the ebon-coloured ink, which
+here thou viewest, beholdest, surveyest, or seest;
+but to the place where; it standeth north-north-east
+and by east from the west corner of thy curious-
+knotted garden: there did I see that low-spirited
+swain, that base minnow of thy mirth,'--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="250">Me?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="251">[Reads] 'that unlettered small-knowing soul,'--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="252">Me?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="253">[Reads] 'that shallow vassal,'--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="254">Still me?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="255">[Reads] 'which, as I remember, hight Costard,'--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="256">O, me!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="257">[Reads] 'sorted and consorted, contrary to thy
+established proclaimed edict and continent canon,
+which with,--O, with--but with this I passion to say
+wherewith,--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="261">With a wench.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="262">[Reads] 'with a child of our grandmother Eve, a
+female; or, for thy more sweet understanding, a
+woman. Him I, as my ever-esteemed duty pricks me on,
+have sent to thee, to receive the meed of
+punishment, by thy sweet grace's officer, Anthony
+Dull; a man of good repute, carriage, bearing, and
+estimation.'</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="269">'Me, an't shall please you; I am Anthony Dull.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="270">[Reads] 'For Jaquenetta,--so is the weaker vessel
+called which I apprehended with the aforesaid
+swain,--I keep her as a vessel of the law's fury;
+and shall, at the least of thy sweet notice, bring
+her to trial. Thine, in all compliments of devoted
+and heart-burning heat of duty.
+DON ADRIANO DE ARMADO.'</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="277">This is not so well as I looked for, but the best
+that ever I heard.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="279">Ay, the best for the worst. But, sirrah, what say
+you to this?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="281">Sir, I confess the wench.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="282">Did you hear the proclamation?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="283">I do confess much of the hearing it but little of
+the marking of it.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="285">It was proclaimed a year's imprisonment, to be taken
+with a wench.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="287">I was taken with none, sir: I was taken with a damsel.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="288">Well, it was proclaimed 'damsel.'</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="289">This was no damsel, neither, sir; she was a virgin.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="290">It is so varied, too; for it was proclaimed 'virgin.'</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="291">If it were, I deny her virginity: I was taken with a maid.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="292">This maid will not serve your turn, sir.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="293">This maid will serve my turn, sir.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="294">Sir, I will pronounce your sentence: you shall fast
+a week with bran and water.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="296">I had rather pray a month with mutton and porridge.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="297">And Don Armado shall be your keeper.
+My Lord Biron, see him deliver'd o'er:
+And go we, lords, to put in practise that
+Which each to other hath so strongly sworn.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="301">[Exeunt FERDINAND, LONGAVILLE, and DUMAIN]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="302">I'll lay my head to any good man's hat,
+These oaths and laws will prove an idle scorn.
+Sirrah, come on.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="305">I suffer for the truth, sir; for true it is, I was
+taken with Jaquenetta, and Jaquenetta is a true
+girl; and therefore welcome the sour cup of
+prosperity! Affliction may one day smile again; and
+till then, sit thee down, sorrow!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="310">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="313">[Enter DON ADRIANO DE ARMADO and MOTH]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="314">Boy, what sign is it when a man of great spirit
+grows melancholy?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="316">A great sign, sir, that he will look sad.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="317">Why, sadness is one and the self-same thing, dear imp.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="318">No, no; O Lord, sir, no.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="319">How canst thou part sadness and melancholy, my
+tender juvenal?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="321">By a familiar demonstration of the working, my tough senior.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="322">Why tough senior? why tough senior?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="323">Why tender juvenal? why tender juvenal?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="324">I spoke it, tender juvenal, as a congruent epitheton
+appertaining to thy young days, which we may
+nominate tender.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="327">And I, tough senior, as an appertinent title to your
+old time, which we may name tough.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="329">Pretty and apt.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="330">How mean you, sir? I pretty, and my saying apt? or
+I apt, and my saying pretty?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="332">Thou pretty, because little.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="333">Little pretty, because little. Wherefore apt?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="334">And therefore apt, because quick.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="335">Speak you this in my praise, master?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="336">In thy condign praise.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="337">I will praise an eel with the same praise.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="338">What, that an eel is ingenious?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="339">That an eel is quick.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="340">I do say thou art quick in answers: thou heatest my blood.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="341">I am answered, sir.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="342">I love not to be crossed.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="343">[Aside] He speaks the mere contrary; crosses love not him.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="344">I have promised to study three years with the duke.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="345">You may do it in an hour, sir.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="346">Impossible.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="347">How many is one thrice told?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="348">I am ill at reckoning; it fitteth the spirit of a tapster.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="349">You are a gentleman and a gamester, sir.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="350">I confess both: they are both the varnish of a
+complete man.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="352">Then, I am sure, you know how much the gross sum of
+deuce-ace amounts to.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="354">It doth amount to one more than two.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="355">Which the base vulgar do call three.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="356">True.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="357">Why, sir, is this such a piece of study? Now here
+is three studied, ere ye'll thrice wink: and how
+easy it is to put 'years' to the word 'three,' and
+study three years in two words, the dancing horse
+will tell you.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="362">A most fine figure!</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="363">To prove you a cipher.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="364">I will hereupon confess I am in love: and as it is
+base for a soldier to love, so am I in love with a
+base wench. If drawing my sword against the humour
+of affection would deliver me from the reprobate
+thought of it, I would take Desire prisoner, and
+ransom him to any French courtier for a new-devised
+courtesy. I think scorn to sigh: methinks I should
+outswear Cupid. Comfort, me, boy: what great men
+have been in love?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="373">Hercules, master.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="374">Most sweet Hercules! More authority, dear boy, name
+more; and, sweet my child, let them be men of good
+repute and carriage.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="377">Samson, master: he was a man of good carriage, great
+carriage, for he carried the town-gates on his back
+like a porter: and he was in love.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="380">O well-knit Samson! strong-jointed Samson! I do
+excel thee in my rapier as much as thou didst me in
+carrying gates. I am in love too. Who was Samson's
+love, my dear Moth?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="384">A woman, master.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="385">Of what complexion?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="386">Of all the four, or the three, or the two, or one of the four.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="387">Tell me precisely of what complexion.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="388">Of the sea-water green, sir.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="389">Is that one of the four complexions?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="390">As I have read, sir; and the best of them too.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="391">Green indeed is the colour of lovers; but to have a
+love of that colour, methinks Samson had small reason
+for it. He surely affected her for her wit.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="394">It was so, sir; for she had a green wit.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="395">My love is most immaculate white and red.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="396">Most maculate thoughts, master, are masked under
+such colours.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="398">Define, define, well-educated infant.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="399">My father's wit and my mother's tongue, assist me!</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="400">Sweet invocation of a child; most pretty and
+pathetical!</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="402">If she be made of white and red,
+Her faults will ne'er be known,
+For blushing cheeks by faults are bred
+And fears by pale white shown:
+Then if she fear, or be to blame,
+By this you shall not know,
+For still her cheeks possess the same
+Which native she doth owe.
+A dangerous rhyme, master, against the reason of
+white and red.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="412">Is there not a ballad, boy, of the King and the Beggar?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="413">The world was very guilty of such a ballad some
+three ages since: but I think now 'tis not to be
+found; or, if it were, it would neither serve for
+the writing nor the tune.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="417">I will have that subject newly writ o'er, that I may
+example my digression by some mighty precedent.
+Boy, I do love that country girl that I took in the
+park with the rational hind Costard: she deserves well.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="421">[Aside] To be whipped; and yet a better love than
+my master.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="423">Sing, boy; my spirit grows heavy in love.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="424">And that's great marvel, loving a light wench.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="425">I say, sing.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="426">Forbear till this company be past.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="427">[Enter DULL, COSTARD, and JAQUENETTA]</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="428">Sir, the duke's pleasure is, that you keep Costard
+safe: and you must suffer him to take no delight
+nor no penance; but a' must fast three days a week.
+For this damsel, I must keep her at the park: she
+is allowed for the day-woman. Fare you well.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="433">I do betray myself with blushing. Maid!</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="434">Man?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="435">I will visit thee at the lodge.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="436">That's hereby.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="437">I know where it is situate.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="438">Lord, how wise you are!</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="439">I will tell thee wonders.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="440">With that face?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="441">I love thee.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="442">So I heard you say.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="443">And so, farewell.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="444">Fair weather after you!</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="445">Come, Jaquenetta, away!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="446">[Exeunt DULL and JAQUENETTA]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="447">Villain, thou shalt fast for thy offences ere thou
+be pardoned.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="449">Well, sir, I hope, when I do it, I shall do it on a
+full stomach.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="451">Thou shalt be heavily punished.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="452">I am more bound to you than your fellows, for they
+are but lightly rewarded.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="454">Take away this villain; shut him up.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="455">Come, you transgressing slave; away!</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="456">Let me not be pent up, sir: I will fast, being loose.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="457">No, sir; that were fast and loose: thou shalt to prison.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="458">Well, if ever I do see the merry days of desolation
+that I have seen, some shall see.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="460">What shall some see?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="461">Nay, nothing, Master Moth, but what they look upon.
+It is not for prisoners to be too silent in their
+words; and therefore I will say nothing: I thank
+God I have as little patience as another man; and
+therefore I can be quiet.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="466">[Exeunt MOTH and COSTARD]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="467">I do affect the very ground, which is base, where
+her shoe, which is baser, guided by her foot, which
+is basest, doth tread. I shall be forsworn, which
+is a great argument of falsehood, if I love. And
+how can that be true love which is falsely
+attempted? Love is a familiar; Love is a devil:
+there is no evil angel but Love. Yet was Samson so
+tempted, and he had an excellent strength; yet was
+Solomon so seduced, and he had a very good wit.
+Cupid's butt-shaft is too hard for Hercules' club;
+and therefore too much odds for a Spaniard's rapier.
+The first and second cause will not serve my turn;
+the passado he respects not, the duello he regards
+not: his disgrace is to be called boy; but his
+glory is to subdue men. Adieu, valour! rust rapier!
+be still, drum! for your manager is in love; yea,
+he loveth. Assist me, some extemporal god of rhyme,
+for I am sure I shall turn sonnet. Devise, wit;
+write, pen; for I am for whole volumes in folio.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="486">[Exit]
+[Enter the PRINCESS of France, ROSALINE, MARIA,]
+KATHARINE, BOYET, Lords, and other Attendants]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="2">
+    <div type="scene" n="1">
+      <sp who="#Boyet">
+        <lb n="491">Now, madam, summon up your dearest spirits:
+Consider who the king your father sends,
+To whom he sends, and what's his embassy:
+Yourself, held precious in the world's esteem,
+To parley with the sole inheritor
+Of all perfections that a man may owe,
+Matchless Navarre; the plea of no less weight
+Than Aquitaine, a dowry for a queen.
+Be now as prodigal of all dear grace
+As Nature was in making graces dear
+When she did starve the general world beside
+And prodigally gave them all to you.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="503">Good Lord Boyet, my beauty, though but mean,
+Needs not the painted flourish of your praise:
+Beauty is bought by judgement of the eye,
+Not utter'd by base sale of chapmen's tongues:
+I am less proud to hear you tell my worth
+Than you much willing to be counted wise
+In spending your wit in the praise of mine.
+But now to task the tasker: good Boyet,
+You are not ignorant, all-telling fame
+Doth noise abroad, Navarre hath made a vow,
+Till painful study shall outwear three years,
+No woman may approach his silent court:
+Therefore to's seemeth it a needful course,
+Before we enter his forbidden gates,
+To know his pleasure; and in that behalf,
+Bold of your worthiness, we single you
+As our best-moving fair solicitor.
+Tell him, the daughter of the King of France,
+On serious business, craving quick dispatch,
+Importunes personal conference with his grace:
+Haste, signify so much; while we attend,
+Like humble-visaged suitors, his high will.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="525">Proud of employment, willingly I go.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="526">All pride is willing pride, and yours is so.
+[Exit BOYET]
+Who are the votaries, my loving lords,
+That are vow-fellows with this virtuous duke?</lb>
+      </sp>
+      <sp who="#First_Lord">
+        <lb n="530">Lord Longaville is one.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="531">Know you the man?</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="532">I know him, madam: at a marriage-feast,
+Between Lord Perigort and the beauteous heir
+Of Jaques Falconbridge, solemnized
+In Normandy, saw I this Longaville:
+A man of sovereign parts he is esteem'd;
+Well fitted in arts, glorious in arms:
+Nothing becomes him ill that he would well.
+The only soil of his fair virtue's gloss,
+If virtue's gloss will stain with any soil,
+Is a sharp wit matched with too blunt a will;
+Whose edge hath power to cut, whose will still wills
+It should none spare that come within his power.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="544">Some merry mocking lord, belike; is't so?</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="545">They say so most that most his humours know.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="546">Such short-lived wits do wither as they grow.
+Who are the rest?</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="548">The young Dumain, a well-accomplished youth,
+Of all that virtue love for virtue loved:
+Most power to do most harm, least knowing ill;
+For he hath wit to make an ill shape good,
+And shape to win grace though he had no wit.
+I saw him at the Duke Alencon's once;
+And much too little of that good I saw
+Is my report to his great worthiness.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="556">Another of these students at that time
+Was there with him, if I have heard a truth.
+Biron they call him; but a merrier man,
+Within the limit of becoming mirth,
+I never spent an hour's talk withal:
+His eye begets occasion for his wit;
+For every object that the one doth catch
+The other turns to a mirth-moving jest,
+Which his fair tongue, conceit's expositor,
+Delivers in such apt and gracious words
+That aged ears play truant at his tales
+And younger hearings are quite ravished;
+So sweet and voluble is his discourse.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="569">God bless my ladies! are they all in love,
+That every one her own hath garnished
+With such bedecking ornaments of praise?</lb>
+      </sp>
+      <sp who="#First_Lord">
+        <lb n="572">Here comes Boyet.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="573">[Re-enter BOYET]</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="574">Now, what admittance, lord?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="575">Navarre had notice of your fair approach;
+And he and his competitors in oath
+Were all address'd to meet you, gentle lady,
+Before I came. Marry, thus much I have learnt:
+He rather means to lodge you in the field,
+Like one that comes here to besiege his court,
+Than seek a dispensation for his oath,
+To let you enter his unpeopled house.
+Here comes Navarre.
+[Enter FERDINAND, LONGAVILLE, DUMAIN, BIRON, and]
+Attendants]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="586">Fair princess, welcome to the court of Navarre.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="587">'Fair' I give you back again; and 'welcome' I have
+not yet: the roof of this court is too high to be
+yours; and welcome to the wide fields too base to be mine.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="590">You shall be welcome, madam, to my court.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="591">I will be welcome, then: conduct me thither.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="592">Hear me, dear lady; I have sworn an oath.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="593">Our Lady help my lord! he'll be forsworn.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="594">Not for the world, fair madam, by my will.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="595">Why, will shall break it; will and nothing else.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="596">Your ladyship is ignorant what it is.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="597">Were my lord so, his ignorance were wise,
+Where now his knowledge must prove ignorance.
+I hear your grace hath sworn out house-keeping:
+Tis deadly sin to keep that oath, my lord,
+And sin to break it.
+But pardon me. I am too sudden-bold:
+To teach a teacher ill beseemeth me.
+Vouchsafe to read the purpose of my coming,
+And suddenly resolve me in my suit.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="606">Madam, I will, if suddenly I may.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="607">You will the sooner, that I were away;
+For you'll prove perjured if you make me stay.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="609">Did not I dance with you in Brabant once?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="610">Did not I dance with you in Brabant once?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="611">I know you did.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="612">How needless was it then to ask the question!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="613">You must not be so quick.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="614">'Tis 'long of you that spur me with such questions.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="615">Your wit's too hot, it speeds too fast, 'twill tire.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="616">Not till it leave the rider in the mire.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="617">What time o' day?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="618">The hour that fools should ask.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="619">Now fair befall your mask!</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="620">Fair fall the face it covers!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="621">And send you many lovers!</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="622">Amen, so you be none.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="623">Nay, then will I be gone.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="624">Madam, your father here doth intimate
+The payment of a hundred thousand crowns;
+Being but the one half of an entire sum
+Disbursed by my father in his wars.
+But say that he or we, as neither have,
+Received that sum, yet there remains unpaid
+A hundred thousand more; in surety of the which,
+One part of Aquitaine is bound to us,
+Although not valued to the money's worth.
+If then the king your father will restore
+But that one half which is unsatisfied,
+We will give up our right in Aquitaine,
+And hold fair friendship with his majesty.
+But that, it seems, he little purposeth,
+For here he doth demand to have repaid
+A hundred thousand crowns; and not demands,
+On payment of a hundred thousand crowns,
+To have his title live in Aquitaine;
+Which we much rather had depart withal
+And have the money by our father lent
+Than Aquitaine so gelded as it is.
+Dear Princess, were not his requests so far
+From reason's yielding, your fair self should make
+A yielding 'gainst some reason in my breast
+And go well satisfied to France again.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="649">You do the king my father too much wrong
+And wrong the reputation of your name,
+In so unseeming to confess receipt
+Of that which hath so faithfully been paid.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="653">I do protest I never heard of it;
+And if you prove it, I'll repay it back
+Or yield up Aquitaine.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="656">We arrest your word.
+Boyet, you can produce acquittances
+For such a sum from special officers
+Of Charles his father.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="660">Satisfy me so.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="661">So please your grace, the packet is not come
+Where that and other specialties are bound:
+To-morrow you shall have a sight of them.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="664">It shall suffice me: at which interview
+All liberal reason I will yield unto.
+Meantime receive such welcome at my hand
+As honour without breach of honour may
+Make tender of to thy true worthiness:
+You may not come, fair princess, in my gates;
+But here without you shall be so received
+As you shall deem yourself lodged in my heart,
+Though so denied fair harbour in my house.
+Your own good thoughts excuse me, and farewell:
+To-morrow shall we visit you again.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="675">Sweet health and fair desires consort your grace!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="676">Thy own wish wish I thee in every place!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="677">[Exit]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="678">Lady, I will commend you to mine own heart.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="679">Pray you, do my commendations; I would be glad to see it.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="680">I would you heard it groan.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="681">Is the fool sick?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="682">Sick at the heart.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="683">Alack, let it blood.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="684">Would that do it good?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="685">My physic says 'ay.'</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="686">Will you prick't with your eye?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="687">No point, with my knife.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="688">Now, God save thy life!</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="689">And yours from long living!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="690">I cannot stay thanksgiving.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="691">[Retiring]</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="692">Sir, I pray you, a word: what lady is that same?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="693">The heir of Alencon, Katharine her name.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="694">A gallant lady. Monsieur, fare you well.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="695">[Exit]</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="696">I beseech you a word: what is she in the white?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="697">A woman sometimes, an you saw her in the light.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="698">Perchance light in the light. I desire her name.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="699">She hath but one for herself; to desire that were a shame.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="700">Pray you, sir, whose daughter?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="701">Her mother's, I have heard.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="702">God's blessing on your beard!</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="703">Good sir, be not offended.
+She is an heir of Falconbridge.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="705">Nay, my choler is ended.
+She is a most sweet lady.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="707">Not unlike, sir, that may be.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="708">[Exit LONGAVILLE]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="709">What's her name in the cap?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="710">Rosaline, by good hap.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="711">Is she wedded or no?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="712">To her will, sir, or so.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="713">You are welcome, sir: adieu.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="714">Farewell to me, sir, and welcome to you.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="715">[Exit BIRON]</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="716">That last is Biron, the merry madcap lord:
+Not a word with him but a jest.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="718">And every jest but a word.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="719">It was well done of you to take him at his word.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="720">I was as willing to grapple as he was to board.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="721">Two hot sheeps, marry.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="722">And wherefore not ships?
+No sheep, sweet lamb, unless we feed on your lips.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="724">You sheep, and I pasture: shall that finish the jest?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="725">So you grant pasture for me.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="726">[Offering to kiss her]</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="727">Not so, gentle beast:
+My lips are no common, though several they be.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="729">Belonging to whom?</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="730">To my fortunes and me.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="731">Good wits will be jangling; but, gentles, agree:
+This civil war of wits were much better used
+On Navarre and his book-men; for here 'tis abused.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="734">If my observation, which very seldom lies,
+By the heart's still rhetoric disclosed with eyes,
+Deceive me not now, Navarre is infected.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="737">With what?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="738">With that which we lovers entitle affected.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="739">Your reason?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="740">Why, all his behaviors did make their retire
+To the court of his eye, peeping thorough desire:
+His heart, like an agate, with your print impress'd,
+Proud with his form, in his eye pride express'd:
+His tongue, all impatient to speak and not see,
+Did stumble with haste in his eyesight to be;
+All senses to that sense did make their repair,
+To feel only looking on fairest of fair:
+Methought all his senses were lock'd in his eye,
+As jewels in crystal for some prince to buy;
+Who, tendering their own worth from where they were glass'd,
+Did point you to buy them, along as you pass'd:
+His face's own margent did quote such amazes
+That all eyes saw his eyes enchanted with gazes.
+I'll give you Aquitaine and all that is his,
+An you give him for my sake but one loving kiss.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="756">Come to our pavilion: Boyet is disposed.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="757">But to speak that in words which his eye hath
+disclosed.
+I only have made a mouth of his eye,
+By adding a tongue which I know will not lie.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="761">Thou art an old love-monger and speakest skilfully.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="762">He is Cupid's grandfather and learns news of him.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="763">Then was Venus like her mother, for her father is but grim.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="764">Do you hear, my mad wenches?</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="765">No.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="766">What then, do you see?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="767">Ay, our way to be gone.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="768">You are too hard for me.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="769">[Exeunt]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="3">
+    <div type="scene" n="1">
+      <sp who="#(stage_directions)">
+        <lb n="772">[Enter DON ADRIANO DE ARMADO and MOTH]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="773">Warble, child; make passionate my sense of hearing.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="774">Concolinel.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="775">[Singing]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="776">Sweet air! Go, tenderness of years; take this key,
+give enlargement to the swain, bring him festinately
+hither: I must employ him in a letter to my love.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="779">Master, will you win your love with a French brawl?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="780">How meanest thou? brawling in French?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="781">No, my complete master: but to jig off a tune at
+the tongue's end, canary to it with your feet, humour
+it with turning up your eyelids, sigh a note and
+sing a note, sometime through the throat, as if you
+swallowed love with singing love, sometime through
+the nose, as if you snuffed up love by smelling
+love; with your hat penthouse-like o'er the shop of
+your eyes; with your arms crossed on your thin-belly
+doublet like a rabbit on a spit; or your hands in
+your pocket like a man after the old painting; and
+keep not too long in one tune, but a snip and away.
+These are complements, these are humours; these
+betray nice wenches, that would be betrayed without
+these; and make them men of note--do you note
+me?--that most are affected to these.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="796">How hast thou purchased this experience?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="797">By my penny of observation.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="798">But O,--but O,--</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="799">'The hobby-horse is forgot.'</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="800">Callest thou my love 'hobby-horse'?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="801">No, master; the hobby-horse is but a colt, and your
+love perhaps a hackney. But have you forgot your love?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="803">Almost I had.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="804">Negligent student! learn her by heart.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="805">By heart and in heart, boy.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="806">And out of heart, master: all those three I will prove.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="807">What wilt thou prove?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="808">A man, if I live; and this, by, in, and without, upon
+the instant: by heart you love her, because your
+heart cannot come by her; in heart you love her,
+because your heart is in love with her; and out of
+heart you love her, being out of heart that you
+cannot enjoy her.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="814">I am all these three.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="815">And three times as much more, and yet nothing at
+all.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="817">Fetch hither the swain: he must carry me a letter.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="818">A message well sympathized; a horse to be ambassador
+for an ass.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="820">Ha, ha! what sayest thou?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="821">Marry, sir, you must send the ass upon the horse,
+for he is very slow-gaited. But I go.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="823">The way is but short: away!</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="824">As swift as lead, sir.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="825">The meaning, pretty ingenious?
+Is not lead a metal heavy, dull, and slow?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="827">Minime, honest master; or rather, master, no.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="828">I say lead is slow.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="829">You are too swift, sir, to say so:
+Is that lead slow which is fired from a gun?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="831">Sweet smoke of rhetoric!
+He reputes me a cannon; and the bullet, that's he:
+I shoot thee at the swain.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="834">Thump then and I flee.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="835">[Exit]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="836">A most acute juvenal; voluble and free of grace!
+By thy favour, sweet welkin, I must sigh in thy face:
+Most rude melancholy, valour gives thee place.
+My herald is return'd.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="840">[Re-enter MOTH with COSTARD]</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="841">A wonder, master! here's a costard broken in a shin.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="842">Some enigma, some riddle: come, thy l'envoy; begin.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="843">No enigma, no riddle, no l'envoy; no salve in the
+mail, sir: O, sir, plantain, a plain plantain! no
+l'envoy, no l'envoy; no salve, sir, but a plantain!</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="846">By virtue, thou enforcest laughter; thy silly
+thought my spleen; the heaving of my lungs provokes
+me to ridiculous smiling. O, pardon me, my stars!
+Doth the inconsiderate take salve for l'envoy, and
+the word l'envoy for a salve?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="851">Do the wise think them other? is not l'envoy a salve?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="852">No, page: it is an epilogue or discourse, to make plain
+Some obscure precedence that hath tofore been sain.
+I will example it:
+The fox, the ape, and the humble-bee,
+Were still at odds, being but three.
+There's the moral. Now the l'envoy.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="858">I will add the l'envoy. Say the moral again.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="859">The fox, the ape, and the humble-bee,
+Were still at odds, being but three.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="861">Until the goose came out of door,
+And stay'd the odds by adding four.
+Now will I begin your moral, and do you follow with
+my l'envoy.
+The fox, the ape, and the humble-bee,
+Were still at odds, being but three.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="867">Until the goose came out of door,
+Staying the odds by adding four.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="869">A good l'envoy, ending in the goose: would you
+desire more?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="871">The boy hath sold him a bargain, a goose, that's flat.
+Sir, your pennyworth is good, an your goose be fat.
+To sell a bargain well is as cunning as fast and loose:
+Let me see; a fat l'envoy; ay, that's a fat goose.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="875">Come hither, come hither. How did this argument begin?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="876">By saying that a costard was broken in a shin.
+Then call'd you for the l'envoy.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="878">True, and I for a plantain: thus came your
+argument in;
+Then the boy's fat l'envoy, the goose that you bought;
+And he ended the market.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="882">But tell me; how was there a costard broken in a shin?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="883">I will tell you sensibly.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="884">Thou hast no feeling of it, Moth: I will speak that l'envoy:
+I Costard, running out, that was safely within,
+Fell over the threshold and broke my shin.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="887">We will talk no more of this matter.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="888">Till there be more matter in the shin.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="889">Sirrah Costard, I will enfranchise thee.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="890">O, marry me to one Frances: I smell some l'envoy,
+some goose, in this.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="892">By my sweet soul, I mean setting thee at liberty,
+enfreedoming thy person; thou wert immured,
+restrained, captivated, bound.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="895">True, true; and now you will be my purgation and let me loose.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="896">I give thee thy liberty, set thee from durance; and,
+in lieu thereof, impose on thee nothing but this:
+bear this significant
+[Giving a letter]
+to the country maid Jaquenetta:
+there is remuneration; for the best ward of mine
+honour is rewarding my dependents. Moth, follow.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="903">[Exit]</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="904">Like the sequel, I. Signior Costard, adieu.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="905">My sweet ounce of man's flesh! my incony Jew!
+[Exit MOTH]
+Now will I look to his remuneration. Remuneration!
+O, that's the Latin word for three farthings: three
+farthings--remuneration.--'What's the price of this
+inkle?'--'One penny.'--'No, I'll give you a
+remuneration:' why, it carries it. Remuneration!
+why, it is a fairer name than French crown. I will
+never buy and sell out of this word.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="914">[Enter BIRON]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="915">O, my good knave Costard! exceedingly well met.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="916">Pray you, sir, how much carnation ribbon may a man
+buy for a remuneration?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="918">What is a remuneration?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="919">Marry, sir, halfpenny farthing.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="920">Why, then, three-farthing worth of silk.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="921">I thank your worship: God be wi' you!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="922">Stay, slave; I must employ thee:
+As thou wilt win my favour, good my knave,
+Do one thing for me that I shall entreat.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="925">When would you have it done, sir?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="926">This afternoon.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="927">Well, I will do it, sir: fare you well.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="928">Thou knowest not what it is.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="929">I shall know, sir, when I have done it.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="930">Why, villain, thou must know first.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="931">I will come to your worship to-morrow morning.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="932">It must be done this afternoon.
+Hark, slave, it is but this:
+The princess comes to hunt here in the park,
+And in her train there is a gentle lady;
+When tongues speak sweetly, then they name her name,
+And Rosaline they call her: ask for her;
+And to her white hand see thou do commend
+This seal'd-up counsel. There's thy guerdon; go.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="940">[Giving him a shilling]</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="941">Gardon, O sweet gardon! better than remuneration,
+a'leven-pence farthing better: most sweet gardon! I
+will do it sir, in print. Gardon! Remuneration!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="944">[Exit]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="945">And I, forsooth, in love! I, that have been love's whip;
+A very beadle to a humorous sigh;
+A critic, nay, a night-watch constable;
+A domineering pedant o'er the boy;
+Than whom no mortal so magnificent!
+This whimpled, whining, purblind, wayward boy;
+This senior-junior, giant-dwarf, Dan Cupid;
+Regent of love-rhymes, lord of folded arms,
+The anointed sovereign of sighs and groans,
+Liege of all loiterers and malcontents,
+Dread prince of plackets, king of codpieces,
+Sole imperator and great general
+Of trotting 'paritors:--O my little heart:--
+And I to be a corporal of his field,
+And wear his colours like a tumbler's hoop!
+What, I! I love! I sue! I seek a wife!
+A woman, that is like a German clock,
+Still a-repairing, ever out of frame,
+And never going aright, being a watch,
+But being watch'd that it may still go right!
+Nay, to be perjured, which is worst of all;
+And, among three, to love the worst of all;
+A wightly wanton with a velvet brow,
+With two pitch-balls stuck in her face for eyes;
+Ay, and by heaven, one that will do the deed
+Though Argus were her eunuch and her guard:
+And I to sigh for her! to watch for her!
+To pray for her! Go to; it is a plague
+That Cupid will impose for my neglect
+Of his almighty dreadful little might.
+Well, I will love, write, sigh, pray, sue and groan:
+Some men must love my lady and some Joan.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="977">[Exit]
+[Enter the PRINCESS, and her train, a Forester,]
+BOYET, ROSALINE, MARIA, and KATHARINE]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="4">
+    <div type="scene" n="1">
+      <sp who="#Princess_of_France">
+        <lb n="982">Was that the king, that spurred his horse so hard
+Against the steep uprising of the hill?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="984">I know not; but I think it was not he.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="985">Whoe'er a' was, a' show'd a mounting mind.
+Well, lords, to-day we shall have our dispatch:
+On Saturday we will return to France.
+Then, forester, my friend, where is the bush
+That we must stand and play the murderer in?</lb>
+      </sp>
+      <sp who="#Forester">
+        <lb n="990">Hereby, upon the edge of yonder coppice;
+A stand where you may make the fairest shoot.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="992">I thank my beauty, I am fair that shoot,
+And thereupon thou speak'st the fairest shoot.</lb>
+      </sp>
+      <sp who="#Forester">
+        <lb n="994">Pardon me, madam, for I meant not so.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="995">What, what? first praise me and again say no?
+O short-lived pride! Not fair? alack for woe!</lb>
+      </sp>
+      <sp who="#Forester">
+        <lb n="997">Yes, madam, fair.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="998">Nay, never paint me now:
+Where fair is not, praise cannot mend the brow.
+Here, good my glass, take this for telling true:
+Fair payment for foul words is more than due.</lb>
+      </sp>
+      <sp who="#Forester">
+        <lb n="1002">Nothing but fair is that which you inherit.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1003">See see, my beauty will be saved by merit!
+O heresy in fair, fit for these days!
+A giving hand, though foul, shall have fair praise.
+But come, the bow: now mercy goes to kill,
+And shooting well is then accounted ill.
+Thus will I save my credit in the shoot:
+Not wounding, pity would not let me do't;
+If wounding, then it was to show my skill,
+That more for praise than purpose meant to kill.
+And out of question so it is sometimes,
+Glory grows guilty of detested crimes,
+When, for fame's sake, for praise, an outward part,
+We bend to that the working of the heart;
+As I for praise alone now seek to spill
+The poor deer's blood, that my heart means no ill.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1018">Do not curst wives hold that self-sovereignty
+Only for praise sake, when they strive to be
+Lords o'er their lords?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1021">Only for praise: and praise we may afford
+To any lady that subdues a lord.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1023">Here comes a member of the commonwealth.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1024">[Enter COSTARD]</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1025">God dig-you-den all! Pray you, which is the head lady?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1026">Thou shalt know her, fellow, by the rest that have no heads.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1027">Which is the greatest lady, the highest?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1028">The thickest and the tallest.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1029">The thickest and the tallest! it is so; truth is truth.
+An your waist, mistress, were as slender as my wit,
+One o' these maids' girdles for your waist should be fit.
+Are not you the chief woman? you are the thickest here.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1033">What's your will, sir? what's your will?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1034">I have a letter from Monsieur Biron to one Lady Rosaline.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1035">O, thy letter, thy letter! he's a good friend of mine:
+Stand aside, good bearer. Boyet, you can carve;
+Break up this capon.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1038">I am bound to serve.
+This letter is mistook, it importeth none here;
+It is writ to Jaquenetta.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1041">We will read it, I swear.
+Break the neck of the wax, and every one give ear.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1043">[Reads]</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1044">'By heaven, that thou art fair, is most infallible;
+true, that thou art beauteous; truth itself, that
+thou art lovely. More fairer than fair, beautiful
+than beauteous, truer than truth itself, have
+commiseration on thy heroical vassal! The
+magnanimous and most illustrate king Cophetua set
+eye upon the pernicious and indubitate beggar
+Zenelophon; and he it was that might rightly say,
+Veni, vidi, vici; which to annothanize in the
+vulgar,--O base and obscure vulgar!--videlicet, He
+came, saw, and overcame: he came, one; saw two;
+overcame, three. Who came? the king: why did he
+come? to see: why did he see? to overcome: to
+whom came he? to the beggar: what saw he? the
+beggar: who overcame he? the beggar. The
+conclusion is victory: on whose side? the king's.
+The captive is enriched: on whose side? the
+beggar's. The catastrophe is a nuptial: on whose
+side? the king's: no, on both in one, or one in
+both. I am the king; for so stands the comparison:
+thou the beggar; for so witnesseth thy lowliness.
+Shall I command thy love? I may: shall I enforce
+thy love? I could: shall I entreat thy love? I
+will. What shalt thou exchange for rags? robes;
+for tittles? titles; for thyself? me. Thus,
+expecting thy reply, I profane my lips on thy foot,
+my eyes on thy picture. and my heart on thy every
+part. Thine, in the dearest design of industry,
+DON ADRIANO DE ARMADO.'
+Thus dost thou hear the Nemean lion roar
+'Gainst thee, thou lamb, that standest as his prey.
+Submissive fall his princely feet before,
+And he from forage will incline to play:
+But if thou strive, poor soul, what art thou then?
+Food for his rage, repasture for his den.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1079">What plume of feathers is he that indited this letter?
+What vane? what weathercock? did you ever hear better?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1081">I am much deceived but I remember the style.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1082">Else your memory is bad, going o'er it erewhile.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1083">This Armado is a Spaniard, that keeps here in court;
+A phantasime, a Monarcho, and one that makes sport
+To the prince and his bookmates.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1086">Thou fellow, a word:
+Who gave thee this letter?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1088">I told you; my lord.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1089">To whom shouldst thou give it?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1090">From my lord to my lady.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1091">From which lord to which lady?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1092">From my lord Biron, a good master of mine,
+To a lady of France that he call'd Rosaline.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1094">Thou hast mistaken his letter. Come, lords, away.
+[To ROSALINE]
+Here, sweet, put up this: 'twill be thine another day.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1097">[Exeunt PRINCESS and train]</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1098">Who is the suitor? who is the suitor?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1099">Shall I teach you to know?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1100">Ay, my continent of beauty.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1101">Why, she that bears the bow.
+Finely put off!</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1103">My lady goes to kill horns; but, if thou marry,
+Hang me by the neck, if horns that year miscarry.
+Finely put on!</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1106">Well, then, I am the shooter.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1107">And who is your deer?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1108">If we choose by the horns, yourself come not near.
+Finely put on, indeed!</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="1110">You still wrangle with her, Boyet, and she strikes
+at the brow.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1112">But she herself is hit lower: have I hit her now?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1113">Shall I come upon thee with an old saying, that was
+a man when King Pepin of France was a little boy, as
+touching the hit it?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1116">So I may answer thee with one as old, that was a
+woman when Queen Guinover of Britain was a little
+wench, as touching the hit it.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1119">Thou canst not hit it, hit it, hit it,
+Thou canst not hit it, my good man.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1121">An I cannot, cannot, cannot,
+An I cannot, another can.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1123">[Exeunt ROSALINE and KATHARINE]</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1124">By my troth, most pleasant: how both did fit it!</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="1125">A mark marvellous well shot, for they both did hit it.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1126">A mark! O, mark but that mark! A mark, says my lady!
+Let the mark have a prick in't, to mete at, if it may be.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="1128">Wide o' the bow hand! i' faith, your hand is out.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1129">Indeed, a' must shoot nearer, or he'll ne'er hit the clout.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1130">An if my hand be out, then belike your hand is in.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1131">Then will she get the upshoot by cleaving the pin.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="1132">Come, come, you talk greasily; your lips grow foul.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1133">She's too hard for you at pricks, sir: challenge her to bowl.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1134">I fear too much rubbing. Good night, my good owl.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1135">[Exeunt BOYET and MARIA]</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1136">By my soul, a swain! a most simple clown!
+Lord, Lord, how the ladies and I have put him down!
+O' my troth, most sweet jests! most incony
+vulgar wit!
+When it comes so smoothly off, so obscenely, as it
+were, so fit.
+Armado o' th' one side,--O, a most dainty man!
+To see him walk before a lady and to bear her fan!
+To see him kiss his hand! and how most sweetly a'
+will swear!
+And his page o' t' other side, that handful of wit!
+Ah, heavens, it is a most pathetical nit!
+Sola, sola!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1149">[Shout within]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1150">[Exit COSTARD, running]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="1153">[Enter HOLOFERNES, SIR NATHANIEL, and DULL]</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1154">Very reverend sport, truly; and done in the testimony
+of a good conscience.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1156">The deer was, as you know, sanguis, in blood; ripe
+as the pomewater, who now hangeth like a jewel in
+the ear of caelo, the sky, the welkin, the heaven;
+and anon falleth like a crab on the face of terra,
+the soil, the land, the earth.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1161">Truly, Master Holofernes, the epithets are sweetly
+varied, like a scholar at the least: but, sir, I
+assure ye, it was a buck of the first head.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1164">Sir Nathaniel, haud credo.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1165">'Twas not a haud credo; 'twas a pricket.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1166">Most barbarous intimation! yet a kind of
+insinuation, as it were, in via, in way, of
+explication; facere, as it were, replication, or
+rather, ostentare, to show, as it were, his
+inclination, after his undressed, unpolished,
+uneducated, unpruned, untrained, or rather,
+unlettered, or ratherest, unconfirmed fashion, to
+insert again my haud credo for a deer.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1174">I said the deer was not a haud credo; twas a pricket.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1175">Twice-sod simplicity, his coctus!
+O thou monster Ignorance, how deformed dost thou look!</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1177">Sir, he hath never fed of the dainties that are bred
+in a book; he hath not eat paper, as it were; he
+hath not drunk ink: his intellect is not
+replenished; he is only an animal, only sensible in
+the duller parts:
+And such barren plants are set before us, that we
+thankful should be,
+Which we of taste and feeling are, for those parts that
+do fructify in us more than he.
+For as it would ill become me to be vain, indiscreet, or a fool,
+So were there a patch set on learning, to see him in a school:
+But omne bene, say I; being of an old father's mind,
+Many can brook the weather that love not the wind.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1190">You two are book-men: can you tell me by your wit
+What was a month old at Cain's birth, that's not five
+weeks old as yet?</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1193">Dictynna, goodman Dull; Dictynna, goodman Dull.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1194">What is Dictynna?</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1195">A title to Phoebe, to Luna, to the moon.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1196">The moon was a month old when Adam was no more,
+And raught not to five weeks when he came to
+five-score.
+The allusion holds in the exchange.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1200">'Tis true indeed; the collusion holds in the exchange.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1201">God comfort thy capacity! I say, the allusion holds
+in the exchange.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1203">And I say, the pollusion holds in the exchange; for
+the moon is never but a month old: and I say beside
+that, 'twas a pricket that the princess killed.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1206">Sir Nathaniel, will you hear an extemporal epitaph
+on the death of the deer? And, to humour the
+ignorant, call I the deer the princess killed a pricket.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1209">Perge, good Master Holofernes, perge; so it shall
+please you to abrogate scurrility.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1211">I will something affect the letter, for it argues facility.
+The preyful princess pierced and prick'd a pretty
+pleasing pricket;
+Some say a sore; but not a sore, till now made
+sore with shooting.
+The dogs did yell: put L to sore, then sorel jumps
+from thicket;
+Or pricket sore, or else sorel; the people fall a-hooting.
+If sore be sore, then L to sore makes fifty sores
+one sorel.
+Of one sore I an hundred make by adding but one more L.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1222">A rare talent!</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1223">[Aside] If a talent be a claw, look how he claws
+him with a talent.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1225">This is a gift that I have, simple, simple; a
+foolish extravagant spirit, full of forms, figures,
+shapes, objects, ideas, apprehensions, motions,
+revolutions: these are begot in the ventricle of
+memory, nourished in the womb of pia mater, and
+delivered upon the mellowing of occasion. But the
+gift is good in those in whom it is acute, and I am
+thankful for it.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1233">Sir, I praise the Lord for you; and so may my
+parishioners; for their sons are well tutored by
+you, and their daughters profit very greatly under
+you: you are a good member of the commonwealth.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1237">Mehercle, if their sons be ingenuous, they shall
+want no instruction; if their daughters be capable,
+I will put it to them: but vir sapit qui pauca
+loquitur; a soul feminine saluteth us.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1241">[Enter JAQUENETTA and COSTARD]</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="1242">God give you good morrow, master Parson.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1243">Master Parson, quasi pers-on. An if one should be
+pierced, which is the one?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1245">Marry, master schoolmaster, he that is likest to a hogshead.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1246">Piercing a hogshead! a good lustre of conceit in a
+tuft of earth; fire enough for a flint, pearl enough
+for a swine: 'tis pretty; it is well.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="1249">Good master Parson, be so good as read me this
+letter: it was given me by Costard, and sent me
+from Don Armado: I beseech you, read it.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1252">Fauste, precor gelida quando pecus omne sub umbra
+Ruminat,--and so forth. Ah, good old Mantuan! I
+may speak of thee as the traveller doth of Venice;
+Venetia, Venetia,
+Chi non ti vede non ti pretia.
+Old Mantuan, old Mantuan! who understandeth thee
+not, loves thee not. Ut, re, sol, la, mi, fa.
+Under pardon, sir, what are the contents? or rather,
+as Horace says in his--What, my soul, verses?</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1261">Ay, sir, and very learned.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1262">Let me hear a staff, a stanze, a verse; lege, domine.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1263">[Reads]
+If love make me forsworn, how shall I swear to love?
+Ah, never faith could hold, if not to beauty vow'd!
+Though to myself forsworn, to thee I'll faithful prove:
+Those thoughts to me were oaks, to thee like
+osiers bow'd.
+Study his bias leaves and makes his book thine eyes,
+Where all those pleasures live that art would
+comprehend:
+If knowledge be the mark, to know thee shall suffice;
+Well learned is that tongue that well can thee commend,
+All ignorant that soul that sees thee without wonder;
+Which is to me some praise that I thy parts admire:
+Thy eye Jove's lightning bears, thy voice his dreadful thunder,
+Which not to anger bent, is music and sweet fire.
+Celestial as thou art, O, pardon, love, this wrong,
+That sings heaven's praise with such an earthly tongue.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1280">You find not the apostraphas, and so miss the
+accent: let me supervise the canzonet. Here are
+only numbers ratified; but, for the elegancy,
+facility, and golden cadence of poesy, caret.
+Ovidius Naso was the man: and why, indeed, Naso,
+but for smelling out the odouriferous flowers of
+fancy, the jerks of invention? Imitari is nothing:
+so doth the hound his master, the ape his keeper,
+the tired horse his rider. But, damosella virgin,
+was this directed to you?</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="1290">Ay, sir, from one Monsieur Biron, one of the strange
+queen's lords.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1292">I will overglance the superscript: 'To the
+snow-white hand of the most beauteous Lady
+Rosaline.' I will look again on the intellect of
+the letter, for the nomination of the party writing
+to the person written unto: 'Your ladyship's in all
+desired employment, BIRON.' Sir Nathaniel, this
+Biron is one of the votaries with the king; and here
+he hath framed a letter to a sequent of the stranger
+queen's, which accidentally, or by the way of
+progression, hath miscarried. Trip and go, my
+sweet; deliver this paper into the royal hand of the
+king: it may concern much. Stay not thy
+compliment; I forgive thy duty; adieu.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="1305">Good Costard, go with me. Sir, God save your life!</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1306">Have with thee, my girl.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1307">[Exeunt COSTARD and JAQUENETTA]</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1308">Sir, you have done this in the fear of God, very
+religiously; and, as a certain father saith,--</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1310">Sir tell me not of the father; I do fear colourable
+colours. But to return to the verses: did they
+please you, Sir Nathaniel?</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1313">Marvellous well for the pen.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1314">I do dine to-day at the father's of a certain pupil
+of mine; where, if, before repast, it shall please
+you to gratify the table with a grace, I will, on my
+privilege I have with the parents of the foresaid
+child or pupil, undertake your ben venuto; where I
+will prove those verses to be very unlearned,
+neither savouring of poetry, wit, nor invention: I
+beseech your society.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1322">And thank you too; for society, saith the text, is
+the happiness of life.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1324">And, certes, the text most infallibly concludes it.
+[To DULL]
+Sir, I do invite you too; you shall not
+say me nay: pauca verba. Away! the gentles are at
+their game, and we will to our recreation.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1329">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="3">
+      <sp who="#(stage_directions)">
+        <lb n="1332">[Enter BIRON, with a paper]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1333">The king he is hunting the deer; I am coursing
+myself: they have pitched a toil; I am toiling in
+a pitch,--pitch that defiles: defile! a foul
+word. Well, set thee down, sorrow! for so they say
+the fool said, and so say I, and I the fool: well
+proved, wit! By the Lord, this love is as mad as
+Ajax: it kills sheep; it kills me, I a sheep:
+well proved again o' my side! I will not love: if
+I do, hang me; i' faith, I will not. O, but her
+eye,--by this light, but for her eye, I would not
+love her; yes, for her two eyes. Well, I do nothing
+in the world but lie, and lie in my throat. By
+heaven, I do love: and it hath taught me to rhyme
+and to be melancholy; and here is part of my rhyme,
+and here my melancholy. Well, she hath one o' my
+sonnets already: the clown bore it, the fool sent
+it, and the lady hath it: sweet clown, sweeter
+fool, sweetest lady! By the world, I would not care
+a pin, if the other three were in. Here comes one
+with a paper: God give him grace to groan!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1353">[Stands aside]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1354">[Enter FERDINAND, with a paper]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1355">Ay me!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1356">[Aside] Shot, by heaven! Proceed, sweet Cupid:
+thou hast thumped him with thy bird-bolt under the
+left pap. In faith, secrets!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1359">[Reads]
+So sweet a kiss the golden sun gives not
+To those fresh morning drops upon the rose,
+As thy eye-beams, when their fresh rays have smote
+The night of dew that on my cheeks down flows:
+Nor shines the silver moon one half so bright
+Through the transparent bosom of the deep,
+As doth thy face through tears of mine give light;
+Thou shinest in every tear that I do weep:
+No drop but as a coach doth carry thee;
+So ridest thou triumphing in my woe.
+Do but behold the tears that swell in me,
+And they thy glory through my grief will show:
+But do not love thyself; then thou wilt keep
+My tears for glasses, and still make me weep.
+O queen of queens! how far dost thou excel,
+No thought can think, nor tongue of mortal tell.
+How shall she know my griefs? I'll drop the paper:
+Sweet leaves, shade folly. Who is he comes here?
+[Steps aside]
+What, Longaville! and reading! listen, ear.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1380">Now, in thy likeness, one more fool appear!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1381">[Enter LONGAVILLE, with a paper]</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1382">Ay me, I am forsworn!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1383">Why, he comes in like a perjure, wearing papers.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1384">In love, I hope: sweet fellowship in shame!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1385">One drunkard loves another of the name.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1386">Am I the first that have been perjured so?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1387">I could put thee in comfort. Not by two that I know:
+Thou makest the triumviry, the corner-cap of society,
+The shape of Love's Tyburn that hangs up simplicity.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1390">I fear these stubborn lines lack power to move:
+O sweet Maria, empress of my love!
+These numbers will I tear, and write in prose.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1393">O, rhymes are guards on wanton Cupid's hose:
+Disfigure not his slop.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1395">This same shall go.
+[Reads]
+Did not the heavenly rhetoric of thine eye,
+'Gainst whom the world cannot hold argument,
+Persuade my heart to this false perjury?
+Vows for thee broke deserve not punishment.
+A woman I forswore; but I will prove,
+Thou being a goddess, I forswore not thee:
+My vow was earthly, thou a heavenly love;
+Thy grace being gain'd cures all disgrace in me.
+Vows are but breath, and breath a vapour is:
+Then thou, fair sun, which on my earth dost shine,
+Exhalest this vapour-vow; in thee it is:
+If broken then, it is no fault of mine:
+If by me broke, what fool is not so wise
+To lose an oath to win a paradise?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1411">This is the liver-vein, which makes flesh a deity,
+A green goose a goddess: pure, pure idolatry.
+God amend us, God amend! we are much out o' the way.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1414">By whom shall I send this?--Company! stay.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1415">[Steps aside]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1416">All hid, all hid; an old infant play.
+Like a demigod here sit I in the sky.
+And wretched fools' secrets heedfully o'ereye.
+More sacks to the mill! O heavens, I have my wish!
+[Enter DUMAIN, with a paper]
+Dumain transform'd! four woodcocks in a dish!</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1422">O most divine Kate!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1423">O most profane coxcomb!</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1424">By heaven, the wonder in a mortal eye!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1425">By earth, she is not, corporal, there you lie.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1426">Her amber hair for foul hath amber quoted.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1427">An amber-colour'd raven was well noted.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1428">As upright as the cedar.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1429">Stoop, I say;
+Her shoulder is with child.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1431">As fair as day.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1432">Ay, as some days; but then no sun must shine.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1433">O that I had my wish!</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1434">And I had mine!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1435">And I mine too, good Lord!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1436">Amen, so I had mine: is not that a good word?</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1437">I would forget her; but a fever she
+Reigns in my blood and will remember'd be.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1439">A fever in your blood! why, then incision
+Would let her out in saucers: sweet misprision!</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1441">Once more I'll read the ode that I have writ.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1442">Once more I'll mark how love can vary wit.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1443">[Reads]
+On a day--alack the day!--
+Love, whose month is ever May,
+Spied a blossom passing fair
+Playing in the wanton air:
+Through the velvet leaves the wind,
+All unseen, can passage find;
+That the lover, sick to death,
+Wish himself the heaven's breath.
+Air, quoth he, thy cheeks may blow;
+Air, would I might triumph so!
+But, alack, my hand is sworn
+Ne'er to pluck thee from thy thorn;
+Vow, alack, for youth unmeet,
+Youth so apt to pluck a sweet!
+Do not call it sin in me,
+That I am forsworn for thee;
+Thou for whom Jove would swear
+Juno but an Ethiope were;
+And deny himself for Jove,
+Turning mortal for thy love.
+This will I send, and something else more plain,
+That shall express my true love's fasting pain.
+O, would the king, Biron, and Longaville,
+Were lovers too! Ill, to example ill,
+Would from my forehead wipe a perjured note;
+For none offend where all alike do dote.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1470">[Advancing] Dumain, thy love is far from charity.
+You may look pale, but I should blush, I know,
+To be o'erheard and taken napping so.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1473">[Advancing] Come, sir, you blush; as his your case is such;
+You chide at him, offending twice as much;
+You do not love Maria; Longaville
+Did never sonnet for her sake compile,
+Nor never lay his wreathed arms athwart
+His loving bosom to keep down his heart.
+I have been closely shrouded in this bush
+And mark'd you both and for you both did blush:
+I heard your guilty rhymes, observed your fashion,
+Saw sighs reek from you, noted well your passion:
+Ay me! says one; O Jove! the other cries;
+One, her hairs were gold, crystal the other's eyes:
+[To LONGAVILLE]
+You would for paradise break faith, and troth;
+[To DUMAIN]
+And Jove, for your love, would infringe an oath.
+What will Biron say when that he shall hear
+Faith so infringed, which such zeal did swear?
+How will he scorn! how will he spend his wit!
+How will he triumph, leap and laugh at it!
+For all the wealth that ever I did see,
+I would not have him know so much by me.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1495">Now step I forth to whip hypocrisy.
+[Advancing]
+Ah, good my liege, I pray thee, pardon me!
+Good heart, what grace hast thou, thus to reprove
+These worms for loving, that art most in love?
+Your eyes do make no coaches; in your tears
+There is no certain princess that appears;
+You'll not be perjured, 'tis a hateful thing;
+Tush, none but minstrels like of sonneting!
+But are you not ashamed? nay, are you not,
+All three of you, to be thus much o'ershot?
+You found his mote; the king your mote did see;
+But I a beam do find in each of three.
+O, what a scene of foolery have I seen,
+Of sighs, of groans, of sorrow and of teen!
+O me, with what strict patience have I sat,
+To see a king transformed to a gnat!
+To see great Hercules whipping a gig,
+And profound Solomon to tune a jig,
+And Nestor play at push-pin with the boys,
+And critic Timon laugh at idle toys!
+Where lies thy grief, O, tell me, good Dumain?
+And gentle Longaville, where lies thy pain?
+And where my liege's? all about the breast:
+A caudle, ho!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1520">Too bitter is thy jest.
+Are we betray'd thus to thy over-view?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1522">Not you to me, but I betray'd by you:
+I, that am honest; I, that hold it sin
+To break the vow I am engaged in;
+I am betray'd, by keeping company
+With men like men of inconstancy.
+When shall you see me write a thing in rhyme?
+Or groan for love? or spend a minute's time
+In pruning me? When shall you hear that I
+Will praise a hand, a foot, a face, an eye,
+A gait, a state, a brow, a breast, a waist,
+A leg, a limb?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1533">Soft! whither away so fast?
+A true man or a thief that gallops so?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1535">I post from love: good lover, let me go.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1536">[Enter JAQUENETTA and COSTARD]</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="1537">God bless the king!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1538">What present hast thou there?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1539">Some certain treason.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1540">What makes treason here?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1541">Nay, it makes nothing, sir.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1542">If it mar nothing neither,
+The treason and you go in peace away together.</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="1544">I beseech your grace, let this letter be read:
+Our parson misdoubts it; 'twas treason, he said.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1546">Biron, read it over.
+[Giving him the paper]
+Where hadst thou it?</lb>
+      </sp>
+      <sp who="#Jaquenetta">
+        <lb n="1549">Of Costard.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1550">Where hadst thou it?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1551">Of Dun Adramadio, Dun Adramadio.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1552">[BIRON tears the letter]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1553">How now! what is in you? why dost thou tear it?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1554">A toy, my liege, a toy: your grace needs not fear it.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1555">It did move him to passion, and therefore let's hear it.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1556">It is Biron's writing, and here is his name.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1557">[Gathering up the pieces]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1558">[To COSTARD] Ah, you whoreson loggerhead! you were
+born to do me shame.
+Guilty, my lord, guilty! I confess, I confess.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1561">What?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1562">That you three fools lack'd me fool to make up the mess:
+He, he, and you, and you, my liege, and I,
+Are pick-purses in love, and we deserve to die.
+O, dismiss this audience, and I shall tell you more.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1566">Now the number is even.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1567">True, true; we are four.
+Will these turtles be gone?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1569">Hence, sirs; away!</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1570">Walk aside the true folk, and let the traitors stay.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1571">[Exeunt COSTARD and JAQUENETTA]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1572">Sweet lords, sweet lovers, O, let us embrace!
+As true we are as flesh and blood can be:
+The sea will ebb and flow, heaven show his face;
+Young blood doth not obey an old decree:
+We cannot cross the cause why we were born;
+Therefore of all hands must we be forsworn.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1578">What, did these rent lines show some love of thine?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1579">Did they, quoth you? Who sees the heavenly Rosaline,
+That, like a rude and savage man of Inde,
+At the first opening of the gorgeous east,
+Bows not his vassal head and strucken blind
+Kisses the base ground with obedient breast?
+What peremptory eagle-sighted eye
+Dares look upon the heaven of her brow,
+That is not blinded by her majesty?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1587">What zeal, what fury hath inspired thee now?
+My love, her mistress, is a gracious moon;
+She an attending star, scarce seen a light.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1590">My eyes are then no eyes, nor I Biron:
+O, but for my love, day would turn to night!
+Of all complexions the cull'd sovereignty
+Do meet, as at a fair, in her fair cheek,
+Where several worthies make one dignity,
+Where nothing wants that want itself doth seek.
+Lend me the flourish of all gentle tongues,--
+Fie, painted rhetoric! O, she needs it not:
+To things of sale a seller's praise belongs,
+She passes praise; then praise too short doth blot.
+A wither'd hermit, five-score winters worn,
+Might shake off fifty, looking in her eye:
+Beauty doth varnish age, as if new-born,
+And gives the crutch the cradle's infancy:
+O, 'tis the sun that maketh all things shine.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1605">By heaven, thy love is black as ebony.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1606">Is ebony like her? O wood divine!
+A wife of such wood were felicity.
+O, who can give an oath? where is a book?
+That I may swear beauty doth beauty lack,
+If that she learn not of her eye to look:
+No face is fair that is not full so black.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1612">O paradox! Black is the badge of hell,
+The hue of dungeons and the suit of night;
+And beauty's crest becomes the heavens well.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1615">Devils soonest tempt, resembling spirits of light.
+O, if in black my lady's brows be deck'd,
+It mourns that painting and usurping hair
+Should ravish doters with a false aspect;
+And therefore is she born to make black fair.
+Her favour turns the fashion of the days,
+For native blood is counted painting now;
+And therefore red, that would avoid dispraise,
+Paints itself black, to imitate her brow.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1624">To look like her are chimney-sweepers black.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1625">And since her time are colliers counted bright.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1626">And Ethiopes of their sweet complexion crack.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1627">Dark needs no candles now, for dark is light.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1628">Your mistresses dare never come in rain,
+For fear their colours should be wash'd away.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1630">'Twere good, yours did; for, sir, to tell you plain,
+I'll find a fairer face not wash'd to-day.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1632">I'll prove her fair, or talk till doomsday here.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1633">No devil will fright thee then so much as she.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1634">I never knew man hold vile stuff so dear.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1635">Look, here's thy love: my foot and her face see.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1636">O, if the streets were paved with thine eyes,
+Her feet were much too dainty for such tread!</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1638">O, vile! then, as she goes, what upward lies
+The street should see as she walk'd overhead.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1640">But what of this? are we not all in love?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1641">Nothing so sure; and thereby all forsworn.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1642">Then leave this chat; and, good Biron, now prove
+Our loving lawful, and our faith not torn.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1644">Ay, marry, there; some flattery for this evil.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1645">O, some authority how to proceed;
+Some tricks, some quillets, how to cheat the devil.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="1647">Some salve for perjury.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1648">'Tis more than need.
+Have at you, then, affection's men at arms.
+Consider what you first did swear unto,
+To fast, to study, and to see no woman;
+Flat treason 'gainst the kingly state of youth.
+Say, can you fast? your stomachs are too young;
+And abstinence engenders maladies.
+And where that you have vow'd to study, lords,
+In that each of you have forsworn his book,
+Can you still dream and pore and thereon look?
+For when would you, my lord, or you, or you,
+Have found the ground of study's excellence
+Without the beauty of a woman's face?
+[From women's eyes this doctrine I derive;]
+They are the ground, the books, the academes
+From whence doth spring the true Promethean fire]
+Why, universal plodding poisons up
+The nimble spirits in the arteries,
+As motion and long-during action tires
+The sinewy vigour of the traveller.
+Now, for not looking on a woman's face,
+You have in that forsworn the use of eyes
+And study too, the causer of your vow;
+For where is any author in the world
+Teaches such beauty as a woman's eye?
+Learning is but an adjunct to ourself
+And where we are our learning likewise is:
+Then when ourselves we see in ladies' eyes,
+Do we not likewise see our learning there?
+O, we have made a vow to study, lords,
+And in that vow we have forsworn our books.
+For when would you, my liege, or you, or you,
+In leaden contemplation have found out
+Such fiery numbers as the prompting eyes
+Of beauty's tutors have enrich'd you with?
+Other slow arts entirely keep the brain;
+And therefore, finding barren practisers,
+Scarce show a harvest of their heavy toil:
+But love, first learned in a lady's eyes,
+Lives not alone immured in the brain;
+But, with the motion of all elements,
+Courses as swift as thought in every power,
+And gives to every power a double power,
+Above their functions and their offices.
+It adds a precious seeing to the eye;
+A lover's eyes will gaze an eagle blind;
+A lover's ear will hear the lowest sound,
+When the suspicious head of theft is stopp'd:
+Love's feeling is more soft and sensible
+Than are the tender horns of cockl'd snails;
+Love's tongue proves dainty Bacchus gross in taste:
+For valour, is not Love a Hercules,
+Still climbing trees in the Hesperides?
+Subtle as Sphinx; as sweet and musical
+As bright Apollo's lute, strung with his hair:
+And when Love speaks, the voice of all the gods
+Makes heaven drowsy with the harmony.
+Never durst poet touch a pen to write
+Until his ink were temper'd with Love's sighs;
+O, then his lines would ravish savage ears
+And plant in tyrants mild humility.
+From women's eyes this doctrine I derive:
+They sparkle still the right Promethean fire;
+They are the books, the arts, the academes,
+That show, contain and nourish all the world:
+Else none at all in ought proves excellent.
+Then fools you were these women to forswear,
+Or keeping what is sworn, you will prove fools.
+For wisdom's sake, a word that all men love,
+Or for love's sake, a word that loves all men,
+Or for men's sake, the authors of these women,
+Or women's sake, by whom we men are men,
+Let us once lose our oaths to find ourselves,
+Or else we lose ourselves to keep our oaths.
+It is religion to be thus forsworn,
+For charity itself fulfills the law,
+And who can sever love from charity?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1725">Saint Cupid, then! and, soldiers, to the field!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1726">Advance your standards, and upon them, lords;
+Pell-mell, down with them! but be first advised,
+In conflict that you get the sun of them.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="1729">Now to plain-dealing; lay these glozes by:
+Shall we resolve to woo these girls of France?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1731">And win them too: therefore let us devise
+Some entertainment for them in their tents.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1733">First, from the park let us conduct them thither;
+Then homeward every man attach the hand
+Of his fair mistress: in the afternoon
+We will with some strange pastime solace them,
+Such as the shortness of the time can shape;
+For revels, dances, masks and merry hours
+Forerun fair Love, strewing her way with flowers.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="1740">Away, away! no time shall be omitted
+That will betime, and may by us be fitted.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="1742">Allons! allons! Sow'd cockle reap'd no corn;
+And justice always whirls in equal measure:
+Light wenches may prove plagues to men forsworn;
+If so, our copper buys no better treasure.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1746">[Exeunt]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="5">
+    <div type="scene" n="1">
+      <sp who="#(stage_directions)">
+        <lb n="1749">[Enter HOLOFERNES, SIR NATHANIEL, and DULL]</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1750">Satis quod sufficit.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1751">I praise God for you, sir: your reasons at dinner
+have been sharp and sententious; pleasant without
+scurrility, witty without affection, audacious without
+impudency, learned without opinion, and strange with-
+out heresy. I did converse this quondam day with
+a companion of the king's, who is intituled, nomi-
+nated, or called, Don Adriano de Armado.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1758">Novi hominem tanquam te: his humour is lofty, his
+discourse peremptory, his tongue filed, his eye
+ambitious, his gait majestical, and his general
+behavior vain, ridiculous, and thrasonical. He is
+too picked, too spruce, too affected, too odd, as it
+were, too peregrinate, as I may call it.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1764">A most singular and choice epithet.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1765">[Draws out his table-book]</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1766">He draweth out the thread of his verbosity finer
+than the staple of his argument. I abhor such
+fanatical phantasimes, such insociable and
+point-devise companions; such rackers of
+orthography, as to speak dout, fine, when he should
+say doubt; det, when he should pronounce debt,--d,
+e, b, t, not d, e, t: he clepeth a calf, cauf;
+half, hauf; neighbour vocatur nebor; neigh
+abbreviated ne. This is abhominable,--which he
+would call abbominable: it insinuateth me of
+insanie: anne intelligis, domine? to make frantic, lunatic.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1777">Laus Deo, bene intelligo.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1778">Bon, bon, fort bon, Priscian! a little scratch'd,
+'twill serve.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1780">Videsne quis venit?</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1781">Video, et gaudeo.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1782">[Enter DON ADRIANO DE ARMADO, MOTH, and COSTARD]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1783">Chirrah!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1784">[To MOTH]</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1785">Quare chirrah, not sirrah?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1786">Men of peace, well encountered.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1787">Most military sir, salutation.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1788">[Aside to COSTARD] They have been at a great feast
+of languages, and stolen the scraps.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1790">O, they have lived long on the alms-basket of words.
+I marvel thy master hath not eaten thee for a word;
+for thou art not so long by the head as
+honorificabilitudinitatibus: thou art easier
+swallowed than a flap-dragon.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1795">Peace! the peal begins.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1796">[To HOLOFERNES] Monsieur, are you not lettered?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1797">Yes, yes; he teaches boys the hornbook. What is a,
+b, spelt backward, with the horn on his head?</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1799">Ba, pueritia, with a horn added.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1800">Ba, most silly sheep with a horn. You hear his learning.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1801">Quis, quis, thou consonant?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1802">The third of the five vowels, if you repeat them; or
+the fifth, if I.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1804">I will repeat them,--a, e, i,--</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1805">The sheep: the other two concludes it,--o, u.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1806">Now, by the salt wave of the Mediterraneum, a sweet
+touch, a quick venue of wit! snip, snap, quick and
+home! it rejoiceth my intellect: true wit!</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1809">Offered by a child to an old man; which is wit-old.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1810">What is the figure? what is the figure?</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1811">Horns.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1812">Thou disputest like an infant: go, whip thy gig.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1813">Lend me your horn to make one, and I will whip about
+your infamy circum circa,--a gig of a cuckold's horn.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="1815">An I had but one penny in the world, thou shouldst
+have it to buy gingerbread: hold, there is the very
+remuneration I had of thy master, thou halfpenny
+purse of wit, thou pigeon-egg of discretion. O, an
+the heavens were so pleased that thou wert but my
+bastard, what a joyful father wouldst thou make me!
+Go to; thou hast it ad dunghill, at the fingers'
+ends, as they say.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1823">O, I smell false Latin; dunghill for unguem.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1824">Arts-man, preambulate, we will be singled from the
+barbarous. Do you not educate youth at the
+charge-house on the top of the mountain?</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1827">Or mons, the hill.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1828">At your sweet pleasure, for the mountain.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1829">I do, sans question.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1830">Sir, it is the king's most sweet pleasure and
+affection to congratulate the princess at her
+pavilion in the posteriors of this day, which the
+rude multitude call the afternoon.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1834">The posterior of the day, most generous sir, is
+liable, congruent and measurable for the afternoon:
+the word is well culled, chose, sweet and apt, I do
+assure you, sir, I do assure.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1838">Sir, the king is a noble gentleman, and my familiar,
+I do assure ye, very good friend: for what is
+inward between us, let it pass. I do beseech thee,
+remember thy courtesy; I beseech thee, apparel thy
+head: and among other important and most serious
+designs, and of great import indeed, too, but let
+that pass: for I must tell thee, it will please his
+grace, by the world, sometime to lean upon my poor
+shoulder, and with his royal finger, thus, dally
+with my excrement, with my mustachio; but, sweet
+heart, let that pass. By the world, I recount no
+fable: some certain special honours it pleaseth his
+greatness to impart to Armado, a soldier, a man of
+travel, that hath seen the world; but let that pass.
+The very all of all is,--but, sweet heart, I do
+implore secrecy,--that the king would have me
+present the princess, sweet chuck, with some
+delightful ostentation, or show, or pageant, or
+antique, or firework. Now, understanding that the
+curate and your sweet self are good at such
+eruptions and sudden breaking out of mirth, as it
+were, I have acquainted you withal, to the end to
+crave your assistance.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1861">Sir, you shall present before her the Nine Worthies.
+Sir, as concerning some entertainment of time, some
+show in the posterior of this day, to be rendered by
+our assistants, at the king's command, and this most
+gallant, illustrate, and learned gentleman, before
+the princess; I say none so fit as to present the
+Nine Worthies.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="1868">Where will you find men worthy enough to present them?</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1869">Joshua, yourself; myself and this gallant gentleman,
+Judas Maccabaeus; this swain, because of his great
+limb or joint, shall pass Pompey the Great; the
+page, Hercules,--</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1873">Pardon, sir; error: he is not quantity enough for
+that Worthy's thumb: he is not so big as the end of his club.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1875">Shall I have audience? he shall present Hercules in
+minority: his enter and exit shall be strangling a
+snake; and I will have an apology for that purpose.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1878">An excellent device! so, if any of the audience
+hiss, you may cry 'Well done, Hercules! now thou
+crushest the snake!' that is the way to make an
+offence gracious, though few have the grace to do it.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1882">For the rest of the Worthies?--</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1883">I will play three myself.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="1884">Thrice-worthy gentleman!</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1885">Shall I tell you a thing?</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1886">We attend.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="1887">We will have, if this fadge not, an antique. I
+beseech you, follow.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1889">Via, goodman Dull! thou hast spoken no word all this while.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1890">Nor understood none neither, sir.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1891">Allons! we will employ thee.</lb>
+      </sp>
+      <sp who="#Dull">
+        <lb n="1892">I'll make one in a dance, or so; or I will play
+On the tabour to the Worthies, and let them dance the hay.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="1894">Most dull, honest Dull! To our sport, away!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1895">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="1898">[Enter the PRINCESS, KATHARINE, ROSALINE, and MARIA]</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1899">Sweet hearts, we shall be rich ere we depart,
+If fairings come thus plentifully in:
+A lady wall'd about with diamonds!
+Look you what I have from the loving king.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1903">Madame, came nothing else along with that?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1904">Nothing but this! yes, as much love in rhyme
+As would be cramm'd up in a sheet of paper,
+Writ o' both sides the leaf, margent and all,
+That he was fain to seal on Cupid's name.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1908">That was the way to make his godhead wax,
+For he hath been five thousand years a boy.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1910">Ay, and a shrewd unhappy gallows too.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1911">You'll ne'er be friends with him; a' kill'd your sister.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1912">He made her melancholy, sad, and heavy;
+And so she died: had she been light, like you,
+Of such a merry, nimble, stirring spirit,
+She might ha' been a grandam ere she died:
+And so may you; for a light heart lives long.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1917">What's your dark meaning, mouse, of this light word?</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1918">A light condition in a beauty dark.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1919">We need more light to find your meaning out.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1920">You'll mar the light by taking it in snuff;
+Therefore I'll darkly end the argument.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1922">Look what you do, you do it still i' the dark.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1923">So do not you, for you are a light wench.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1924">Indeed I weigh not you, and therefore light.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1925">You weigh me not? O, that's you care not for me.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1926">Great reason; for 'past cure is still past care.'</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1927">Well bandied both; a set of wit well play'd.
+But Rosaline, you have a favour too:
+Who sent it? and what is it?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1930">I would you knew:
+An if my face were but as fair as yours,
+My favour were as great; be witness this.
+Nay, I have verses too, I thank Biron:
+The numbers true; and, were the numbering too,
+I were the fairest goddess on the ground:
+I am compared to twenty thousand fairs.
+O, he hath drawn my picture in his letter!</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1938">Any thing like?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1939">Much in the letters; nothing in the praise.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1940">Beauteous as ink; a good conclusion.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1941">Fair as a text B in a copy-book.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1942">'Ware pencils, ho! let me not die your debtor,
+My red dominical, my golden letter:
+O, that your face were not so full of O's!</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1945">A pox of that jest! and I beshrew all shrows.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1946">But, Katharine, what was sent to you from fair Dumain?</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1947">Madam, this glove.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1948">Did he not send you twain?</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="1949">Yes, madam, and moreover
+Some thousand verses of a faithful lover,
+A huge translation of hypocrisy,
+Vilely compiled, profound simplicity.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="1953">This and these pearls to me sent Longaville:
+The letter is too long by half a mile.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1955">I think no less. Dost thou not wish in heart
+The chain were longer and the letter short?</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="1957">Ay, or I would these hands might never part.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1958">We are wise girls to mock our lovers so.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1959">They are worse fools to purchase mocking so.
+That same Biron I'll torture ere I go:
+O that I knew he were but in by the week!
+How I would make him fawn and beg and seek
+And wait the season and observe the times
+And spend his prodigal wits in bootless rhymes
+And shape his service wholly to my hests
+And make him proud to make me proud that jests!
+So perttaunt-like would I o'ersway his state
+That he should be my fool and I his fate.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1969">None are so surely caught, when they are catch'd,
+As wit turn'd fool: folly, in wisdom hatch'd,
+Hath wisdom's warrant and the help of school
+And wit's own grace to grace a learned fool.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="1973">The blood of youth burns not with such excess
+As gravity's revolt to wantonness.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="1975">Folly in fools bears not so strong a note
+As foolery in the wise, when wit doth dote;
+Since all the power thereof it doth apply
+To prove, by wit, worth in simplicity.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1979">Here comes Boyet, and mirth is in his face.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1980">[Enter BOYET]</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1981">O, I am stabb'd with laughter! Where's her grace?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1982">Thy news Boyet?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1983">Prepare, madam, prepare!
+Arm, wenches, arm! encounters mounted are
+Against your peace: Love doth approach disguised,
+Armed in arguments; you'll be surprised:
+Muster your wits; stand in your own defence;
+Or hide your heads like cowards, and fly hence.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="1989">Saint Denis to Saint Cupid! What are they
+That charge their breath against us? say, scout, say.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="1991">Under the cool shade of a sycamore
+I thought to close mine eyes some half an hour;
+When, lo! to interrupt my purposed rest,
+Toward that shade I might behold addrest
+The king and his companions: warily
+I stole into a neighbour thicket by,
+And overheard what you shall overhear,
+That, by and by, disguised they will be here.
+Their herald is a pretty knavish page,
+That well by heart hath conn'd his embassage:
+Action and accent did they teach him there;
+'Thus must thou speak,' and 'thus thy body bear:'
+And ever and anon they made a doubt
+Presence majestical would put him out,
+'For,' quoth the king, 'an angel shalt thou see;
+Yet fear not thou, but speak audaciously.'
+The boy replied, 'An angel is not evil;
+I should have fear'd her had she been a devil.'
+With that, all laugh'd and clapp'd him on the shoulder,
+Making the bold wag by their praises bolder:
+One rubb'd his elbow thus, and fleer'd and swore
+A better speech was never spoke before;
+Another, with his finger and his thumb,
+Cried, 'Via! we will do't, come what will come;'
+The third he caper'd, and cried, 'All goes well;'
+The fourth turn'd on the toe, and down he fell.
+With that, they all did tumble on the ground,
+With such a zealous laughter, so profound,
+That in this spleen ridiculous appears,
+To cheque their folly, passion's solemn tears.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2021">But what, but what, come they to visit us?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2022">They do, they do: and are apparell'd thus.
+Like Muscovites or Russians, as I guess.
+Their purpose is to parle, to court and dance;
+And every one his love-feat will advance
+Unto his several mistress, which they'll know
+By favours several which they did bestow.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2028">And will they so? the gallants shall be task'd;
+For, ladies, we shall every one be mask'd;
+And not a man of them shall have the grace,
+Despite of suit, to see a lady's face.
+Hold, Rosaline, this favour thou shalt wear,
+And then the king will court thee for his dear;
+Hold, take thou this, my sweet, and give me thine,
+So shall Biron take me for Rosaline.
+And change your favours too; so shall your loves
+Woo contrary, deceived by these removes.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2038">Come on, then; wear the favours most in sight.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2039">But in this changing what is your intent?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2040">The effect of my intent is to cross theirs:
+They do it but in mocking merriment;
+And mock for mock is only my intent.
+Their several counsels they unbosom shall
+To loves mistook, and so be mock'd withal
+Upon the next occasion that we meet,
+With visages displayed, to talk and greet.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2047">But shall we dance, if they desire to't?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2048">No, to the death, we will not move a foot;
+Nor to their penn'd speech render we no grace,
+But while 'tis spoke each turn away her face.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2051">Why, that contempt will kill the speaker's heart,
+And quite divorce his memory from his part.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2053">Therefore I do it; and I make no doubt
+The rest will ne'er come in, if he be out
+There's no such sport as sport by sport o'erthrown,
+To make theirs ours and ours none but our own:
+So shall we stay, mocking intended game,
+And they, well mock'd, depart away with shame.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2059">[Trumpets sound within]</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2060">The trumpet sounds: be mask'd; the maskers come.
+[The Ladies mask]
+[Enter Blackamoors with music; MOTH; FERDINAND,]
+BIRON, LONGAVILLE, and DUMAIN, in Russian habits,
+and masked]</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="2065">All hail, the richest beauties on the earth!--</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2066">Beauties no richer than rich taffeta.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="2067">A holy parcel of the fairest dames.
+[The Ladies turn their backs to him]
+That ever turn'd their--backs--to mortal views!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2070">[Aside to MOTH] Their eyes, villain, their eyes!</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="2071">That ever turn'd their eyes to mortal views!--Out--</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2072">True; out indeed.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="2073">Out of your favours, heavenly spirits, vouchsafe
+Not to behold--</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2075">[Aside to MOTH] Once to behold, rogue.</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="2076">Once to behold with your sun-beamed eyes,
+--with your sun-beamed eyes--</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2078">They will not answer to that epithet;
+You were best call it 'daughter-beamed eyes.'</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="2080">They do not mark me, and that brings me out.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2081">Is this your perfectness? be gone, you rogue!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2082">[Exit MOTH]</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2083">What would these strangers? know their minds, Boyet:
+If they do speak our language, 'tis our will:
+That some plain man recount their purposes
+Know what they would.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2087">What would you with the princess?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2088">Nothing but peace and gentle visitation.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2089">What would they, say they?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2090">Nothing but peace and gentle visitation.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2091">Why, that they have; and bid them so be gone.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2092">She says, you have it, and you may be gone.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2093">Say to her, we have measured many miles
+To tread a measure with her on this grass.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2095">They say, that they have measured many a mile
+To tread a measure with you on this grass.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2097">It is not so. Ask them how many inches
+Is in one mile: if they have measured many,
+The measure then of one is easily told.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2100">If to come hither you have measured miles,
+And many miles, the princess bids you tell
+How many inches doth fill up one mile.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2103">Tell her, we measure them by weary steps.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2104">She hears herself.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2105">How many weary steps,
+Of many weary miles you have o'ergone,
+Are number'd in the travel of one mile?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2108">We number nothing that we spend for you:
+Our duty is so rich, so infinite,
+That we may do it still without accompt.
+Vouchsafe to show the sunshine of your face,
+That we, like savages, may worship it.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2113">My face is but a moon, and clouded too.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2114">Blessed are clouds, to do as such clouds do!
+Vouchsafe, bright moon, and these thy stars, to shine,
+Those clouds removed, upon our watery eyne.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2117">O vain petitioner! beg a greater matter;
+Thou now request'st but moonshine in the water.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2119">Then, in our measure do but vouchsafe one change.
+Thou bid'st me beg: this begging is not strange.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2121">Play, music, then! Nay, you must do it soon.
+[Music plays]
+Not yet! no dance! Thus change I like the moon.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2124">Will you not dance? How come you thus estranged?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2125">You took the moon at full, but now she's changed.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2126">Yet still she is the moon, and I the man.
+The music plays; vouchsafe some motion to it.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2128">Our ears vouchsafe it.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2129">But your legs should do it.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2130">Since you are strangers and come here by chance,
+We'll not be nice: take hands. We will not dance.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2132">Why take we hands, then?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2133">Only to part friends:
+Curtsy, sweet hearts; and so the measure ends.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2135">More measure of this measure; be not nice.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2136">We can afford no more at such a price.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2137">Prize you yourselves: what buys your company?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2138">Your absence only.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2139">That can never be.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2140">Then cannot we be bought: and so, adieu;
+Twice to your visor, and half once to you.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2142">If you deny to dance, let's hold more chat.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2143">In private, then.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2144">I am best pleased with that.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2145">[They converse apart]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2146">White-handed mistress, one sweet word with thee.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2147">Honey, and milk, and sugar; there is three.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2148">Nay then, two treys, and if you grow so nice,
+Metheglin, wort, and malmsey: well run, dice!
+There's half-a-dozen sweets.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2151">Seventh sweet, adieu:
+Since you can cog, I'll play no more with you.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2153">One word in secret.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2154">Let it not be sweet.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2155">Thou grievest my gall.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2156">Gall! bitter.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2157">Therefore meet.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2158">[They converse apart]</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2159">Will you vouchsafe with me to change a word?</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="2160">Name it.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2161">Fair lady,--</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="2162">Say you so? Fair lord,--
+Take that for your fair lady.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2164">Please it you,
+As much in private, and I'll bid adieu.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2166">[They converse apart]</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2167">What, was your vizard made without a tongue?</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2168">I know the reason, lady, why you ask.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2169">O for your reason! quickly, sir; I long.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2170">You have a double tongue within your mask,
+And would afford my speechless vizard half.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2172">Veal, quoth the Dutchman. Is not 'veal' a calf?</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2173">A calf, fair lady!</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2174">No, a fair lord calf.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2175">Let's part the word.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2176">No, I'll not be your half
+Take all, and wean it; it may prove an ox.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2178">Look, how you butt yourself in these sharp mocks!
+Will you give horns, chaste lady? do not so.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2180">Then die a calf, before your horns do grow.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2181">One word in private with you, ere I die.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2182">Bleat softly then; the butcher hears you cry.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2183">[They converse apart]</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2184">The tongues of mocking wenches are as keen
+As is the razor's edge invisible,
+Cutting a smaller hair than may be seen,
+Above the sense of sense; so sensible
+Seemeth their conference; their conceits have wings
+Fleeter than arrows, bullets, wind, thought, swifter things.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2190">Not one word more, my maids; break off, break off.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2191">By heaven, all dry-beaten with pure scoff!</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2192">Farewell, mad wenches; you have simple wits.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2193">Twenty adieus, my frozen Muscovits.
+[Exeunt FERDINAND, Lords, and Blackamoors]
+Are these the breed of wits so wonder'd at?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2196">Tapers they are, with your sweet breaths puff'd out.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2197">Well-liking wits they have; gross, gross; fat, fat.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2198">O poverty in wit, kingly-poor flout!
+Will they not, think you, hang themselves tonight?
+Or ever, but in vizards, show their faces?
+This pert Biron was out of countenance quite.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2202">O, they were all in lamentable cases!
+The king was weeping-ripe for a good word.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2204">Biron did swear himself out of all suit.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="2205">Dumain was at my service, and his sword:
+No point, quoth I; my servant straight was mute.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2207">Lord Longaville said, I came o'er his heart;
+And trow you what he called me?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2209">Qualm, perhaps.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2210">Yes, in good faith.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2211">Go, sickness as thou art!</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2212">Well, better wits have worn plain statute-caps.
+But will you hear? the king is my love sworn.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2214">And quick Biron hath plighted faith to me.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2215">And Longaville was for my service born.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="2216">Dumain is mine, as sure as bark on tree.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2217">Madam, and pretty mistresses, give ear:
+Immediately they will again be here
+In their own shapes; for it can never be
+They will digest this harsh indignity.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2221">Will they return?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2222">They will, they will, God knows,
+And leap for joy, though they are lame with blows:
+Therefore change favours; and, when they repair,
+Blow like sweet roses in this summer air.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2226">How blow? how blow? speak to be understood.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2227">Fair ladies mask'd are roses in their bud;
+Dismask'd, their damask sweet commixture shown,
+Are angels vailing clouds, or roses blown.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2230">Avaunt, perplexity! What shall we do,
+If they return in their own shapes to woo?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2232">Good madam, if by me you'll be advised,
+Let's, mock them still, as well known as disguised:
+Let us complain to them what fools were here,
+Disguised like Muscovites, in shapeless gear;
+And wonder what they were and to what end
+Their shallow shows and prologue vilely penn'd
+And their rough carriage so ridiculous,
+Should be presented at our tent to us.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2240">Ladies, withdraw: the gallants are at hand.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2241">Whip to our tents, as roes run o'er land.
+[Exeunt PRINCESS, ROSALINE, KATHARINE, and MARIA]
+[Re-enter FERDINAND, BIRON, LONGAVILLE, and DUMAIN,]
+in their proper habits]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2245">Fair sir, God save you! Where's the princess?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2246">Gone to her tent. Please it your majesty
+Command me any service to her thither?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2248">That she vouchsafe me audience for one word.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2249">I will; and so will she, I know, my lord.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2250">[Exit]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2251">This fellow pecks up wit as pigeons pease,
+And utters it again when God doth please:
+He is wit's pedler, and retails his wares
+At wakes and wassails, meetings, markets, fairs;
+And we that sell by gross, the Lord doth know,
+Have not the grace to grace it with such show.
+This gallant pins the wenches on his sleeve;
+Had he been Adam, he had tempted Eve;
+A' can carve too, and lisp: why, this is he
+That kiss'd his hand away in courtesy;
+This is the ape of form, monsieur the nice,
+That, when he plays at tables, chides the dice
+In honourable terms: nay, he can sing
+A mean most meanly; and in ushering
+Mend him who can: the ladies call him sweet;
+The stairs, as he treads on them, kiss his feet:
+This is the flower that smiles on every one,
+To show his teeth as white as whale's bone;
+And consciences, that will not die in debt,
+Pay him the due of honey-tongued Boyet.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2271">A blister on his sweet tongue, with my heart,
+That put Armado's page out of his part!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2273">See where it comes! Behavior, what wert thou
+Till this madman show'd thee? and what art thou now?
+[Re-enter the PRINCESS, ushered by BOYET, ROSALINE,]
+MARIA, and KATHARINE]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2277">All hail, sweet madam, and fair time of day!</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2278">'Fair' in 'all hail' is foul, as I conceive.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2279">Construe my speeches better, if you may.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2280">Then wish me better; I will give you leave.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2281">We came to visit you, and purpose now
+To lead you to our court; vouchsafe it then.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2283">This field shall hold me; and so hold your vow:
+Nor God, nor I, delights in perjured men.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2285">Rebuke me not for that which you provoke:
+The virtue of your eye must break my oath.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2287">You nickname virtue; vice you should have spoke;
+For virtue's office never breaks men's troth.
+Now by my maiden honour, yet as pure
+As the unsullied lily, I protest,
+A world of torments though I should endure,
+I would not yield to be your house's guest;
+So much I hate a breaking cause to be
+Of heavenly oaths, vow'd with integrity.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2295">O, you have lived in desolation here,
+Unseen, unvisited, much to our shame.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2297">Not so, my lord; it is not so, I swear;
+We have had pastimes here and pleasant game:
+A mess of Russians left us but of late.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2300">How, madam! Russians!</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2301">Ay, in truth, my lord;
+Trim gallants, full of courtship and of state.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2303">Madam, speak true. It is not so, my lord:
+My lady, to the manner of the days,
+In courtesy gives undeserving praise.
+We four indeed confronted were with four
+In Russian habit: here they stay'd an hour,
+And talk'd apace; and in that hour, my lord,
+They did not bless us with one happy word.
+I dare not call them fools; but this I think,
+When they are thirsty, fools would fain have drink.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2312">This jest is dry to me. Fair gentle sweet,
+Your wit makes wise things foolish: when we greet,
+With eyes best seeing, heaven's fiery eye,
+By light we lose light: your capacity
+Is of that nature that to your huge store
+Wise things seem foolish and rich things but poor.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2318">This proves you wise and rich, for in my eye,--</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2319">I am a fool, and full of poverty.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2320">But that you take what doth to you belong,
+It were a fault to snatch words from my tongue.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2322">O, I am yours, and all that I possess!</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2323">All the fool mine?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2324">I cannot give you less.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2325">Which of the vizards was it that you wore?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2326">Where? when? what vizard? why demand you this?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2327">There, then, that vizard; that superfluous case
+That hid the worse and show'd the better face.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2329">We are descried; they'll mock us now downright.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2330">Let us confess and turn it to a jest.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2331">Amazed, my lord? why looks your highness sad?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2332">Help, hold his brows! he'll swoon! Why look you pale?
+Sea-sick, I think, coming from Muscovy.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2334">Thus pour the stars down plagues for perjury.
+Can any face of brass hold longer out?
+Here stand I. lady, dart thy skill at me;
+Bruise me with scorn, confound me with a flout;
+Thrust thy sharp wit quite through my ignorance;
+Cut me to pieces with thy keen conceit;
+And I will wish thee never more to dance,
+Nor never more in Russian habit wait.
+O, never will I trust to speeches penn'd,
+Nor to the motion of a schoolboy's tongue,
+Nor never come in vizard to my friend,
+Nor woo in rhyme, like a blind harper's song!
+Taffeta phrases, silken terms precise,
+Three-piled hyperboles, spruce affectation,
+Figures pedantical; these summer-flies
+Have blown me full of maggot ostentation:
+I do forswear them; and I here protest,
+By this white glove;--how white the hand, God knows!--
+Henceforth my wooing mind shall be express'd
+In russet yeas and honest kersey noes:
+And, to begin, wench,--so God help me, la!--
+My love to thee is sound, sans crack or flaw.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2356">Sans sans, I pray you.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2357">Yet I have a trick
+Of the old rage: bear with me, I am sick;
+I'll leave it by degrees. Soft, let us see:
+Write, 'Lord have mercy on us' on those three;
+They are infected; in their hearts it lies;
+They have the plague, and caught it of your eyes;
+These lords are visited; you are not free,
+For the Lord's tokens on you do I see.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2365">No, they are free that gave these tokens to us.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2366">Our states are forfeit: seek not to undo us.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2367">It is not so; for how can this be true,
+That you stand forfeit, being those that sue?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2369">Peace! for I will not have to do with you.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2370">Nor shall not, if I do as I intend.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2371">Speak for yourselves; my wit is at an end.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2372">Teach us, sweet madam, for our rude transgression
+Some fair excuse.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2374">The fairest is confession.
+Were not you here but even now disguised?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2376">Madam, I was.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2377">And were you well advised?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2378">I was, fair madam.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2379">When you then were here,
+What did you whisper in your lady's ear?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2381">That more than all the world I did respect her.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2382">When she shall challenge this, you will reject her.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2383">Upon mine honour, no.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2384">Peace, peace! forbear:
+Your oath once broke, you force not to forswear.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2386">Despise me, when I break this oath of mine.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2387">I will: and therefore keep it. Rosaline,
+What did the Russian whisper in your ear?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2389">Madam, he swore that he did hold me dear
+As precious eyesight, and did value me
+Above this world; adding thereto moreover
+That he would wed me, or else die my lover.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2393">God give thee joy of him! the noble lord
+Most honourably doth unhold his word.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2395">What mean you, madam? by my life, my troth,
+I never swore this lady such an oath.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2397">By heaven, you did; and to confirm it plain,
+You gave me this: but take it, sir, again.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2399">My faith and this the princess I did give:
+I knew her by this jewel on her sleeve.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2401">Pardon me, sir, this jewel did she wear;
+And Lord Biron, I thank him, is my dear.
+What, will you have me, or your pearl again?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2404">Neither of either; I remit both twain.
+I see the trick on't: here was a consent,
+Knowing aforehand of our merriment,
+To dash it like a Christmas comedy:
+Some carry-tale, some please-man, some slight zany,
+Some mumble-news, some trencher-knight, some Dick,
+That smiles his cheek in years and knows the trick
+To make my lady laugh when she's disposed,
+Told our intents before; which once disclosed,
+The ladies did change favours: and then we,
+Following the signs, woo'd but the sign of she.
+Now, to our perjury to add more terror,
+We are again forsworn, in will and error.
+Much upon this it is: and might not you
+[To BOYET]
+Forestall our sport, to make us thus untrue?
+Do not you know my lady's foot by the squier,
+And laugh upon the apple of her eye?
+And stand between her back, sir, and the fire,
+Holding a trencher, jesting merrily?
+You put our page out: go, you are allow'd;
+Die when you will, a smock shall be your shroud.
+You leer upon me, do you? there's an eye
+Wounds like a leaden sword.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2428">Full merrily
+Hath this brave manage, this career, been run.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2430">Lo, he is tilting straight! Peace! I have done.
+[Enter COSTARD]
+Welcome, pure wit! thou partest a fair fray.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2433">O Lord, sir, they would know
+Whether the three Worthies shall come in or no.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2435">What, are there but three?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2436">No, sir; but it is vara fine,
+For every one pursents three.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2438">And three times thrice is nine.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2439">Not so, sir; under correction, sir; I hope it is not so.
+You cannot beg us, sir, I can assure you, sir we know
+what we know:
+I hope, sir, three times thrice, sir,--</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2443">Is not nine.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2444">Under correction, sir, we know whereuntil it doth amount.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2445">By Jove, I always took three threes for nine.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2446">O Lord, sir, it were pity you should get your living
+by reckoning, sir.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2448">How much is it?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2449">O Lord, sir, the parties themselves, the actors,
+sir, will show whereuntil it doth amount: for mine
+own part, I am, as they say, but to parfect one man
+in one poor man, Pompion the Great, sir.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2453">Art thou one of the Worthies?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2454">It pleased them to think me worthy of Pompion the
+Great: for mine own part, I know not the degree of
+the Worthy, but I am to stand for him.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2457">Go, bid them prepare.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2458">We will turn it finely off, sir; we will take
+some care.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2460">[Exit]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2461">Biron, they will shame us: let them not approach.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2462">We are shame-proof, my lord: and tis some policy
+To have one show worse than the king's and his company.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2464">I say they shall not come.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2465">Nay, my good lord, let me o'errule you now:
+That sport best pleases that doth least know how:
+Where zeal strives to content, and the contents
+Dies in the zeal of that which it presents:
+Their form confounded makes most form in mirth,
+When great things labouring perish in their birth.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2471">A right description of our sport, my lord.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2472">[Enter DON ADRIANO DE ARMADO]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2473">Anointed, I implore so much expense of thy royal
+sweet breath as will utter a brace of words.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2475">[Converses apart with FERDINAND, and delivers him a paper]</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2476">Doth this man serve God?</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2477">Why ask you?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2478">He speaks not like a man of God's making.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2479">That is all one, my fair, sweet, honey monarch; for,
+I protest, the schoolmaster is exceeding
+fantastical; too, too vain, too too vain: but we
+will put it, as they say, to fortuna de la guerra.
+I wish you the peace of mind, most royal couplement!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2484">[Exit]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2485">Here is like to be a good presence of Worthies. He
+presents Hector of Troy; the swain, Pompey the
+Great; the parish curate, Alexander; Armado's page,
+Hercules; the pedant, Judas Maccabaeus: And if
+these four Worthies in their first show thrive,
+These four will change habits, and present the other five.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2491">There is five in the first show.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2492">You are deceived; 'tis not so.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2493">The pedant, the braggart, the hedge-priest, the fool
+and the boy:--
+Abate throw at novum, and the whole world again
+Cannot pick out five such, take each one in his vein.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2497">The ship is under sail, and here she comes amain.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2498">[Enter COSTARD, for Pompey]</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2499">I Pompey am,--</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2500">You lie, you are not he.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2501">I Pompey am,--</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2502">With libbard's head on knee.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2503">Well said, old mocker: I must needs be friends
+with thee.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2505">I Pompey am, Pompey surnamed the Big--</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2506">The Great.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2507">It is, 'Great,' sir:--
+Pompey surnamed the Great;
+That oft in field, with targe and shield, did make
+my foe to sweat:
+And travelling along this coast, I here am come by chance,
+And lay my arms before the legs of this sweet lass of France,
+If your ladyship would say, 'Thanks, Pompey,' I had done.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2514">Great thanks, great Pompey.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2515">'Tis not so much worth; but I hope I was perfect: I
+made a little fault in 'Great.'</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2517">My hat to a halfpenny, Pompey proves the best Worthy.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2518">[Enter SIR NATHANIEL, for Alexander]</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="2519">When in the world I lived, I was the world's
+commander;
+By east, west, north, and south, I spread my
+conquering might:
+My scutcheon plain declares that I am Alisander,--</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2524">Your nose says, no, you are not for it stands too right.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2525">Your nose smells 'no' in this, most tender-smelling knight.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2526">The conqueror is dismay'd. Proceed, good Alexander.</lb>
+      </sp>
+      <sp who="#Sir_Nathaniel">
+        <lb n="2527">When in the world I lived, I was the world's
+commander,--</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2529">Most true, 'tis right; you were so, Alisander.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2530">Pompey the Great,--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2531">Your servant, and Costard.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2532">Take away the conqueror, take away Alisander.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2533">[To SIR NATHANIEL] O, sir, you have overthrown
+Alisander the conqueror! You will be scraped out of
+the painted cloth for this: your lion, that holds
+his poll-axe sitting on a close-stool, will be given
+to Ajax: he will be the ninth Worthy. A conqueror,
+and afeard to speak! run away for shame, Alisander.
+[SIR NATHANIEL retires]
+There, an't shall please you; a foolish mild man; an
+honest man, look you, and soon dashed. He is a
+marvellous good neighbour, faith, and a very good
+bowler: but, for Alisander,--alas, you see how
+'tis,--a little o'erparted. But there are Worthies
+a-coming will speak their mind in some other sort.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2546">[Enter HOLOFERNES, for Judas; and MOTH, for Hercules]</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2547">Great Hercules is presented by this imp,
+Whose club kill'd Cerberus, that three-headed canis;
+And when he was a babe, a child, a shrimp,
+Thus did he strangle serpents in his manus.
+Quoniam he seemeth in minority,
+Ergo I come with this apology.
+Keep some state in thy exit, and vanish.
+[MOTH retires]
+Judas I am,--</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2556">A Judas!</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2557">Not Iscariot, sir.
+Judas I am, ycliped Maccabaeus.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2559">Judas Maccabaeus clipt is plain Judas.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2560">A kissing traitor. How art thou proved Judas?</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2561">Judas I am,--</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2562">The more shame for you, Judas.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2563">What mean you, sir?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2564">To make Judas hang himself.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2565">Begin, sir; you are my elder.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2566">Well followed: Judas was hanged on an elder.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2567">I will not be put out of countenance.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2568">Because thou hast no face.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2569">What is this?</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2570">A cittern-head.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2571">The head of a bodkin.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2572">A Death's face in a ring.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2573">The face of an old Roman coin, scarce seen.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2574">The pommel of Caesar's falchion.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2575">The carved-bone face on a flask.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2576">Saint George's half-cheek in a brooch.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2577">Ay, and in a brooch of lead.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2578">Ay, and worn in the cap of a tooth-drawer.
+And now forward; for we have put thee in countenance.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2580">You have put me out of countenance.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2581">False; we have given thee faces.</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2582">But you have out-faced them all.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2583">An thou wert a lion, we would do so.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2584">Therefore, as he is an ass, let him go.
+And so adieu, sweet Jude! nay, why dost thou stay?</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2586">For the latter end of his name.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2587">For the ass to the Jude; give it him:--Jud-as, away!</lb>
+      </sp>
+      <sp who="#Holofernes">
+        <lb n="2588">This is not generous, not gentle, not humble.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2589">A light for Monsieur Judas! it grows dark, he may stumble.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2590">[HOLOFERNES retires]</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2591">Alas, poor Maccabaeus, how hath he been baited!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2592">[Enter DON ADRIANO DE ARMADO, for Hector]</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2593">Hide thy head, Achilles: here comes Hector in arms.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2594">Though my mocks come home by me, I will now be merry.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2595">Hector was but a Troyan in respect of this.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2596">But is this Hector?</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2597">I think Hector was not so clean-timbered.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2598">His leg is too big for Hector's.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2599">More calf, certain.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2600">No; he is best endued in the small.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2601">This cannot be Hector.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2602">He's a god or a painter; for he makes faces.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2603">The armipotent Mars, of lances the almighty,
+Gave Hector a gift,--</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2605">A gilt nutmeg.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2606">A lemon.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2607">Stuck with cloves.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2608">No, cloven.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2609">Peace!--
+The armipotent Mars, of lances the almighty
+Gave Hector a gift, the heir of Ilion;
+A man so breathed, that certain he would fight; yea
+From morn till night, out of his pavilion.
+I am that flower,--</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2615">That mint.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2616">That columbine.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2617">Sweet Lord Longaville, rein thy tongue.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2618">I must rather give it the rein, for it runs against Hector.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2619">Ay, and Hector's a greyhound.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2620">The sweet war-man is dead and rotten; sweet chucks,
+beat not the bones of the buried: when he breathed,
+he was a man. But I will forward with my device.
+[To the PRINCESS]
+Sweet royalty, bestow on me the sense of hearing.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2625">Speak, brave Hector: we are much delighted.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2626">I do adore thy sweet grace's slipper.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2627">[Aside to DUMAIN] Loves her by the foot,--</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2628">[Aside to BOYET] He may not by the yard.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2629">This Hector far surmounted Hannibal,--</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2630">The party is gone, fellow Hector, she is gone; she
+is two months on her way.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2632">What meanest thou?</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2633">Faith, unless you play the honest Troyan, the poor
+wench is cast away: she's quick; the child brags in
+her belly already: tis yours.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2636">Dost thou infamonize me among potentates? thou shalt
+die.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2638">Then shall Hector be whipped for Jaquenetta that is
+quick by him and hanged for Pompey that is dead by
+him.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2641">Most rare Pompey!</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2642">Renowned Pompey!</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2643">Greater than great, great, great, great Pompey!
+Pompey the Huge!</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2645">Hector trembles.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2646">Pompey is moved. More Ates, more Ates! stir them
+on! stir them on!</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2648">Hector will challenge him.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2649">Ay, if a' have no man's blood in's belly than will
+sup a flea.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2651">By the north pole, I do challenge thee.</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2652">I will not fight with a pole, like a northern man:
+I'll slash; I'll do it by the sword. I bepray you,
+let me borrow my arms again.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2655">Room for the incensed Worthies!</lb>
+      </sp>
+      <sp who="#Costard">
+        <lb n="2656">I'll do it in my shirt.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2657">Most resolute Pompey!</lb>
+      </sp>
+      <sp who="#Moth">
+        <lb n="2658">Master, let me take you a buttonhole lower. Do you
+not see Pompey is uncasing for the combat? What mean
+you? You will lose your reputation.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2661">Gentlemen and soldiers, pardon me; I will not combat
+in my shirt.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2663">You may not deny it: Pompey hath made the challenge.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2664">Sweet bloods, I both may and will.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2665">What reason have you for't?</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2666">The naked truth of it is, I have no shirt; I go
+woolward for penance.</lb>
+      </sp>
+      <sp who="#Boyet">
+        <lb n="2668">True, and it was enjoined him in Rome for want of
+linen: since when, I'll be sworn, he wore none but
+a dishclout of Jaquenetta's, and that a' wears next
+his heart for a favour.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2672">[Enter MERCADE]</lb>
+      </sp>
+      <sp who="#Mercade">
+        <lb n="2673">God save you, madam!</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2674">Welcome, Mercade;
+But that thou interrupt'st our merriment.</lb>
+      </sp>
+      <sp who="#Mercade">
+        <lb n="2676">I am sorry, madam; for the news I bring
+Is heavy in my tongue. The king your father--</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2678">Dead, for my life!</lb>
+      </sp>
+      <sp who="#Mercade">
+        <lb n="2679">Even so; my tale is told.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2680">Worthies, away! the scene begins to cloud.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2681">For mine own part, I breathe free breath. I have
+seen the day of wrong through the little hole of
+discretion, and I will right myself like a soldier.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2684">[Exeunt Worthies]</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2685">How fares your majesty?</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2686">Boyet, prepare; I will away tonight.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2687">Madam, not so; I do beseech you, stay.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2688">Prepare, I say. I thank you, gracious lords,
+For all your fair endeavors; and entreat,
+Out of a new-sad soul, that you vouchsafe
+In your rich wisdom to excuse or hide
+The liberal opposition of our spirits,
+If over-boldly we have borne ourselves
+In the converse of breath: your gentleness
+Was guilty of it. Farewell worthy lord!
+A heavy heart bears not a nimble tongue:
+Excuse me so, coming too short of thanks
+For my great suit so easily obtain'd.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2699">The extreme parts of time extremely forms
+All causes to the purpose of his speed,
+And often at his very loose decides
+That which long process could not arbitrate:
+And though the mourning brow of progeny
+Forbid the smiling courtesy of love
+The holy suit which fain it would convince,
+Yet, since love's argument was first on foot,
+Let not the cloud of sorrow justle it
+From what it purposed; since, to wail friends lost
+Is not by much so wholesome-profitable
+As to rejoice at friends but newly found.PRINCESS. I understand you not: my griefs are double.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2711">Honest plain words best pierce the ear of grief;
+And by these badges understand the king.
+For your fair sakes have we neglected time,
+Play'd foul play with our oaths: your beauty, ladies,
+Hath much deform'd us, fashioning our humours
+Even to the opposed end of our intents:
+And what in us hath seem'd ridiculous,--
+As love is full of unbefitting strains,
+All wanton as a child, skipping and vain,
+Form'd by the eye and therefore, like the eye,
+Full of strange shapes, of habits and of forms,
+Varying in subjects as the eye doth roll
+To every varied object in his glance:
+Which parti-coated presence of loose love
+Put on by us, if, in your heavenly eyes,
+Have misbecomed our oaths and gravities,
+Those heavenly eyes, that look into these faults,
+Suggested us to make. Therefore, ladies,
+Our love being yours, the error that love makes
+Is likewise yours: we to ourselves prove false,
+By being once false for ever to be true
+To those that make us both,--fair ladies, you:
+And even that falsehood, in itself a sin,
+Thus purifies itself and turns to grace.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2735">We have received your letters full of love;
+Your favours, the ambassadors of love;
+And, in our maiden council, rated them
+At courtship, pleasant jest and courtesy,
+As bombast and as lining to the time:
+But more devout than this in our respects
+Have we not been; and therefore met your loves
+In their own fashion, like a merriment.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2743">Our letters, madam, show'd much more than jest.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2744">So did our looks.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2745">We did not quote them so.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2746">Now, at the latest minute of the hour,
+Grant us your loves.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2748">A time, methinks, too short
+To make a world-without-end bargain in.
+No, no, my lord, your grace is perjured much,
+Full of dear guiltiness; and therefore this:
+If for my love, as there is no such cause,
+You will do aught, this shall you do for me:
+Your oath I will not trust; but go with speed
+To some forlorn and naked hermitage,
+Remote from all the pleasures of the world;
+There stay until the twelve celestial signs
+Have brought about the annual reckoning.
+If this austere insociable life
+Change not your offer made in heat of blood;
+If frosts and fasts, hard lodging and thin weeds
+Nip not the gaudy blossoms of your love,
+But that it bear this trial and last love;
+Then, at the expiration of the year,
+Come challenge me, challenge me by these deserts,
+And, by this virgin palm now kissing thine
+I will be thine; and till that instant shut
+My woeful self up in a mourning house,
+Raining the tears of lamentation
+For the remembrance of my father's death.
+If this thou do deny, let our hands part,
+Neither entitled in the other's heart.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2773">If this, or more than this, I would deny,
+To flatter up these powers of mine with rest,
+The sudden hand of death close up mine eye!
+Hence ever then my heart is in thy breast.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2777">[And what to me, my love? and what to me?</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2778">You must be purged too, your sins are rack'd,
+You are attaint with faults and perjury:
+Therefore if you my favour mean to get,
+A twelvemonth shall you spend, and never rest,
+But seek the weary beds of people sick]</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2783">But what to me, my love? but what to me? A wife?</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2784">A beard, fair health, and honesty;
+With three-fold love I wish you all these three.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2786">O, shall I say, I thank you, gentle wife?</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2787">Not so, my lord; a twelvemonth and a day
+I'll mark no words that smooth-faced wooers say:
+Come when the king doth to my lady come;
+Then, if I have much love, I'll give you some.</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2791">I'll serve thee true and faithfully till then.</lb>
+      </sp>
+      <sp who="#Katharine">
+        <lb n="2792">Yet swear not, lest ye be forsworn again.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2793">What says Maria?</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="2794">At the twelvemonth's end
+I'll change my black gown for a faithful friend.</lb>
+      </sp>
+      <sp who="#Longaville">
+        <lb n="2796">I'll stay with patience; but the time is long.</lb>
+      </sp>
+      <sp who="#Maria">
+        <lb n="2797">The liker you; few taller are so young.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2798">Studies my lady? mistress, look on me;
+Behold the window of my heart, mine eye,
+What humble suit attends thy answer there:
+Impose some service on me for thy love.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2802">Oft have I heard of you, my Lord Biron,
+Before I saw you; and the world's large tongue
+Proclaims you for a man replete with mocks,
+Full of comparisons and wounding flouts,
+Which you on all estates will execute
+That lie within the mercy of your wit.
+To weed this wormwood from your fruitful brain,
+And therewithal to win me, if you please,
+Without the which I am not to be won,
+You shall this twelvemonth term from day to day
+Visit the speechless sick and still converse
+With groaning wretches; and your task shall be,
+With all the fierce endeavor of your wit
+To enforce the pained impotent to smile.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2816">To move wild laughter in the throat of death?
+It cannot be; it is impossible:
+Mirth cannot move a soul in agony.</lb>
+      </sp>
+      <sp who="#Rosaline">
+        <lb n="2819">Why, that's the way to choke a gibing spirit,
+Whose influence is begot of that loose grace
+Which shallow laughing hearers give to fools:
+A jest's prosperity lies in the ear
+Of him that hears it, never in the tongue
+Of him that makes it: then, if sickly ears,
+Deaf'd with the clamours of their own dear groans,
+Will hear your idle scorns, continue then,
+And I will have you and that fault withal;
+But if they will not, throw away that spirit,
+And I shall find you empty of that fault,
+Right joyful of your reformation.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2831">A twelvemonth! well; befall what will befall,
+I'll jest a twelvemonth in an hospital.</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2833">[To FERDINAND] Ay, sweet my lord; and so I take my leave.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2834">No, madam; we will bring you on your way.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2835">Our wooing doth not end like an old play;
+Jack hath not Jill: these ladies' courtesy
+Might well have made our sport a comedy.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2838">Come, sir, it wants a twelvemonth and a day,
+And then 'twill end.</lb>
+      </sp>
+      <sp who="#Biron">
+        <lb n="2840">That's too long for a play.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2841">[Re-enter DON ADRIANO DE ARMADO]</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2842">Sweet majesty, vouchsafe me,--</lb>
+      </sp>
+      <sp who="#Princess_of_France">
+        <lb n="2843">Was not that Hector?</lb>
+      </sp>
+      <sp who="#Dumain">
+        <lb n="2844">The worthy knight of Troy.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2845">I will kiss thy royal finger, and take leave. I am
+a votary; I have vowed to Jaquenetta to hold the
+plough for her sweet love three years. But, most
+esteemed greatness, will you hear the dialogue that
+the two learned men have compiled in praise of the
+owl and the cuckoo? It should have followed in the
+end of our show.</lb>
+      </sp>
+      <sp who="#Ferdinand">
+        <lb n="2852">Call them forth quickly; we will do so.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2853">Holla! approach.
+[Re-enter HOLOFERNES, SIR NATHANIEL, MOTH, COSTARD,]
+and others]
+This side is Hiems, Winter, this Ver, the Spring;
+the one maintained by the owl, the other by the
+cuckoo. Ver, begin.
+[THE SONG]
+SPRING.
+When daisies pied and violets blue
+And lady-smocks all silver-white
+And cuckoo-buds of yellow hue
+Do paint the meadows with delight,
+The cuckoo then, on every tree,
+Mocks married men; for thus sings he, . Cuckoo;
+Cuckoo, cuckoo: O word of fear,
+Unpleasing to a married ear!
+When shepherds pipe on oaten straws
+And merry larks are ploughmen's clocks,
+When turtles tread, and rooks, and daws,
+And maidens bleach their summer smocks
+The cuckoo then, on every tree,
+Mocks married men; for thus sings he, . Cuckoo;
+Cuckoo, cuckoo: O word of fear,
+Unpleasing to a married ear!
+WINTER.
+When icicles hang by the wall
+And Dick the shepherd blows his nail
+And Tom bears logs into the hall
+And milk comes frozen home in pail,
+When blood is nipp'd and ways be foul,
+Then nightly sings the staring owl, . Tu-whit;
+Tu-who, a merry note,
+While greasy Joan doth keel the pot.
+When all aloud the wind doth blow
+And coughing drowns the parson's saw
+And birds sit brooding in the snow
+And Marian's nose looks red and raw,
+When roasted crabs hiss in the bowl,
+Then nightly sings the staring owl, . Tu-whit;
+Tu-who, a merry note,
+While greasy Joan doth keel the pot.</lb>
+      </sp>
+      <sp who="#Don_Adriano_de_Armado">
+        <lb n="2894">The words of Mercury are harsh after the songs of
+Apollo. You that way: we this way.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2896">[Exeunt]</lb>
+      </sp>
+    </div>
+  </div>
+</play>

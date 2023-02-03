@@ -1,0 +1,5194 @@
+<play name="Merry Wives of Windsor">
+  <div type="act" n="1">
+    <div type="scene" n="1">
+      <sp who="#(stage_directions)">
+        <lb n="3">[Enter SHALLOW, SLENDER, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="4">Sir Hugh, persuade me not; I will make a Star-
+chamber matter of it: if he were twenty Sir John
+Falstaffs, he shall not abuse Robert Shallow, esquire.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="7">In the county of Gloucester, justice of peace and
+'Coram.'</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="9">Ay, cousin Slender, and 'Custalourum.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="10">Ay, and 'Rato-lorum' too; and a gentleman born,
+master parson; who writes himself 'Armigero,' in any
+bill, warrant, quittance, or obligation, 'Armigero.'</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="13">Ay, that I do; and have done any time these three
+hundred years.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="15">All his successors gone before him hath done't; and
+all his ancestors that come after him may: they may
+give the dozen white luces in their coat.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="18">It is an old coat.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="19">The dozen white louses do become an old coat well;
+it agrees well, passant; it is a familiar beast to
+man, and signifies love.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="22">The luce is the fresh fish; the salt fish is an old coat.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="23">I may quarter, coz.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="24">You may, by marrying.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="25">It is marring indeed, if he quarter it.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="26">Not a whit.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="27">Yes, py'r lady; if he has a quarter of your coat,
+there is but three skirts for yourself, in my
+simple conjectures: but that is all one. If Sir
+John Falstaff have committed disparagements unto
+you, I am of the church, and will be glad to do my
+benevolence to make atonements and compremises
+between you.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="34">The council shall bear it; it is a riot.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="35">It is not meet the council hear a riot; there is no
+fear of Got in a riot: the council, look you, shall
+desire to hear the fear of Got, and not to hear a
+riot; take your vizaments in that.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="39">Ha! o' my life, if I were young again, the sword
+should end it.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="41">It is petter that friends is the sword, and end it:
+and there is also another device in my prain, which
+peradventure prings goot discretions with it: there
+is Anne Page, which is daughter to Master Thomas
+Page, which is pretty virginity.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="46">Mistress Anne Page? She has brown hair, and speaks
+small like a woman.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="48">It is that fery person for all the orld, as just as
+you will desire; and seven hundred pounds of moneys,
+and gold and silver, is her grandsire upon his
+death's-bed--Got deliver to a joyful resurrections!
+--give, when she is able to overtake seventeen years
+old: it were a goot motion if we leave our pribbles
+and prabbles, and desire a marriage between Master
+Abraham and Mistress Anne Page.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="56">Did her grandsire leave her seven hundred pound?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="57">Ay, and her father is make her a petter penny.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="58">I know the young gentlewoman; she has good gifts.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="59">Seven hundred pounds and possibilities is goot gifts.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="60">Well, let us see honest Master Page. Is Falstaff there?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="61">Shall I tell you a lie? I do despise a liar as I do
+despise one that is false, or as I despise one that
+is not true. The knight, Sir John, is there; and, I
+beseech you, be ruled by your well-willers. I will
+peat the door for Master Page.
+[Knocks]
+What, hoa! Got pless your house here!</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="68">[Within] Who's there?</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="69">[Enter PAGE]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="70">Here is Got's plessing, and your friend, and Justice
+Shallow; and here young Master Slender, that
+peradventures shall tell you another tale, if
+matters grow to your likings.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="74">I am glad to see your worships well.
+I thank you for my venison, Master Shallow.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="76">Master Page, I am glad to see you: much good do it
+your good heart! I wished your venison better; it
+was ill killed. How doth good Mistress Page?--and I
+thank you always with my heart, la! with my heart.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="80">Sir, I thank you.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="81">Sir, I thank you; by yea and no, I do.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="82">I am glad to see you, good Master Slender.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="83">How does your fallow greyhound, sir? I heard say he
+was outrun on Cotsall.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="85">It could not be judged, sir.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="86">You'll not confess, you'll not confess.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="87">That he will not. 'Tis your fault, 'tis your fault;
+'tis a good dog.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="89">A cur, sir.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="90">Sir, he's a good dog, and a fair dog: can there be
+more said? he is good and fair. Is Sir John
+Falstaff here?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="93">Sir, he is within; and I would I could do a good
+office between you.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="95">It is spoke as a Christians ought to speak.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="96">He hath wronged me, Master Page.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="97">Sir, he doth in some sort confess it.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="98">If it be confessed, it is not redress'd: is not that
+so, Master Page? He hath wronged me; indeed he
+hath, at a word, he hath, believe me: Robert
+Shallow, esquire, saith, he is wronged.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="102">Here comes Sir John.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="103">[Enter FALSTAFF, BARDOLPH, NYM, and PISTOL]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="104">Now, Master Shallow, you'll complain of me to the king?</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="105">Knight, you have beaten my men, killed my deer, and
+broke open my lodge.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="107">But not kissed your keeper's daughter?</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="108">Tut, a pin! this shall be answered.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="109">I will answer it straight; I have done all this.
+That is now answered.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="111">The council shall know this.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="112">'Twere better for you if it were known in counsel:
+you'll be laughed at.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="114">Pauca verba, Sir John; goot worts.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="115">Good worts! good cabbage. Slender, I broke your
+head: what matter have you against me?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="117">Marry, sir, I have matter in my head against you;
+and against your cony-catching rascals, Bardolph,
+Nym, and Pistol.</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="120">You Banbury cheese!</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="121">Ay, it is no matter.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="122">How now, Mephostophilus!</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="123">Ay, it is no matter.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="124">Slice, I say! pauca, pauca: slice! that's my humour.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="125">Where's Simple, my man? Can you tell, cousin?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="126">Peace, I pray you. Now let us understand. There is
+three umpires in this matter, as I understand; that
+is, Master Page, fidelicet Master Page; and there is
+myself, fidelicet myself; and the three party is,
+lastly and finally, mine host of the Garter.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="131">We three, to hear it and end it between them.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="132">Fery goot: I will make a prief of it in my note-
+book; and we will afterwards ork upon the cause with
+as great discreetly as we can.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="135">Pistol!</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="136">He hears with ears.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="137">The tevil and his tam! what phrase is this, 'He
+hears with ear'? why, it is affectations.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="139">Pistol, did you pick Master Slender's purse?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="140">Ay, by these gloves, did he, or I would I might
+never come in mine own great chamber again else, of
+seven groats in mill-sixpences, and two Edward
+shovel-boards, that cost me two shilling and two
+pence apiece of Yead Miller, by these gloves.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="145">Is this true, Pistol?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="146">No; it is false, if it is a pick-purse.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="147">Ha, thou mountain-foreigner! Sir John and Master mine,
+I combat challenge of this latten bilbo.
+Word of denial in thy labras here!
+Word of denial: froth and scum, thou liest!</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="151">By these gloves, then, 'twas he.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="152">Be avised, sir, and pass good humours: I will say
+'marry trap' with you, if you run the nuthook's
+humour on me; that is the very note of it.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="155">By this hat, then, he in the red face had it; for
+though I cannot remember what I did when you made me
+drunk, yet I am not altogether an ass.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="158">What say you, Scarlet and John?</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="159">Why, sir, for my part I say the gentleman had drunk
+himself out of his five sentences.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="161">It is his five senses: fie, what the ignorance is!</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="162">And being fap, sir, was, as they say, cashiered; and
+so conclusions passed the careires.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="164">Ay, you spake in Latin then too; but 'tis no
+matter: I'll ne'er be drunk whilst I live again,
+but in honest, civil, godly company, for this trick:
+if I be drunk, I'll be drunk with those that have
+the fear of God, and not with drunken knaves.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="169">So Got udge me, that is a virtuous mind.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="170">You hear all these matters denied, gentlemen; you hear it.
+[Enter ANNE PAGE, with wine; MISTRESS FORD]
+and MISTRESS PAGE, following]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="173">Nay, daughter, carry the wine in; we'll drink within.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="174">[Exit ANNE PAGE]</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="175">O heaven! this is Mistress Anne Page.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="176">How now, Mistress Ford!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="177">Mistress Ford, by my troth, you are very well met:
+by your leave, good mistress.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="179">[Kisses her]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="180">Wife, bid these gentlemen welcome. Come, we have a
+hot venison pasty to dinner: come, gentlemen, I hope
+we shall drink down all unkindness.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="183">[Exeunt all except SHALLOW, SLENDER, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="184">I had rather than forty shillings I had my Book of
+Songs and Sonnets here.
+[Enter SIMPLE]
+How now, Simple! where have you been? I must wait
+on myself, must I? You have not the Book of Riddles
+about you, have you?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="190">Book of Riddles! why, did you not lend it to Alice
+Shortcake upon All-hallowmas last, a fortnight
+afore Michaelmas?</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="193">Come, coz; come, coz; we stay for you. A word with
+you, coz; marry, this, coz: there is, as 'twere, a
+tender, a kind of tender, made afar off by Sir Hugh
+here. Do you understand me?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="197">Ay, sir, you shall find me reasonable; if it be so,
+I shall do that that is reason.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="199">Nay, but understand me.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="200">So I do, sir.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="201">Give ear to his motions, Master Slender: I will
+description the matter to you, if you be capacity of it.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="203">Nay, I will do as my cousin Shallow says: I pray
+you, pardon me; he's a justice of peace in his
+country, simple though I stand here.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="206">But that is not the question: the question is
+concerning your marriage.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="208">Ay, there's the point, sir.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="209">Marry, is it; the very point of it; to Mistress Anne Page.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="210">Why, if it be so, I will marry her upon any
+reasonable demands.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="212">But can you affection the 'oman? Let us command to
+know that of your mouth or of your lips; for divers
+philosophers hold that the lips is parcel of the
+mouth. Therefore, precisely, can you carry your
+good will to the maid?</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="217">Cousin Abraham Slender, can you love her?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="218">I hope, sir, I will do as it shall become one that
+would do reason.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="220">Nay, Got's lords and his ladies! you must speak
+possitable, if you can carry her your desires
+towards her.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="223">That you must. Will you, upon good dowry, marry her?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="224">I will do a greater thing than that, upon your
+request, cousin, in any reason.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="226">Nay, conceive me, conceive me, sweet coz: what I do
+is to pleasure you, coz. Can you love the maid?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="228">I will marry her, sir, at your request: but if there
+be no great love in the beginning, yet heaven may
+decrease it upon better acquaintance, when we are
+married and have more occasion to know one another;
+I hope, upon familiarity will grow more contempt:
+but if you say, 'Marry her,' I will marry her; that
+I am freely dissolved, and dissolutely.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="235">It is a fery discretion answer; save the fall is in
+the ort 'dissolutely:' the ort is, according to our
+meaning, 'resolutely:' his meaning is good.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="238">Ay, I think my cousin meant well.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="239">Ay, or else I would I might be hanged, la!</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="240">Here comes fair Mistress Anne.
+[Re-enter ANNE PAGE]
+Would I were young for your sake, Mistress Anne!</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="243">The dinner is on the table; my father desires your
+worships' company.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="245">I will wait on him, fair Mistress Anne.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="246">Od's plessed will! I will not be absence at the grace.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="247">[Exeunt SHALLOW and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="248">Will't please your worship to come in, sir?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="249">No, I thank you, forsooth, heartily; I am very well.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="250">The dinner attends you, sir.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="251">I am not a-hungry, I thank you, forsooth. Go,
+sirrah, for all you are my man, go wait upon my
+cousin Shallow.
+[Exit SIMPLE]
+A justice of peace sometimes may be beholding to his
+friend for a man. I keep but three men and a boy
+yet, till my mother be dead: but what though? Yet I
+live like a poor gentleman born.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="259">I may not go in without your worship: they will not
+sit till you come.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="261">I' faith, I'll eat nothing; I thank you as much as
+though I did.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="263">I pray you, sir, walk in.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="264">I had rather walk here, I thank you. I bruised
+my shin th' other day with playing at sword and
+dagger with a master of fence; three veneys for a
+dish of stewed prunes; and, by my troth, I cannot
+abide the smell of hot meat since. Why do your
+dogs bark so? be there bears i' the town?</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="270">I think there are, sir; I heard them talked of.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="271">I love the sport well but I shall as soon quarrel at
+it as any man in England. You are afraid, if you see
+the bear loose, are you not?</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="274">Ay, indeed, sir.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="275">That's meat and drink to me, now. I have seen
+Sackerson loose twenty times, and have taken him by
+the chain; but, I warrant you, the women have so
+cried and shrieked at it, that it passed: but women,
+indeed, cannot abide 'em; they are very ill-favored
+rough things.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="281">[Re-enter PAGE]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="282">Come, gentle Master Slender, come; we stay for you.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="283">I'll eat nothing, I thank you, sir.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="284">By cock and pie, you shall not choose, sir! come, come.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="285">Nay, pray you, lead the way.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="286">Come on, sir.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="287">Mistress Anne, yourself shall go first.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="288">Not I, sir; pray you, keep on.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="289">I'll rather be unmannerly than troublesome.
+You do yourself wrong, indeed, la!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="291">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="294">[Enter SIR HUGH EVANS and SIMPLE]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="295">Go your ways, and ask of Doctor Caius' house which
+is the way: and there dwells one Mistress Quickly,
+which is in the manner of his nurse, or his dry
+nurse, or his cook, or his laundry, his washer, and
+his wringer.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="300">Well, sir.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="301">Nay, it is petter yet. Give her this letter; for it
+is a 'oman that altogether's acquaintance with
+Mistress Anne Page: and the letter is, to desire
+and require her to solicit your master's desires to
+Mistress Anne Page. I pray you, be gone: I will
+make an end of my dinner; there's pippins and cheese to come.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="307">[Exeunt]
+[Enter FALSTAFF, Host, BARDOLPH, NYM, PISTOL,]
+and ROBIN]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="3">
+      <sp who="#Falstaff">
+        <lb n="312">Mine host of the Garter!</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="313">What says my bully-rook? speak scholarly and wisely.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="314">Truly, mine host, I must turn away some of my
+followers.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="316">Discard, bully Hercules; cashier: let them wag; trot, trot.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="317">I sit at ten pounds a week.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="318">Thou'rt an emperor, Caesar, Keisar, and Pheezar. I
+will entertain Bardolph; he shall draw, he shall
+tap: said I well, bully Hector?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="321">Do so, good mine host.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="322">I have spoke; let him follow.
+[To BARDOLPH]
+Let me see thee froth and lime: I am at a word; follow.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="325">[Exit]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="326">Bardolph, follow him. A tapster is a good trade:
+an old cloak makes a new jerkin; a withered
+serving-man a fresh tapster. Go; adieu.</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="329">It is a life that I have desired: I will thrive.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="330">O base Hungarian wight! wilt thou the spigot wield?</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="331">[Exit BARDOLPH]</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="332">He was gotten in drink: is not the humour conceited?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="333">I am glad I am so acquit of this tinderbox: his
+thefts were too open; his filching was like an
+unskilful singer; he kept not time.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="336">The good humour is to steal at a minute's rest.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="337">'Convey,' the wise it call. 'Steal!' foh! a fico
+for the phrase!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="339">Well, sirs, I am almost out at heels.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="340">Why, then, let kibes ensue.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="341">There is no remedy; I must cony-catch; I must shift.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="342">Young ravens must have food.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="343">Which of you know Ford of this town?</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="344">I ken the wight: he is of substance good.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="345">My honest lads, I will tell you what I am about.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="346">Two yards, and more.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="347">No quips now, Pistol! Indeed, I am in the waist two
+yards about; but I am now about no waste; I am about
+thrift. Briefly, I do mean to make love to Ford's
+wife: I spy entertainment in her; she discourses,
+she carves, she gives the leer of invitation: I
+can construe the action of her familiar style; and
+the hardest voice of her behavior, to be Englished
+rightly, is, 'I am Sir John Falstaff's.'</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="355">He hath studied her will, and translated her will,
+out of honesty into English.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="357">The anchor is deep: will that humour pass?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="358">Now, the report goes she has all the rule of her
+husband's purse: he hath a legion of angels.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="360">As many devils entertain; and 'To her, boy,' say I.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="361">The humour rises; it is good: humour me the angels.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="362">I have writ me here a letter to her: and here
+another to Page's wife, who even now gave me good
+eyes too, examined my parts with most judicious
+oeillades; sometimes the beam of her view gilded my
+foot, sometimes my portly belly.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="367">Then did the sun on dunghill shine.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="368">I thank thee for that humour.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="369">O, she did so course o'er my exteriors with such a
+greedy intention, that the appetite of her eye did
+seem to scorch me up like a burning-glass! Here's
+another letter to her: she bears the purse too; she
+is a region in Guiana, all gold and bounty. I will
+be cheater to them both, and they shall be
+exchequers to me; they shall be my East and West
+Indies, and I will trade to them both. Go bear thou
+this letter to Mistress Page; and thou this to
+Mistress Ford: we will thrive, lads, we will thrive.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="379">Shall I Sir Pandarus of Troy become,
+And by my side wear steel? then, Lucifer take all!</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="381">I will run no base humour: here, take the
+humour-letter: I will keep the havior of reputation.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="383">[To ROBIN] Hold, sirrah, bear you these letters tightly;
+Sail like my pinnace to these golden shores.
+Rogues, hence, avaunt! vanish like hailstones, go;
+Trudge, plod away o' the hoof; seek shelter, pack!
+Falstaff will learn the humour of the age,
+French thrift, you rogues; myself and skirted page.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="389">[Exeunt FALSTAFF and ROBIN]</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="390">Let vultures gripe thy guts! for gourd and fullam holds,
+And high and low beguiles the rich and poor:
+Tester I'll have in pouch when thou shalt lack,
+Base Phrygian Turk!</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="394">I have operations which be humours of revenge.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="395">Wilt thou revenge?</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="396">By welkin and her star!</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="397">With wit or steel?</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="398">With both the humours, I:
+I will discuss the humour of this love to Page.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="400">And I to Ford shall eke unfold
+How Falstaff, varlet vile,
+His dove will prove, his gold will hold,
+And his soft couch defile.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="404">My humour shall not cool: I will incense Page to
+deal with poison; I will possess him with
+yellowness, for the revolt of mine is dangerous:
+that is my true humour.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="408">Thou art the Mars of malecontents: I second thee; troop on.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="409">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="4">
+      <sp who="#(stage_directions)">
+        <lb n="412">[Enter MISTRESS QUICKLY, SIMPLE, and RUGBY]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="413">What, John Rugby! I pray thee, go to the casement,
+and see if you can see my master, Master Doctor
+Caius, coming. If he do, i' faith, and find any
+body in the house, here will be an old abusing of
+God's patience and the king's English.</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="418">I'll go watch.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="419">Go; and we'll have a posset for't soon at night, in
+faith, at the latter end of a sea-coal fire.
+[Exit RUGBY]
+An honest, willing, kind fellow, as ever servant
+shall come in house withal, and, I warrant you, no
+tell-tale nor no breed-bate: his worst fault is,
+that he is given to prayer; he is something peevish
+that way: but nobody but has his fault; but let
+that pass. Peter Simple, you say your name is?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="428">Ay, for fault of a better.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="429">And Master Slender's your master?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="430">Ay, forsooth.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="431">Does he not wear a great round beard, like a
+glover's paring-knife?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="433">No, forsooth: he hath but a little wee face, with a
+little yellow beard, a Cain-coloured beard.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="435">A softly-sprighted man, is he not?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="436">Ay, forsooth: but he is as tall a man of his hands
+as any is between this and his head; he hath fought
+with a warrener.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="439">How say you? O, I should remember him: does he not
+hold up his head, as it were, and strut in his gait?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="441">Yes, indeed, does he.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="442">Well, heaven send Anne Page no worse fortune! Tell
+Master Parson Evans I will do what I can for your
+master: Anne is a good girl, and I wish--</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="445">[Re-enter RUGBY]</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="446">Out, alas! here comes my master.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="447">We shall all be shent. Run in here, good young man;
+go into this closet: he will not stay long.
+[Shuts SIMPLE in the closet]
+What, John Rugby! John! what, John, I say!
+Go, John, go inquire for my master; I doubt
+he be not well, that he comes not home.
+[Singing]
+And down, down, adown-a, &amp;c.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="455">[Enter DOCTOR CAIUS]</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="456">Vat is you sing? I do not like des toys. Pray you,
+go and vetch me in my closet un boitier vert, a box,
+a green-a box: do intend vat I speak? a green-a box.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="459">Ay, forsooth; I'll fetch it you.
+[Aside]
+I am glad he went not in himself: if he had found
+the young man, he would have been horn-mad.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="463">Fe, fe, fe, fe! ma foi, il fait fort chaud. Je
+m'en vais a la cour--la grande affaire.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="465">Is it this, sir?</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="466">Oui; mette le au mon pocket: depeche, quickly. Vere
+is dat knave Rugby?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="468">What, John Rugby! John!</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="469">Here, sir!</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="470">You are John Rugby, and you are Jack Rugby. Come,
+take-a your rapier, and come after my heel to the court.</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="472">'Tis ready, sir, here in the porch.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="473">By my trot, I tarry too long. Od's me!
+Qu'ai-j'oublie! dere is some simples in my closet,
+dat I vill not for the varld I shall leave behind.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="476">Ay me, he'll find the young man here, and be mad!</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="477">O diable, diable! vat is in my closet? Villain! larron!
+[Pulling SIMPLE out]
+Rugby, my rapier!</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="480">Good master, be content.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="481">Wherefore shall I be content-a?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="482">The young man is an honest man.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="483">What shall de honest man do in my closet? dere is
+no honest man dat shall come in my closet.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="485">I beseech you, be not so phlegmatic. Hear the truth
+of it: he came of an errand to me from Parson Hugh.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="487">Vell.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="488">Ay, forsooth; to desire her to--</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="489">Peace, I pray you.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="490">Peace-a your tongue. Speak-a your tale.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="491">To desire this honest gentlewoman, your maid, to
+speak a good word to Mistress Anne Page for my
+master in the way of marriage.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="494">This is all, indeed, la! but I'll ne'er put my
+finger in the fire, and need not.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="496">Sir Hugh send-a you? Rugby, baille me some paper.
+Tarry you a little-a while.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="498">[Writes]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="499">[Aside to SIMPLE] I am glad he is so quiet: if he
+had been thoroughly moved, you should have heard him
+so loud and so melancholy. But notwithstanding,
+man, I'll do you your master what good I can: and
+the very yea and the no is, the French doctor, my
+master,--I may call him my master, look you, for I
+keep his house; and I wash, wring, brew, bake,
+scour, dress meat and drink, make the beds and do
+all myself,--</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="508">[Aside to MISTRESS QUICKLY] 'Tis a great charge to
+come under one body's hand.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="510">[Aside to SIMPLE] Are you avised o' that? you
+shall find it a great charge: and to be up early
+and down late; but notwithstanding,--to tell you in
+your ear; I would have no words of it,--my master
+himself is in love with Mistress Anne Page: but
+notwithstanding that, I know Anne's mind,--that's
+neither here nor there.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="517">You jack'nape, give-a this letter to Sir Hugh; by
+gar, it is a shallenge: I will cut his troat in dee
+park; and I will teach a scurvy jack-a-nape priest
+to meddle or make. You may be gone; it is not good
+you tarry here. By gar, I will cut all his two
+stones; by gar, he shall not have a stone to throw
+at his dog:</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="524">[Exit SIMPLE]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="525">Alas, he speaks but for his friend.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="526">It is no matter-a ver dat: do not you tell-a me
+dat I shall have Anne Page for myself? By gar, I
+vill kill de Jack priest; and I have appointed mine
+host of de Jarteer to measure our weapon. By gar, I
+will myself have Anne Page.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="531">Sir, the maid loves you, and all shall be well. We
+must give folks leave to prate: what, the good-jer!</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="533">Rugby, come to the court with me. By gar, if I have
+not Anne Page, I shall turn your head out of my
+door. Follow my heels, Rugby.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="536">[Exeunt DOCTOR CAIUS and RUGBY]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="537">You shall have An fool's-head of your own. No, I
+know Anne's mind for that: never a woman in Windsor
+knows more of Anne's mind than I do; nor can do more
+than I do with her, I thank heaven.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="541">[Within] Who's within there? ho!</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="542">Who's there, I trow! Come near the house, I pray you.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="543">[Enter FENTON]</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="544">How now, good woman? how dost thou?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="545">The better that it pleases your good worship to ask.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="546">What news? how does pretty Mistress Anne?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="547">In truth, sir, and she is pretty, and honest, and
+gentle; and one that is your friend, I can tell you
+that by the way; I praise heaven for it.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="550">Shall I do any good, thinkest thou? shall I not lose my suit?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="551">Troth, sir, all is in his hands above: but
+notwithstanding, Master Fenton, I'll be sworn on a
+book, she loves you. Have not your worship a wart
+above your eye?</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="555">Yes, marry, have I; what of that?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="556">Well, thereby hangs a tale: good faith, it is such
+another Nan; but, I detest, an honest maid as ever
+broke bread: we had an hour's talk of that wart. I
+shall never laugh but in that maid's company! But
+indeed she is given too much to allicholy and
+musing: but for you--well, go to.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="562">Well, I shall see her to-day. Hold, there's money
+for thee; let me have thy voice in my behalf: if
+thou seest her before me, commend me.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="565">Will I? i'faith, that we will; and I will tell your
+worship more of the wart the next time we have
+confidence; and of other wooers.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="568">Well, farewell; I am in great haste now.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="569">Farewell to your worship.
+[Exit FENTON]
+Truly, an honest gentleman: but Anne loves him not;
+for I know Anne's mind as well as another does. Out
+upon't! what have I forgot?</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="574">[Exit]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="2">
+    <div type="scene" n="1">
+      <sp who="#(stage_directions)">
+        <lb n="577">[Enter MISTRESS PAGE, with a letter]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="578">What, have I scaped love-letters in the holiday-
+time of my beauty, and am I now a subject for them?
+Let me see.
+[Reads]
+'Ask me no reason why I love you; for though
+Love use Reason for his physician, he admits him
+not for his counsellor. You are not young, no more
+am I; go to then, there's sympathy: you are merry,
+so am I; ha, ha! then there's more sympathy: you
+love sack, and so do I; would you desire better
+sympathy? Let it suffice thee, Mistress Page,--at
+the least, if the love of soldier can suffice,--
+that I love thee. I will not say, pity me; 'tis
+not a soldier-like phrase: but I say, love me. By me,
+Thine own true knight,
+By day or night,
+Or any kind of light,
+With all his might
+For thee to fight, JOHN FALSTAFF'
+What a Herod of Jewry is this! O wicked
+world! One that is well-nigh worn to pieces with
+age to show himself a young gallant! What an
+unweighed behavior hath this Flemish drunkard
+picked--with the devil's name!--out of my
+conversation, that he dares in this manner assay me?
+Why, he hath not been thrice in my company! What
+should I say to him? I was then frugal of my
+mirth: Heaven forgive me! Why, I'll exhibit a bill
+in the parliament for the putting down of men. How
+shall I be revenged on him? for revenged I will be,
+as sure as his guts are made of puddings.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="609">[Enter MISTRESS FORD]</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="610">Mistress Page! trust me, I was going to your house.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="611">And, trust me, I was coming to you. You look very
+ill.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="613">Nay, I'll ne'er believe that; I have to show to the contrary.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="614">Faith, but you do, in my mind.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="615">Well, I do then; yet I say I could show you to the
+contrary. O Mistress Page, give me some counsel!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="617">What's the matter, woman?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="618">O woman, if it were not for one trifling respect, I
+could come to such honour!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="620">Hang the trifle, woman! take the honour. What is
+it? dispense with trifles; what is it?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="622">If I would but go to hell for an eternal moment or so,
+I could be knighted.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="624">What? thou liest! Sir Alice Ford! These knights
+will hack; and so thou shouldst not alter the
+article of thy gentry.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="627">We burn daylight: here, read, read; perceive how I
+might be knighted. I shall think the worse of fat
+men, as long as I have an eye to make difference of
+men's liking: and yet he would not swear; praised
+women's modesty; and gave such orderly and
+well-behaved reproof to all uncomeliness, that I
+would have sworn his disposition would have gone to
+the truth of his words; but they do no more adhere
+and keep place together than the Hundredth Psalm to
+the tune of 'Green Sleeves.' What tempest, I trow,
+threw this whale, with so many tuns of oil in his
+belly, ashore at Windsor? How shall I be revenged
+on him? I think the best way were to entertain him
+with hope, till the wicked fire of lust have melted
+him in his own grease. Did you ever hear the like?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="642">Letter for letter, but that the name of Page and
+Ford differs! To thy great comfort in this mystery
+of ill opinions, here's the twin-brother of thy
+letter: but let thine inherit first; for, I
+protest, mine never shall. I warrant he hath a
+thousand of these letters, writ with blank space for
+different names--sure, more,--and these are of the
+second edition: he will print them, out of doubt;
+for he cares not what he puts into the press, when
+he would put us two. I had rather be a giantess,
+and lie under Mount Pelion. Well, I will find you
+twenty lascivious turtles ere one chaste man.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="654">Why, this is the very same; the very hand, the very
+words. What doth he think of us?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="656">Nay, I know not: it makes me almost ready to
+wrangle with mine own honesty. I'll entertain
+myself like one that I am not acquainted withal;
+for, sure, unless he know some strain in me, that I
+know not myself, he would never have boarded me in this fury.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="661">'Boarding,' call you it? I'll be sure to keep him
+above deck.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="663">So will I. if he come under my hatches, I'll never
+to sea again. Let's be revenged on him: let's
+appoint him a meeting; give him a show of comfort in
+his suit and lead him on with a fine-baited delay,
+till he hath pawned his horses to mine host of the Garter.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="668">Nay, I will consent to act any villany against him,
+that may not sully the chariness of our honesty. O,
+that my husband saw this letter! it would give
+eternal food to his jealousy.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="672">Why, look where he comes; and my good man too: he's
+as far from jealousy as I am from giving him cause;
+and that I hope is an unmeasurable distance.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="675">You are the happier woman.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="676">Let's consult together against this greasy knight.
+Come hither.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="678">[They retire]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="679">[Enter FORD with PISTOL, and PAGE with NYM]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="680">Well, I hope it be not so.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="681">Hope is a curtal dog in some affairs:
+Sir John affects thy wife.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="683">Why, sir, my wife is not young.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="684">He wooes both high and low, both rich and poor,
+Both young and old, one with another, Ford;
+He loves the gallimaufry: Ford, perpend.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="687">Love my wife!</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="688">With liver burning hot. Prevent, or go thou,
+Like Sir Actaeon he, with Ringwood at thy heels:
+O, odious is the name!</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="691">What name, sir?</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="692">The horn, I say. Farewell.
+Take heed, have open eye, for thieves do foot by night:
+Take heed, ere summer comes or cuckoo-birds do sing.
+Away, Sir Corporal Nym!
+Believe it, Page; he speaks sense.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="697">[Exit]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="698">[Aside] I will be patient; I will find out this.</lb>
+      </sp>
+      <sp who="#Nym">
+        <lb n="699">[To PAGE] And this is true; I like not the humour
+of lying. He hath wronged me in some humours: I
+should have borne the humoured letter to her; but I
+have a sword and it shall bite upon my necessity.
+He loves your wife; there's the short and the long.
+My name is Corporal Nym; I speak and I avouch; 'tis
+true: my name is Nym and Falstaff loves your wife.
+Adieu. I love not the humour of bread and cheese,
+and there's the humour of it. Adieu.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="708">[Exit]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="709">'The humour of it,' quoth a'! here's a fellow
+frights English out of his wits.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="711">I will seek out Falstaff.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="712">I never heard such a drawling, affecting rogue.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="713">If I do find it: well.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="714">I will not believe such a Cataian, though the priest
+o' the town commended him for a true man.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="716">'Twas a good sensible fellow: well.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="717">How now, Meg!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="718">[MISTRESS PAGE and MISTRESS FORD come forward]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="719">Whither go you, George? Hark you.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="720">How now, sweet Frank! why art thou melancholy?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="721">I melancholy! I am not melancholy. Get you home, go.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="722">Faith, thou hast some crotchets in thy head. Now,
+will you go, Mistress Page?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="724">Have with you. You'll come to dinner, George.
+[Aside to MISTRESS FORD]
+Look who comes yonder: she shall be our messenger
+to this paltry knight.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="728">[Aside to MISTRESS PAGE] Trust me, I thought on her:
+she'll fit it.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="730">[Enter MISTRESS QUICKLY]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="731">You are come to see my daughter Anne?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="732">Ay, forsooth; and, I pray, how does good Mistress Anne?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="733">Go in with us and see: we have an hour's talk with
+you.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="735">[Exeunt MISTRESS PAGE, MISTRESS FORD, and MISTRESS QUICKLY]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="736">How now, Master Ford!</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="737">You heard what this knave told me, did you not?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="738">Yes: and you heard what the other told me?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="739">Do you think there is truth in them?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="740">Hang 'em, slaves! I do not think the knight would
+offer it: but these that accuse him in his intent
+towards our wives are a yoke of his discarded men;
+very rogues, now they be out of service.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="744">Were they his men?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="745">Marry, were they.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="746">I like it never the better for that. Does he lie at
+the Garter?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="748">Ay, marry, does he. If he should intend this voyage
+towards my wife, I would turn her loose to him; and
+what he gets more of her than sharp words, let it
+lie on my head.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="752">I do not misdoubt my wife; but I would be loath to
+turn them together. A man may be too confident: I
+would have nothing lie on my head: I cannot be thus satisfied.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="755">Look where my ranting host of the Garter comes:
+there is either liquor in his pate or money in his
+purse when he looks so merrily.
+[Enter Host]
+How now, mine host!</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="760">How now, bully-rook! thou'rt a gentleman.
+Cavaleiro-justice, I say!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="762">[Enter SHALLOW]</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="763">I follow, mine host, I follow. Good even and
+twenty, good Master Page! Master Page, will you go
+with us? we have sport in hand.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="766">Tell him, cavaleiro-justice; tell him, bully-rook.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="767">Sir, there is a fray to be fought between Sir Hugh
+the Welsh priest and Caius the French doctor.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="769">Good mine host o' the Garter, a word with you.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="770">[Drawing him aside]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="771">What sayest thou, my bully-rook?</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="772">[To PAGE] Will you go with us to behold it? My
+merry host hath had the measuring of their weapons;
+and, I think, hath appointed them contrary places;
+for, believe me, I hear the parson is no jester.
+Hark, I will tell you what our sport shall be.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="777">[They converse apart]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="778">Hast thou no suit against my knight, my
+guest-cavaleire?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="780">None, I protest: but I'll give you a pottle of
+burnt sack to give me recourse to him and tell him
+my name is Brook; only for a jest.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="783">My hand, bully; thou shalt have egress and regress;
+--said I well?--and thy name shall be Brook. It is
+a merry knight. Will you go, An-heires?</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="786">Have with you, mine host.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="787">I have heard the Frenchman hath good skill in
+his rapier.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="789">Tut, sir, I could have told you more. In these times
+you stand on distance, your passes, stoccadoes, and
+I know not what: 'tis the heart, Master Page; 'tis
+here, 'tis here. I have seen the time, with my long
+sword I would have made you four tall fellows skip like rats.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="794">Here, boys, here, here! shall we wag?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="795">Have with you. I would rather hear them scold than fight.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="796">[Exeunt Host, SHALLOW, and PAGE]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="797">Though Page be a secure fool, an stands so firmly
+on his wife's frailty, yet I cannot put off my
+opinion so easily: she was in his company at Page's
+house; and what they made there, I know not. Well,
+I will look further into't: and I have a disguise
+to sound Falstaff. If I find her honest, I lose not
+my labour; if she be otherwise, 'tis labour well bestowed.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="804">[Exit]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="807">[Enter FALSTAFF and PISTOL]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="808">I will not lend thee a penny.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="809">Why, then the world's mine oyster.
+Which I with sword will open.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="811">Not a penny. I have been content, sir, you should
+lay my countenance to pawn; I have grated upon my
+good friends for three reprieves for you and your
+coach-fellow Nym; or else you had looked through
+the grate, like a geminy of baboons. I am damned in
+hell for swearing to gentlemen my friends, you were
+good soldiers and tall fellows; and when Mistress
+Bridget lost the handle of her fan, I took't upon
+mine honour thou hadst it not.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="820">Didst not thou share? hadst thou not fifteen pence?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="821">Reason, you rogue, reason: thinkest thou I'll
+endanger my soul gratis? At a word, hang no more
+about me, I am no gibbet for you. Go. A short knife
+and a throng! To your manor of Pickt-hatch! Go.
+You'll not bear a letter for me, you rogue! you
+stand upon your honour! Why, thou unconfinable
+baseness, it is as much as I can do to keep the
+terms of my honour precise: I, I, I myself
+sometimes, leaving the fear of God on the left hand
+and hiding mine honour in my necessity, am fain to
+shuffle, to hedge and to lurch; and yet you, rogue,
+will ensconce your rags, your cat-a-mountain
+looks, your red-lattice phrases, and your
+bold-beating oaths, under the shelter of your
+honour! You will not do it, you!</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="836">I do relent: what would thou more of man?</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="837">[Enter ROBIN]</lb>
+      </sp>
+      <sp who="#Robin">
+        <lb n="838">Sir, here's a woman would speak with you.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="839">Let her approach.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="840">[Enter MISTRESS QUICKLY]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="841">Give your worship good morrow.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="842">Good morrow, good wife.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="843">Not so, an't please your worship.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="844">Good maid, then.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="845">I'll be sworn,
+As my mother was, the first hour I was born.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="847">I do believe the swearer. What with me?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="848">Shall I vouchsafe your worship a word or two?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="849">Two thousand, fair woman: and I'll vouchsafe thee
+the hearing.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="851">There is one Mistress Ford, sir:--I pray, come a
+little nearer this ways:--I myself dwell with master
+Doctor Caius,--</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="854">Well, on: Mistress Ford, you say,--</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="855">Your worship says very true: I pray your worship,
+come a little nearer this ways.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="857">I warrant thee, nobody hears; mine own people, mine
+own people.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="859">Are they so? God bless them and make them his servants!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="860">Well, Mistress Ford; what of her?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="861">Why, sir, she's a good creature. Lord Lord! your
+worship's a wanton! Well, heaven forgive you and all
+of us, I pray!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="864">Mistress Ford; come, Mistress Ford,--</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="865">Marry, this is the short and the long of it; you
+have brought her into such a canaries as 'tis
+wonderful. The best courtier of them all, when the
+court lay at Windsor, could never have brought her
+to such a canary. Yet there has been knights, and
+lords, and gentlemen, with their coaches, I warrant
+you, coach after coach, letter after letter, gift
+after gift; smelling so sweetly, all musk, and so
+rushling, I warrant you, in silk and gold; and in
+such alligant terms; and in such wine and sugar of
+the best and the fairest, that would have won any
+woman's heart; and, I warrant you, they could never
+get an eye-wink of her: I had myself twenty angels
+given me this morning; but I defy all angels, in
+any such sort, as they say, but in the way of
+honesty: and, I warrant you, they could never get
+her so much as sip on a cup with the proudest of
+them all: and yet there has been earls, nay, which
+is more, pensioners; but, I warrant you, all is one with her.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="884">But what says she to me? be brief, my good
+she-Mercury.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="886">Marry, she hath received your letter, for the which
+she thanks you a thousand times; and she gives you
+to notify that her husband will be absence from his
+house between ten and eleven.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="890">Ten and eleven?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="891">Ay, forsooth; and then you may come and see the
+picture, she says, that you wot of: Master Ford,
+her husband, will be from home. Alas! the sweet
+woman leads an ill life with him: he's a very
+jealousy man: she leads a very frampold life with
+him, good heart.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="897">Ten and eleven. Woman, commend me to her; I will
+not fail her.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="899">Why, you say well. But I have another messenger to
+your worship. Mistress Page hath her hearty
+commendations to you too: and let me tell you in
+your ear, she's as fartuous a civil modest wife, and
+one, I tell you, that will not miss you morning nor
+evening prayer, as any is in Windsor, whoe'er be the
+other: and she bade me tell your worship that her
+husband is seldom from home; but she hopes there
+will come a time. I never knew a woman so dote upon
+a man: surely I think you have charms, la; yes, in truth.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="909">Not I, I assure thee: setting the attractions of my
+good parts aside I have no other charms.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="911">Blessing on your heart for't!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="912">But, I pray thee, tell me this: has Ford's wife and
+Page's wife acquainted each other how they love me?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="914">That were a jest indeed! they have not so little
+grace, I hope: that were a trick indeed! but
+Mistress Page would desire you to send her your
+little page, of all loves: her husband has a
+marvellous infection to the little page; and truly
+Master Page is an honest man. Never a wife in
+Windsor leads a better life than she does: do what
+she will, say what she will, take all, pay all, go
+to bed when she list, rise when she list, all is as
+she will: and truly she deserves it; for if there
+be a kind woman in Windsor, she is one. You must
+send her your page; no remedy.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="926">Why, I will.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="927">Nay, but do so, then: and, look you, he may come and
+go between you both; and in any case have a
+nay-word, that you may know one another's mind, and
+the boy never need to understand any thing; for
+'tis not good that children should know any
+wickedness: old folks, you know, have discretion,
+as they say, and know the world.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="934">Fare thee well: commend me to them both: there's
+my purse; I am yet thy debtor. Boy, go along with
+this woman.
+[Exeunt MISTRESS QUICKLY and ROBIN]
+This news distracts me!</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="939">This punk is one of Cupid's carriers:
+Clap on more sails; pursue; up with your fights:
+Give fire: she is my prize, or ocean whelm them all!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="942">[Exit]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="943">Sayest thou so, old Jack? go thy ways; I'll make
+more of thy old body than I have done. Will they
+yet look after thee? Wilt thou, after the expense
+of so much money, be now a gainer? Good body, I
+thank thee. Let them say 'tis grossly done; so it be
+fairly done, no matter.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="949">[Enter BARDOLPH]</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="950">Sir John, there's one Master Brook below would fain
+speak with you, and be acquainted with you; and hath
+sent your worship a morning's draught of sack.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="953">Brook is his name?</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="954">Ay, sir.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="955">Call him in.
+[Exit BARDOLPH]
+Such Brooks are welcome to me, that o'erflow such
+liquor. Ah, ha! Mistress Ford and Mistress Page
+have I encompassed you? go to; via!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="960">[Re-enter BARDOLPH, with FORD disguised]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="961">Bless you, sir!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="962">And you, sir! Would you speak with me?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="963">I make bold to press with so little preparation upon
+you.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="965">You're welcome. What's your will? Give us leave, drawer.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="966">[Exit BARDOLPH]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="967">Sir, I am a gentleman that have spent much; my name is Brook.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="968">Good Master Brook, I desire more acquaintance of you.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="969">Good Sir John, I sue for yours: not to charge you;
+for I must let you understand I think myself in
+better plight for a lender than you are: the which
+hath something embolden'd me to this unseasoned
+intrusion; for they say, if money go before, all
+ways do lie open.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="975">Money is a good soldier, sir, and will on.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="976">Troth, and I have a bag of money here troubles me:
+if you will help to bear it, Sir John, take all, or
+half, for easing me of the carriage.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="979">Sir, I know not how I may deserve to be your porter.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="980">I will tell you, sir, if you will give me the hearing.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="981">Speak, good Master Brook: I shall be glad to be
+your servant.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="983">Sir, I hear you are a scholar,--I will be brief
+with you,--and you have been a man long known to me,
+though I had never so good means, as desire, to make
+myself acquainted with you. I shall discover a
+thing to you, wherein I must very much lay open mine
+own imperfection: but, good Sir John, as you have
+one eye upon my follies, as you hear them unfolded,
+turn another into the register of your own; that I
+may pass with a reproof the easier, sith you
+yourself know how easy it is to be such an offender.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="993">Very well, sir; proceed.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="994">There is a gentlewoman in this town; her husband's
+name is Ford.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="996">Well, sir.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="997">I have long loved her, and, I protest to you,
+bestowed much on her; followed her with a doting
+observance; engrossed opportunities to meet her;
+fee'd every slight occasion that could but niggardly
+give me sight of her; not only bought many presents
+to give her, but have given largely to many to know
+what she would have given; briefly, I have pursued
+her as love hath pursued me; which hath been on the
+wing of all occasions. But whatsoever I have
+merited, either in my mind or, in my means, meed,
+I am sure, I have received none; unless experience
+be a jewel that I have purchased at an infinite
+rate, and that hath taught me to say this:
+'Love like a shadow flies when substance love pursues;
+Pursuing that that flies, and flying what pursues.'</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1012">Have you received no promise of satisfaction at her hands?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1013">Never.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1014">Have you importuned her to such a purpose?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1015">Never.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1016">Of what quality was your love, then?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1017">Like a fair house built on another man's ground; so
+that I have lost my edifice by mistaking the place
+where I erected it.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1020">To what purpose have you unfolded this to me?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1021">When I have told you that, I have told you all.
+Some say, that though she appear honest to me, yet in
+other places she enlargeth her mirth so far that
+there is shrewd construction made of her. Now, Sir
+John, here is the heart of my purpose: you are a
+gentleman of excellent breeding, admirable
+discourse, of great admittance, authentic in your
+place and person, generally allowed for your many
+war-like, court-like, and learned preparations.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1030">O, sir!</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1031">Believe it, for you know it. There is money; spend
+it, spend it; spend more; spend all I have; only
+give me so much of your time in exchange of it, as
+to lay an amiable siege to the honesty of this
+Ford's wife: use your art of wooing; win her to
+consent to you: if any man may, you may as soon as
+any.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1038">Would it apply well to the vehemency of your
+affection, that I should win what you would enjoy?
+Methinks you prescribe to yourself very preposterously.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1041">O, understand my drift. She dwells so securely on
+the excellency of her honour, that the folly of my
+soul dares not present itself: she is too bright to
+be looked against. Now, could I could come to her
+with any detection in my hand, my desires had
+instance and argument to commend themselves: I
+could drive her then from the ward of her purity,
+her reputation, her marriage-vow, and a thousand
+other her defences, which now are too too strongly
+embattled against me. What say you to't, Sir John?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1051">Master Brook, I will first make bold with your
+money; next, give me your hand; and last, as I am a
+gentleman, you shall, if you will, enjoy Ford's wife.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1054">O good sir!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1055">I say you shall.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1056">Want no money, Sir John; you shall want none.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1057">Want no Mistress Ford, Master Brook; you shall want
+none. I shall be with her, I may tell you, by her
+own appointment; even as you came in to me, her
+assistant or go-between parted from me: I say I
+shall be with her between ten and eleven; for at
+that time the jealous rascally knave her husband
+will be forth. Come you to me at night; you shall
+know how I speed.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1065">I am blest in your acquaintance. Do you know Ford,
+sir?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1067">Hang him, poor cuckoldly knave! I know him not:
+yet I wrong him to call him poor; they say the
+jealous wittolly knave hath masses of money; for the
+which his wife seems to me well-favored. I will
+use her as the key of the cuckoldly rogue's coffer;
+and there's my harvest-home.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1073">I would you knew Ford, sir, that you might avoid him
+if you saw him.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1075">Hang him, mechanical salt-butter rogue! I will
+stare him out of his wits; I will awe him with my
+cudgel: it shall hang like a meteor o'er the
+cuckold's horns. Master Brook, thou shalt know I
+will predominate over the peasant, and thou shalt
+lie with his wife. Come to me soon at night.
+Ford's a knave, and I will aggravate his style;
+thou, Master Brook, shalt know him for knave and
+cuckold. Come to me soon at night.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1084">[Exit]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1085">What a damned Epicurean rascal is this! My heart is
+ready to crack with impatience. Who says this is
+improvident jealousy? my wife hath sent to him; the
+hour is fixed; the match is made. Would any man
+have thought this? See the hell of having a false
+woman! My bed shall be abused, my coffers
+ransacked, my reputation gnawn at; and I shall not
+only receive this villanous wrong, but stand under
+the adoption of abominable terms, and by him that
+does me this wrong. Terms! names! Amaimon sounds
+well; Lucifer, well; Barbason, well; yet they are
+devils' additions, the names of fiends: but
+Cuckold! Wittol!--Cuckold! the devil himself hath
+not such a name. Page is an ass, a secure ass: he
+will trust his wife; he will not be jealous. I will
+rather trust a Fleming with my butter, Parson Hugh
+the Welshman with my cheese, an Irishman with my
+aqua-vitae bottle, or a thief to walk my ambling
+gelding, than my wife with herself; then she plots,
+then she ruminates, then she devises; and what they
+think in their hearts they may effect, they will
+break their hearts but they will effect. God be
+praised for my jealousy! Eleven o'clock the hour.
+I will prevent this, detect my wife, be revenged on
+Falstaff, and laugh at Page. I will about it;
+better three hours too soon than a minute too late.
+Fie, fie, fie! cuckold! cuckold! cuckold!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1112">[Exit]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="3">
+      <sp who="#(stage_directions)">
+        <lb n="1115">[Enter DOCTOR CAIUS and RUGBY]</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1116">Jack Rugby!</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="1117">Sir?</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1118">Vat is de clock, Jack?</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="1119">'Tis past the hour, sir, that Sir Hugh promised to meet.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1120">By gar, he has save his soul, dat he is no come; he
+has pray his Pible well, dat he is no come: by gar,
+Jack Rugby, he is dead already, if he be come.</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="1123">He is wise, sir; he knew your worship would kill
+him, if he came.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1125">By gar, de herring is no dead so as I vill kill him.
+Take your rapier, Jack; I vill tell you how I vill kill him.</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="1127">Alas, sir, I cannot fence.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1128">Villany, take your rapier.</lb>
+      </sp>
+      <sp who="#Rugby">
+        <lb n="1129">Forbear; here's company.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1130">[Enter Host, SHALLOW, SLENDER, and PAGE]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1131">Bless thee, bully doctor!</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1132">Save you, Master Doctor Caius!</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1133">Now, good master doctor!</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1134">Give you good morrow, sir.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1135">Vat be all you, one, two, tree, four, come for?</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1136">To see thee fight, to see thee foin, to see thee
+traverse; to see thee here, to see thee there; to
+see thee pass thy punto, thy stock, thy reverse, thy
+distance, thy montant. Is he dead, my Ethiopian? is
+he dead, my Francisco? ha, bully! What says my
+AEsculapius? my Galen? my heart of elder? ha! is
+he dead, bully stale? is he dead?</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1143">By gar, he is de coward Jack priest of de vorld; he
+is not show his face.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1145">Thou art a Castalion-King-Urinal. Hector of Greece, my boy!</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1146">I pray you, bear vitness that me have stay six or
+seven, two, tree hours for him, and he is no come.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1148">He is the wiser man, master doctor: he is a curer of
+souls, and you a curer of bodies; if you should
+fight, you go against the hair of your professions.
+Is it not true, Master Page?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1152">Master Shallow, you have yourself been a great
+fighter, though now a man of peace.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1154">Bodykins, Master Page, though I now be old and of
+the peace, if I see a sword out, my finger itches to
+make one. Though we are justices and doctors and
+churchmen, Master Page, we have some salt of our
+youth in us; we are the sons of women, Master Page.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1159">'Tis true, Master Shallow.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1160">It will be found so, Master Page. Master Doctor
+Caius, I am come to fetch you home. I am sworn of
+the peace: you have showed yourself a wise
+physician, and Sir Hugh hath shown himself a wise
+and patient churchman. You must go with me, master doctor.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1165">Pardon, guest-justice. A word, Mounseur Mockwater.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1166">Mock-vater! vat is dat?</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1167">Mock-water, in our English tongue, is valour, bully.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1168">By gar, den, I have as mush mock-vater as de
+Englishman. Scurvy jack-dog priest! by gar, me
+vill cut his ears.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1171">He will clapper-claw thee tightly, bully.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1172">Clapper-de-claw! vat is dat?</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1173">That is, he will make thee amends.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1174">By gar, me do look he shall clapper-de-claw me;
+for, by gar, me vill have it.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1176">And I will provoke him to't, or let him wag.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1177">Me tank you for dat.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1178">And, moreover, bully,--but first, master guest, and
+Master Page, and eke Cavaleiro Slender, go you
+through the town to Frogmore.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1181">[Aside to them]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1182">Sir Hugh is there, is he?</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1183">He is there: see what humour he is in; and I will
+bring the doctor about by the fields. Will it do well?</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1185">We will do it.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1186">[with Shallow and Slender] Adieu, good master doctor.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1187">[Exeunt PAGE, SHALLOW, and SLENDER]</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1188">By gar, me vill kill de priest; for he speak for a
+jack-an-ape to Anne Page.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1190">Let him die: sheathe thy impatience, throw cold
+water on thy choler: go about the fields with me
+through Frogmore: I will bring thee where Mistress
+Anne Page is, at a farm-house a-feasting; and thou
+shalt woo her. Cried I aim? said I well?</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1195">By gar, me dank you for dat: by gar, I love you;
+and I shall procure-a you de good guest, de earl,
+de knight, de lords, de gentlemen, my patients.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1198">For the which I will be thy adversary toward Anne
+Page. Said I well?</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1200">By gar, 'tis good; vell said.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1201">Let us wag, then.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1202">Come at my heels, Jack Rugby.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1203">[Exeunt]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="3">
+    <div type="scene" n="1">
+      <sp who="#(stage_directions)">
+        <lb n="1206">[Enter SIR HUGH EVANS and SIMPLE]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1207">I pray you now, good master Slender's serving-man,
+and friend Simple by your name, which way have you
+looked for Master Caius, that calls himself doctor of physic?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="1210">Marry, sir, the pittie-ward, the park-ward, every
+way; old Windsor way, and every way but the town
+way.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1213">I most fehemently desire you you will also look that
+way.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="1215">I will, sir.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1216">[Exit]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1217">'Pless my soul, how full of chollors I am, and
+trempling of mind! I shall be glad if he have
+deceived me. How melancholies I am! I will knog
+his urinals about his knave's costard when I have
+good opportunities for the ork. 'Pless my soul!
+[Sings]
+To shallow rivers, to whose falls
+Melodious birds sings madrigals;
+There will we make our peds of roses,
+And a thousand fragrant posies.
+To shallow--
+Mercy on me! I have a great dispositions to cry.
+[Sings]
+Melodious birds sing madrigals--
+When as I sat in Pabylon--
+And a thousand vagram posies.
+To shallow &amp;c.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1234">[Re-enter SIMPLE]</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="1235">Yonder he is coming, this way, Sir Hugh.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1236">He's welcome.
+[Sings]
+To shallow rivers, to whose falls-
+Heaven prosper the right! What weapons is he?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="1240">No weapons, sir. There comes my master, Master
+Shallow, and another gentleman, from Frogmore, over
+the stile, this way.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1243">Pray you, give me my gown; or else keep it in your arms.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1244">[Enter PAGE, SHALLOW, and SLENDER]</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1245">How now, master Parson! Good morrow, good Sir Hugh.
+Keep a gamester from the dice, and a good student
+from his book, and it is wonderful.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1248">[Aside] Ah, sweet Anne Page!</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1249">'Save you, good Sir Hugh!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1250">'Pless you from his mercy sake, all of you!</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1251">What, the sword and the word! do you study them
+both, master parson?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1253">And youthful still! in your doublet and hose this
+raw rheumatic day!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1255">There is reasons and causes for it.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1256">We are come to you to do a good office, master parson.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1257">Fery well: what is it?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1258">Yonder is a most reverend gentleman, who, belike
+having received wrong by some person, is at most
+odds with his own gravity and patience that ever you
+saw.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1262">I have lived fourscore years and upward; I never
+heard a man of his place, gravity and learning, so
+wide of his own respect.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1265">What is he?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1266">I think you know him; Master Doctor Caius, the
+renowned French physician.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1268">Got's will, and his passion of my heart! I had as
+lief you would tell me of a mess of porridge.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1270">Why?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1271">He has no more knowledge in Hibocrates and Galen,
+--and he is a knave besides; a cowardly knave as you
+would desires to be acquainted withal.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1274">I warrant you, he's the man should fight with him.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1275">[Aside] O sweet Anne Page!</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1276">It appears so by his weapons. Keep them asunder:
+here comes Doctor Caius.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1278">[Enter Host, DOCTOR CAIUS, and RUGBY]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1279">Nay, good master parson, keep in your weapon.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1280">So do you, good master doctor.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1281">Disarm them, and let them question: let them keep
+their limbs whole and hack our English.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1283">I pray you, let-a me speak a word with your ear.
+Vherefore vill you not meet-a me?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1285">[Aside to DOCTOR CAIUS] Pray you, use your patience:
+in good time.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1287">By gar, you are de coward, de Jack dog, John ape.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1288">[Aside to DOCTOR CAIUS] Pray you let us not be
+laughing-stocks to other men's humours; I desire you
+in friendship, and I will one way or other make you amends.
+[Aloud]
+I will knog your urinals about your knave's cockscomb
+for missing your meetings and appointments.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1294">Diable! Jack Rugby,--mine host de Jarteer,--have I
+not stay for him to kill him? have I not, at de place
+I did appoint?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1297">As I am a Christians soul now, look you, this is the
+place appointed: I'll be judgement by mine host of
+the Garter.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1300">Peace, I say, Gallia and Gaul, French and Welsh,
+soul-curer and body-curer!</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1302">Ay, dat is very good; excellent.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1303">Peace, I say! hear mine host of the Garter. Am I
+politic? am I subtle? am I a Machiavel? Shall I
+lose my doctor? no; he gives me the potions and the
+motions. Shall I lose my parson, my priest, my Sir
+Hugh? no; he gives me the proverbs and the
+no-verbs. Give me thy hand, terrestrial; so. Give me
+thy hand, celestial; so. Boys of art, I have
+deceived you both; I have directed you to wrong
+places: your hearts are mighty, your skins are
+whole, and let burnt sack be the issue. Come, lay
+their swords to pawn. Follow me, lads of peace;
+follow, follow, follow.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1315">Trust me, a mad host. Follow, gentlemen, follow.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1316">[Aside] O sweet Anne Page!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1317">[Exeunt SHALLOW, SLENDER, PAGE, and Host]</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1318">Ha, do I perceive dat? have you make-a de sot of
+us, ha, ha?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1320">This is well; he has made us his vlouting-stog. I
+desire you that we may be friends; and let us knog
+our prains together to be revenge on this same
+scall, scurvy cogging companion, the host of the Garter.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1324">By gar, with all my heart. He promise to bring me
+where is Anne Page; by gar, he deceive me too.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1326">Well, I will smite his noddles. Pray you, follow.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1327">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="1330">[Enter MISTRESS PAGE and ROBIN]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1331">Nay, keep your way, little gallant; you were wont to
+be a follower, but now you are a leader. Whether
+had you rather lead mine eyes, or eye your master's heels?</lb>
+      </sp>
+      <sp who="#Robin">
+        <lb n="1334">I had rather, forsooth, go before you like a man
+than follow him like a dwarf.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1336">O, you are a flattering boy: now I see you'll be a courtier.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1337">[Enter FORD]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1338">Well met, Mistress Page. Whither go you?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1339">Truly, sir, to see your wife. Is she at home?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1340">Ay; and as idle as she may hang together, for want
+of company. I think, if your husbands were dead,
+you two would marry.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1343">Be sure of that,--two other husbands.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1344">Where had you this pretty weather-cock?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1345">I cannot tell what the dickens his name is my
+husband had him of. What do you call your knight's
+name, sirrah?</lb>
+      </sp>
+      <sp who="#Robin">
+        <lb n="1348">Sir John Falstaff.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1349">Sir John Falstaff!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1350">He, he; I can never hit on's name. There is such a
+league between my good man and he! Is your wife at
+home indeed?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1353">Indeed she is.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1354">By your leave, sir: I am sick till I see her.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1355">[Exeunt MISTRESS PAGE and ROBIN]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1356">Has Page any brains? hath he any eyes? hath he any
+thinking? Sure, they sleep; he hath no use of them.
+Why, this boy will carry a letter twenty mile, as
+easy as a cannon will shoot point-blank twelve
+score. He pieces out his wife's inclination; he
+gives her folly motion and advantage: and now she's
+going to my wife, and Falstaff's boy with her. A
+man may hear this shower sing in the wind. And
+Falstaff's boy with her! Good plots, they are laid;
+and our revolted wives share damnation together.
+Well; I will take him, then torture my wife, pluck
+the borrowed veil of modesty from the so seeming
+Mistress Page, divulge Page himself for a secure and
+wilful Actaeon; and to these violent proceedings all
+my neighbours shall cry aim.
+[Clock heard]
+The clock gives me my cue, and my assurance bids me
+search: there I shall find Falstaff: I shall be
+rather praised for this than mocked; for it is as
+positive as the earth is firm that Falstaff is
+there: I will go.
+[Enter PAGE, SHALLOW, SLENDER, Host,]
+SIR HUGH EVANS, DOCTOR CAIUS, and RUGBY]</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1379">[with Page and others] Well met, Master Ford.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1380">Trust me, a good knot: I have good cheer at home;
+and I pray you all go with me.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1382">I must excuse myself, Master Ford.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1383">And so must I, sir: we have appointed to dine with
+Mistress Anne, and I would not break with her for
+more money than I'll speak of.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1386">We have lingered about a match between Anne Page and
+my cousin Slender, and this day we shall have our answer.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1388">I hope I have your good will, father Page.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1389">You have, Master Slender; I stand wholly for you:
+but my wife, master doctor, is for you altogether.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1391">Ay, be-gar; and de maid is love-a me: my nursh-a
+Quickly tell me so mush.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1393">What say you to young Master Fenton? he capers, he
+dances, he has eyes of youth, he writes verses, he
+speaks holiday, he smells April and May: he will
+carry't, he will carry't; 'tis in his buttons; he
+will carry't.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1398">Not by my consent, I promise you. The gentleman is
+of no having: he kept company with the wild prince
+and Poins; he is of too high a region; he knows too
+much. No, he shall not knit a knot in his fortunes
+with the finger of my substance: if he take her,
+let him take her simply; the wealth I have waits on
+my consent, and my consent goes not that way.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1405">I beseech you heartily, some of you go home with me
+to dinner: besides your cheer, you shall have
+sport; I will show you a monster. Master doctor,
+you shall go; so shall you, Master Page; and you, Sir Hugh.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1409">Well, fare you well: we shall have the freer wooing
+at Master Page's.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1411">[Exeunt SHALLOW, and SLENDER]</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1412">Go home, John Rugby; I come anon.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1413">[Exit RUGBY]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="1414">Farewell, my hearts: I will to my honest knight
+Falstaff, and drink canary with him.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1416">[Exit]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1417">[Aside] I think I shall drink in pipe wine first
+with him; I'll make him dance. Will you go, gentles?</lb>
+      </sp>
+      <sp who="#All">
+        <lb n="1419">Have with you to see this monster.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1420">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="3">
+      <sp who="#(stage_directions)">
+        <lb n="1423">[Enter MISTRESS FORD and MISTRESS PAGE]</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1424">What, John! What, Robert!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1425">Quickly, quickly! is the buck-basket--</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1426">I warrant. What, Robin, I say!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1427">[Enter Servants with a basket]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1428">Come, come, come.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1429">Here, set it down.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1430">Give your men the charge; we must be brief.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1431">Marry, as I told you before, John and Robert, be
+ready here hard by in the brew-house: and when I
+suddenly call you, come forth, and without any pause
+or staggering take this basket on your shoulders:
+that done, trudge with it in all haste, and carry
+it among the whitsters in Datchet-mead, and there
+empty it in the muddy ditch close by the Thames side.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1438">You will do it?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1439">I ha' told them over and over; they lack no
+direction. Be gone, and come when you are called.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1441">[Exeunt Servants]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1442">Here comes little Robin.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1443">[Enter ROBIN]</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1444">How now, my eyas-musket! what news with you?</lb>
+      </sp>
+      <sp who="#Robin">
+        <lb n="1445">My master, Sir John, is come in at your back-door,
+Mistress Ford, and requests your company.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1447">You little Jack-a-Lent, have you been true to us?</lb>
+      </sp>
+      <sp who="#Robin">
+        <lb n="1448">Ay, I'll be sworn. My master knows not of your
+being here and hath threatened to put me into
+everlasting liberty if I tell you of it; for he
+swears he'll turn me away.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1452">Thou'rt a good boy: this secrecy of thine shall be
+a tailor to thee and shall make thee a new doublet
+and hose. I'll go hide me.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1455">Do so. Go tell thy master I am alone.
+[Exit ROBIN]
+Mistress Page, remember you your cue.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1458">I warrant thee; if I do not act it, hiss me.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1459">[Exit]</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1460">Go to, then: we'll use this unwholesome humidity,
+this gross watery pumpion; we'll teach him to know
+turtles from jays.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1463">[Enter FALSTAFF]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1464">Have I caught thee, my heavenly jewel? Why, now let
+me die, for I have lived long enough: this is the
+period of my ambition: O this blessed hour!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1467">O sweet Sir John!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1468">Mistress Ford, I cannot cog, I cannot prate,
+Mistress Ford. Now shall I sin in my wish: I would
+thy husband were dead: I'll speak it before the
+best lord; I would make thee my lady.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1472">I your lady, Sir John! alas, I should be a pitiful lady!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1473">Let the court of France show me such another. I see
+how thine eye would emulate the diamond: thou hast
+the right arched beauty of the brow that becomes the
+ship-tire, the tire-valiant, or any tire of
+Venetian admittance.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1478">A plain kerchief, Sir John: my brows become nothing
+else; nor that well neither.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1480">By the Lord, thou art a traitor to say so: thou
+wouldst make an absolute courtier; and the firm
+fixture of thy foot would give an excellent motion
+to thy gait in a semi-circled farthingale. I see
+what thou wert, if Fortune thy foe were not, Nature
+thy friend. Come, thou canst not hide it.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1486">Believe me, there is no such thing in me.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1487">What made me love thee? let that persuade thee
+there's something extraordinary in thee. Come, I
+cannot cog and say thou art this and that, like a
+many of these lisping hawthorn-buds, that come like
+women in men's apparel, and smell like Bucklersbury
+in simple time; I cannot: but I love thee; none
+but thee; and thou deservest it.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1494">Do not betray me, sir. I fear you love Mistress Page.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1495">Thou mightst as well say I love to walk by the
+Counter-gate, which is as hateful to me as the reek
+of a lime-kiln.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1498">Well, heaven knows how I love you; and you shall one
+day find it.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1500">Keep in that mind; I'll deserve it.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1501">Nay, I must tell you, so you do; or else I could not
+be in that mind.</lb>
+      </sp>
+      <sp who="#Robin">
+        <lb n="1503">[Within] Mistress Ford, Mistress Ford! here's
+Mistress Page at the door, sweating and blowing and
+looking wildly, and would needs speak with you presently.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1506">She shall not see me: I will ensconce me behind the arras.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1507">Pray you, do so: she's a very tattling woman.
+[FALSTAFF hides himself]
+[Re-enter MISTRESS PAGE and ROBIN]
+What's the matter? how now!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1511">O Mistress Ford, what have you done? You're shamed,
+you're overthrown, you're undone for ever!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1513">What's the matter, good Mistress Page?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1514">O well-a-day, Mistress Ford! having an honest man
+to your husband, to give him such cause of suspicion!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1516">What cause of suspicion?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1517">What cause of suspicion! Out pon you! how am I
+mistook in you!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1519">Why, alas, what's the matter?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1520">Your husband's coming hither, woman, with all the
+officers in Windsor, to search for a gentleman that
+he says is here now in the house by your consent, to
+take an ill advantage of his assence: you are undone.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1524">'Tis not so, I hope.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1525">Pray heaven it be not so, that you have such a man
+here! but 'tis most certain your husband's coming,
+with half Windsor at his heels, to search for such a
+one. I come before to tell you. If you know
+yourself clear, why, I am glad of it; but if you
+have a friend here convey, convey him out. Be not
+amazed; call all your senses to you; defend your
+reputation, or bid farewell to your good life for ever.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1533">What shall I do? There is a gentleman my dear
+friend; and I fear not mine own shame so much as his
+peril: I had rather than a thousand pound he were
+out of the house.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1537">For shame! never stand 'you had rather' and 'you
+had rather:' your husband's here at hand, bethink
+you of some conveyance: in the house you cannot
+hide him. O, how have you deceived me! Look, here
+is a basket: if he be of any reasonable stature, he
+may creep in here; and throw foul linen upon him, as
+if it were going to bucking: or--it is whiting-time
+--send him by your two men to Datchet-mead.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1545">He's too big to go in there. What shall I do?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1546">[Coming forward] Let me see't, let me see't, O, let
+me see't! I'll in, I'll in. Follow your friend's
+counsel. I'll in.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1549">What, Sir John Falstaff! Are these your letters, knight?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1550">I love thee. Help me away. Let me creep in here.
+I'll never--</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1552">[Gets into the basket; they cover him with foul linen]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1553">Help to cover your master, boy. Call your men,
+Mistress Ford. You dissembling knight!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1555">What, John! Robert! John!
+[Exit ROBIN]
+[Re-enter Servants]
+Go take up these clothes here quickly. Where's the
+cowl-staff? look, how you drumble! Carry them to
+the laundress in Datchet-meat; quickly, come.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1561">[Enter FORD, PAGE, DOCTOR CAIUS, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1562">Pray you, come near: if I suspect without cause,
+why then make sport at me; then let me be your jest;
+I deserve it. How now! whither bear you this?</lb>
+      </sp>
+      <sp who="#Servant">
+        <lb n="1565">To the laundress, forsooth.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1566">Why, what have you to do whither they bear it? You
+were best meddle with buck-washing.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1568">Buck! I would I could wash myself of the buck!
+Buck, buck, buck! Ay, buck; I warrant you, buck;
+and of the season too, it shall appear.
+[Exeunt Servants with the basket]
+Gentlemen, I have dreamed to-night; I'll tell you my
+dream. Here, here, here be my keys: ascend my
+chambers; search, seek, find out: I'll warrant
+we'll unkennel the fox. Let me stop this way first.
+[Locking the door]
+So, now uncape.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1578">Good Master Ford, be contented: you wrong yourself too much.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1579">True, Master Page. Up, gentlemen: you shall see
+sport anon: follow me, gentlemen.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1581">[Exit]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1582">This is fery fantastical humours and jealousies.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1583">By gar, 'tis no the fashion of France; it is not
+jealous in France.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1585">Nay, follow him, gentlemen; see the issue of his search.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1586">[Exeunt PAGE, DOCTOR CAIUS, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1587">Is there not a double excellency in this?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1588">I know not which pleases me better, that my husband
+is deceived, or Sir John.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1590">What a taking was he in when your husband asked who
+was in the basket!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1592">I am half afraid he will have need of washing; so
+throwing him into the water will do him a benefit.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1594">Hang him, dishonest rascal! I would all of the same
+strain were in the same distress.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1596">I think my husband hath some special suspicion of
+Falstaff's being here; for I never saw him so gross
+in his jealousy till now.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1599">I will lay a plot to try that; and we will yet have
+more tricks with Falstaff: his dissolute disease will
+scarce obey this medicine.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1602">Shall we send that foolish carrion, Mistress
+Quickly, to him, and excuse his throwing into the
+water; and give him another hope, to betray him to
+another punishment?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1606">We will do it: let him be sent for to-morrow,
+eight o'clock, to have amends.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1608">[Re-enter FORD, PAGE, DOCTOR CAIUS, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1609">I cannot find him: may be the knave bragged of that
+he could not compass.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1611">[Aside to MISTRESS FORD] Heard you that?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1612">You use me well, Master Ford, do you?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1613">Ay, I do so.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="1614">Heaven make you better than your thoughts!</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1615">Amen!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1616">You do yourself mighty wrong, Master Ford.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1617">Ay, ay; I must bear it.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1618">If there be any pody in the house, and in the
+chambers, and in the coffers, and in the presses,
+heaven forgive my sins at the day of judgment!</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1621">By gar, nor I too: there is no bodies.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1622">Fie, fie, Master Ford! are you not ashamed? What
+spirit, what devil suggests this imagination? I
+would not ha' your distemper in this kind for the
+wealth of Windsor Castle.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1626">'Tis my fault, Master Page: I suffer for it.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1627">You suffer for a pad conscience: your wife is as
+honest a 'omans as I will desires among five
+thousand, and five hundred too.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1630">By gar, I see 'tis an honest woman.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1631">Well, I promised you a dinner. Come, come, walk in
+the Park: I pray you, pardon me; I will hereafter
+make known to you why I have done this. Come,
+wife; come, Mistress Page. I pray you, pardon me;
+pray heartily, pardon me.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1636">Let's go in, gentlemen; but, trust me, we'll mock
+him. I do invite you to-morrow morning to my house
+to breakfast: after, we'll a-birding together; I
+have a fine hawk for the bush. Shall it be so?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1640">Any thing.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1641">If there is one, I shall make two in the company.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1642">If dere be one or two, I shall make-a the turd.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1643">Pray you, go, Master Page.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1644">I pray you now, remembrance tomorrow on the lousy
+knave, mine host.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="1646">Dat is good; by gar, with all my heart!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1647">A lousy knave, to have his gibes and his mockeries!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1648">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="4">
+      <sp who="#(stage_directions)">
+        <lb n="1651">[Enter FENTON and ANNE PAGE]</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1652">I see I cannot get thy father's love;
+Therefore no more turn me to him, sweet Nan.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1654">Alas, how then?</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1655">Why, thou must be thyself.
+He doth object I am too great of birth--,
+And that, my state being gall'd with my expense,
+I seek to heal it only by his wealth:
+Besides these, other bars he lays before me,
+My riots past, my wild societies;
+And tells me 'tis a thing impossible
+I should love thee but as a property.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1663">May be he tells you true.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1664">No, heaven so speed me in my time to come!
+Albeit I will confess thy father's wealth
+Was the first motive that I woo'd thee, Anne:
+Yet, wooing thee, I found thee of more value
+Than stamps in gold or sums in sealed bags;
+And 'tis the very riches of thyself
+That now I aim at.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1671">Gentle Master Fenton,
+Yet seek my father's love; still seek it, sir:
+If opportunity and humblest suit
+Cannot attain it, why, then,--hark you hither!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1675">[They converse apart]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1676">[Enter SHALLOW, SLENDER, and MISTRESS QUICKLY]</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1677">Break their talk, Mistress Quickly: my kinsman shall
+speak for himself.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1679">I'll make a shaft or a bolt on't: 'slid, 'tis but
+venturing.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1681">Be not dismayed.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1682">No, she shall not dismay me: I care not for that,
+but that I am afeard.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1684">Hark ye; Master Slender would speak a word with you.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1685">I come to him.
+[Aside]
+This is my father's choice.
+O, what a world of vile ill-favor'd faults
+Looks handsome in three hundred pounds a-year!</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1690">And how does good Master Fenton? Pray you, a word with you.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1691">She's coming; to her, coz. O boy, thou hadst a father!</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1692">I had a father, Mistress Anne; my uncle can tell you
+good jests of him. Pray you, uncle, tell Mistress
+Anne the jest, how my father stole two geese out of
+a pen, good uncle.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1696">Mistress Anne, my cousin loves you.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1697">Ay, that I do; as well as I love any woman in
+Gloucestershire.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1699">He will maintain you like a gentlewoman.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1700">Ay, that I will, come cut and long-tail, under the
+degree of a squire.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1702">He will make you a hundred and fifty pounds jointure.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1703">Good Master Shallow, let him woo for himself.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="1704">Marry, I thank you for it; I thank you for that good
+comfort. She calls you, coz: I'll leave you.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1706">Now, Master Slender,--</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1707">Now, good Mistress Anne,--</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1708">What is your will?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1709">My will! 'od's heartlings, that's a pretty jest
+indeed! I ne'er made my will yet, I thank heaven; I
+am not such a sickly creature, I give heaven praise.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1712">I mean, Master Slender, what would you with me?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="1713">Truly, for mine own part, I would little or nothing
+with you. Your father and my uncle hath made
+motions: if it be my luck, so; if not, happy man be
+his dole! They can tell you how things go better
+than I can: you may ask your father; here he comes.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1718">[Enter PAGE and MISTRESS PAGE]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1719">Now, Master Slender: love him, daughter Anne.
+Why, how now! what does Master Fenton here?
+You wrong me, sir, thus still to haunt my house:
+I told you, sir, my daughter is disposed of.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1723">Nay, Master Page, be not impatient.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1724">Good Master Fenton, come not to my child.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1725">She is no match for you.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1726">Sir, will you hear me?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="1727">No, good Master Fenton.
+Come, Master Shallow; come, son Slender, in.
+Knowing my mind, you wrong me, Master Fenton.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1730">[Exeunt PAGE, SHALLOW, and SLENDER]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1731">Speak to Mistress Page.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1732">Good Mistress Page, for that I love your daughter
+In such a righteous fashion as I do,
+Perforce, against all cheques, rebukes and manners,
+I must advance the colours of my love
+And not retire: let me have your good will.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1737">Good mother, do not marry me to yond fool.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1738">I mean it not; I seek you a better husband.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1739">That's my master, master doctor.</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="1740">Alas, I had rather be set quick i' the earth
+And bowl'd to death with turnips!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1742">Come, trouble not yourself. Good Master Fenton,
+I will not be your friend nor enemy:
+My daughter will I question how she loves you,
+And as I find her, so am I affected.
+Till then farewell, sir: she must needs go in;
+Her father will be angry.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1748">Farewell, gentle mistress: farewell, Nan.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1749">[Exeunt MISTRESS PAGE and ANNE PAGE]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1750">This is my doing, now: 'Nay,' said I, 'will you cast
+away your child on a fool, and a physician? Look on
+Master Fenton:' this is my doing.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="1753">I thank thee; and I pray thee, once to-night
+Give my sweet Nan this ring: there's for thy pains.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1755">Now heaven send thee good fortune!
+[Exit FENTON]
+A kind heart he hath: a woman would run through
+fire and water for such a kind heart. But yet I
+would my master had Mistress Anne; or I would
+Master Slender had her; or, in sooth, I would Master
+Fenton had her; I will do what I can for them all
+three; for so I have promised, and I'll be as good
+as my word; but speciously for Master Fenton. Well,
+I must of another errand to Sir John Falstaff from
+my two mistresses: what a beast am I to slack it!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1766">[Exit]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="5">
+      <sp who="#(stage_directions)">
+        <lb n="1769">[Enter FALSTAFF and BARDOLPH]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1770">Bardolph, I say,--</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="1771">Here, sir.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1772">Go fetch me a quart of sack; put a toast in't.
+[Exit BARDOLPH]
+Have I lived to be carried in a basket, like a
+barrow of butcher's offal, and to be thrown in the
+Thames? Well, if I be served such another trick,
+I'll have my brains ta'en out and buttered, and give
+them to a dog for a new-year's gift. The rogues
+slighted me into the river with as little remorse as
+they would have drowned a blind bitch's puppies,
+fifteen i' the litter: and you may know by my size
+that I have a kind of alacrity in sinking; if the
+bottom were as deep as hell, I should down. I had
+been drowned, but that the shore was shelvy and
+shallow,--a death that I abhor; for the water swells
+a man; and what a thing should I have been when I
+had been swelled! I should have been a mountain of mummy.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1788">[Re-enter BARDOLPH with sack]</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="1789">Here's Mistress Quickly, sir, to speak with you.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1790">Let me pour in some sack to the Thames water; for my
+belly's as cold as if I had swallowed snowballs for
+pills to cool the reins. Call her in.</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="1793">Come in, woman!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1794">[Enter MISTRESS QUICKLY]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1795">By your leave; I cry you mercy: give your worship
+good morrow.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1797">Take away these chalices. Go brew me a pottle of
+sack finely.</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="1799">With eggs, sir?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1800">Simple of itself; I'll no pullet-sperm in my brewage.
+[Exit BARDOLPH]
+How now!</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1803">Marry, sir, I come to your worship from Mistress Ford.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1804">Mistress Ford! I have had ford enough; I was thrown
+into the ford; I have my belly full of ford.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1806">Alas the day! good heart, that was not her fault:
+she does so take on with her men; they mistook their erection.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1808">So did I mine, to build upon a foolish woman's promise.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1809">Well, she laments, sir, for it, that it would yearn
+your heart to see it. Her husband goes this morning
+a-birding; she desires you once more to come to her
+between eight and nine: I must carry her word
+quickly: she'll make you amends, I warrant you.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1814">Well, I will visit her: tell her so; and bid her
+think what a man is: let her consider his frailty,
+and then judge of my merit.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1817">I will tell her.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1818">Do so. Between nine and ten, sayest thou?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1819">Eight and nine, sir.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1820">Well, be gone: I will not miss her.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1821">Peace be with you, sir.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1822">[Exit]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1823">I marvel I hear not of Master Brook; he sent me word
+to stay within: I like his money well. O, here he comes.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1825">[Enter FORD]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1826">Bless you, sir!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1827">Now, master Brook, you come to know what hath passed
+between me and Ford's wife?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1829">That, indeed, Sir John, is my business.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1830">Master Brook, I will not lie to you: I was at her
+house the hour she appointed me.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1832">And sped you, sir?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1833">Very ill-favoredly, Master Brook.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1834">How so, sir? Did she change her determination?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1835">No, Master Brook; but the peaking Cornuto her
+husband, Master Brook, dwelling in a continual
+'larum of jealousy, comes me in the instant of our
+encounter, after we had embraced, kissed, protested,
+and, as it were, spoke the prologue of our comedy;
+and at his heels a rabble of his companions, thither
+provoked and instigated by his distemper, and,
+forsooth, to search his house for his wife's love.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1843">What, while you were there?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1844">While I was there.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1845">And did he search for you, and could not find you?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1846">You shall hear. As good luck would have it, comes
+in one Mistress Page; gives intelligence of Ford's
+approach; and, in her invention and Ford's wife's
+distraction, they conveyed me into a buck-basket.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1850">A buck-basket!</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1851">By the Lord, a buck-basket! rammed me in with foul
+shirts and smocks, socks, foul stockings, greasy
+napkins; that, Master Brook, there was the rankest
+compound of villanous smell that ever offended nostril.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1855">And how long lay you there?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1856">Nay, you shall hear, Master Brook, what I have
+suffered to bring this woman to evil for your good.
+Being thus crammed in the basket, a couple of Ford's
+knaves, his hinds, were called forth by their
+mistress to carry me in the name of foul clothes to
+Datchet-lane: they took me on their shoulders; met
+the jealous knave their master in the door, who
+asked them once or twice what they had in their
+basket: I quaked for fear, lest the lunatic knave
+would have searched it; but fate, ordaining he
+should be a cuckold, held his hand. Well: on went he
+for a search, and away went I for foul clothes. But
+mark the sequel, Master Brook: I suffered the pangs
+of three several deaths; first, an intolerable
+fright, to be detected with a jealous rotten
+bell-wether; next, to be compassed, like a good
+bilbo, in the circumference of a peck, hilt to
+point, heel to head; and then, to be stopped in,
+like a strong distillation, with stinking clothes
+that fretted in their own grease: think of that,--a
+man of my kidney,--think of that,--that am as subject
+to heat as butter; a man of continual dissolution
+and thaw: it was a miracle to scape suffocation.
+And in the height of this bath, when I was more than
+half stewed in grease, like a Dutch dish, to be
+thrown into the Thames, and cooled, glowing hot,
+in that surge, like a horse-shoe; think of
+that,--hissing hot,--think of that, Master Brook.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1884">In good sadness, I am sorry that for my sake you
+have sufferd all this. My suit then is desperate;
+you'll undertake her no more?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1887">Master Brook, I will be thrown into Etna, as I have
+been into Thames, ere I will leave her thus. Her
+husband is this morning gone a-birding: I have
+received from her another embassy of meeting; 'twixt
+eight and nine is the hour, Master Brook.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1892">'Tis past eight already, sir.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1893">Is it? I will then address me to my appointment.
+Come to me at your convenient leisure, and you shall
+know how I speed; and the conclusion shall be
+crowned with your enjoying her. Adieu. You shall
+have her, Master Brook; Master Brook, you shall
+cuckold Ford.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1899">[Exit]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="1900">Hum! ha! is this a vision? is this a dream? do I
+sleep? Master Ford awake! awake, Master Ford!
+there's a hole made in your best coat, Master Ford.
+This 'tis to be married! this 'tis to have linen
+and buck-baskets! Well, I will proclaim myself
+what I am: I will now take the lecher; he is at my
+house; he cannot 'scape me; 'tis impossible he
+should; he cannot creep into a halfpenny purse,
+nor into a pepper-box: but, lest the devil that
+guides him should aid him, I will search
+impossible places. Though what I am I cannot avoid,
+yet to be what I would not shall not make me tame:
+if I have horns to make one mad, let the proverb go
+with me: I'll be horn-mad.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1914">[Exit]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="4">
+    <div type="scene" n="1">
+      <sp who="#(stage_directions)">
+        <lb n="1917">[Enter MISTRESS PAGE, MISTRESS QUICKLY, and WILLIAM PAGE]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1918">Is he at Master Ford's already, think'st thou?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1919">Sure he is by this, or will be presently: but,
+truly, he is very courageous mad about his throwing
+into the water. Mistress Ford desires you to come suddenly.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1922">I'll be with her by and by; I'll but bring my young
+man here to school. Look, where his master comes;
+'tis a playing-day, I see.
+[Enter SIR HUGH EVANS]
+How now, Sir Hugh! no school to-day?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1927">No; Master Slender is let the boys leave to play.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1928">Blessing of his heart!</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1929">Sir Hugh, my husband says my son profits nothing in
+the world at his book. I pray you, ask him some
+questions in his accidence.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1932">Come hither, William; hold up your head; come.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1933">Come on, sirrah; hold up your head; answer your
+master, be not afraid.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1935">William, how many numbers is in nouns?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1936">Two.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1937">Truly, I thought there had been one number more,
+because they say, ''Od's nouns.'</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1939">Peace your tattlings! What is 'fair,' William?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1940">Pulcher.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1941">Polecats! there are fairer things than polecats, sure.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1942">You are a very simplicity 'oman: I pray you peace.
+What is 'lapis,' William?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1944">A stone.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1945">And what is 'a stone,' William?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1946">A pebble.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1947">No, it is 'lapis:' I pray you, remember in your prain.</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1948">Lapis.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1949">That is a good William. What is he, William, that
+does lend articles?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1951">Articles are borrowed of the pronoun, and be thus
+declined, Singulariter, nominativo, hic, haec, hoc.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1953">Nominativo, hig, hag, hog; pray you, mark:
+genitivo, hujus. Well, what is your accusative case?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1955">Accusativo, hinc.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1956">I pray you, have your remembrance, child,
+accusative, hung, hang, hog.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1958">'Hang-hog' is Latin for bacon, I warrant you.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1959">Leave your prabbles, 'oman. What is the focative
+case, William?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1961">O,--vocativo, O.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1962">Remember, William; focative is caret.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1963">And that's a good root.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1964">'Oman, forbear.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1965">Peace!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1966">What is your genitive case plural, William?</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1967">Genitive case!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1968">Ay.</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1969">Genitive,--horum, harum, horum.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1970">Vengeance of Jenny's case! fie on her! never name
+her, child, if she be a whore.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1972">For shame, 'oman.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="1973">You do ill to teach the child such words: he
+teaches him to hick and to hack, which they'll do
+fast enough of themselves, and to call 'horum:' fie upon you!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1976">'Oman, art thou lunatics? hast thou no
+understandings for thy cases and the numbers of the
+genders? Thou art as foolish Christian creatures as
+I would desires.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1980">Prithee, hold thy peace.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1981">Show me now, William, some declensions of your pronouns.</lb>
+      </sp>
+      <sp who="#William_Page">
+        <lb n="1982">Forsooth, I have forgot.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1983">It is qui, quae, quod: if you forget your 'quies,'
+your 'quaes,' and your 'quods,' you must be
+preeches. Go your ways, and play; go.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1986">He is a better scholar than I thought he was.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="1987">He is a good sprag memory. Farewell, Mistress Page.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="1988">Adieu, good Sir Hugh.
+[Exit SIR HUGH EVANS]
+Get you home, boy. Come, we stay too long.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="1991">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="1994">[Enter FALSTAFF and MISTRESS FORD]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="1995">Mistress Ford, your sorrow hath eaten up my
+sufferance. I see you are obsequious in your love,
+and I profess requital to a hair's breadth; not
+only, Mistress Ford, in the simple
+office of love, but in all the accoutrement,
+complement and ceremony of it. But are you
+sure of your husband now?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2002">He's a-birding, sweet Sir John.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2003">[Within] What, ho, gossip Ford! what, ho!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2004">Step into the chamber, Sir John.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2005">[Exit FALSTAFF]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2006">[Enter MISTRESS PAGE]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2007">How now, sweetheart! who's at home besides yourself?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2008">Why, none but mine own people.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2009">Indeed!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2010">No, certainly.
+[Aside to her]
+Speak louder.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2013">Truly, I am so glad you have nobody here.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2014">Why?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2015">Why, woman, your husband is in his old lunes again:
+he so takes on yonder with my husband; so rails
+against all married mankind; so curses all Eve's
+daughters, of what complexion soever; and so buffets
+himself on the forehead, crying, 'Peer out, peer
+out!' that any madness I ever yet beheld seemed but
+tameness, civility and patience, to this his
+distemper he is in now: I am glad the fat knight is not here.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2023">Why, does he talk of him?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2024">Of none but him; and swears he was carried out, the
+last time he searched for him, in a basket; protests
+to my husband he is now here, and hath drawn him and
+the rest of their company from their sport, to make
+another experiment of his suspicion: but I am glad
+the knight is not here; now he shall see his own foolery.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2030">How near is he, Mistress Page?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2031">Hard by; at street end; he will be here anon.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2032">I am undone! The knight is here.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2033">Why then you are utterly shamed, and he's but a dead
+man. What a woman are you!--Away with him, away
+with him! better shame than murder.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2036">Which way should be go? how should I bestow him?
+Shall I put him into the basket again?</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2038">[Re-enter FALSTAFF]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2039">No, I'll come no more i' the basket. May I not go
+out ere he come?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2041">Alas, three of Master Ford's brothers watch the door
+with pistols, that none shall issue out; otherwise
+you might slip away ere he came. But what make you here?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2044">What shall I do? I'll creep up into the chimney.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2045">There they always use to discharge their
+birding-pieces. Creep into the kiln-hole.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2047">Where is it?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2048">He will seek there, on my word. Neither press,
+coffer, chest, trunk, well, vault, but he hath an
+abstract for the remembrance of such places, and
+goes to them by his note: there is no hiding you in the house.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2052">I'll go out then.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2053">If you go out in your own semblance, you die, Sir
+John. Unless you go out disguised--</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2055">How might we disguise him?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2056">Alas the day, I know not! There is no woman's gown
+big enough for him otherwise he might put on a hat,
+a muffler and a kerchief, and so escape.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2059">Good hearts, devise something: any extremity rather
+than a mischief.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2061">My maid's aunt, the fat woman of Brentford, has a
+gown above.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2063">On my word, it will serve him; she's as big as he
+is: and there's her thrummed hat and her muffler
+too. Run up, Sir John.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2066">Go, go, sweet Sir John: Mistress Page and I will
+look some linen for your head.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2068">Quick, quick! we'll come dress you straight: put
+on the gown the while.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2070">[Exit FALSTAFF]</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2071">I would my husband would meet him in this shape: he
+cannot abide the old woman of Brentford; he swears
+she's a witch; forbade her my house and hath
+threatened to beat her.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2075">Heaven guide him to thy husband's cudgel, and the
+devil guide his cudgel afterwards!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2077">But is my husband coming?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2078">Ah, in good sadness, is he; and talks of the basket
+too, howsoever he hath had intelligence.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2080">We'll try that; for I'll appoint my men to carry the
+basket again, to meet him at the door with it, as
+they did last time.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2083">Nay, but he'll be here presently: let's go dress him
+like the witch of Brentford.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2085">I'll first direct my men what they shall do with the
+basket. Go up; I'll bring linen for him straight.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2087">[Exit]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2088">Hang him, dishonest varlet! we cannot misuse him enough.
+We'll leave a proof, by that which we will do,
+Wives may be merry, and yet honest too:
+We do not act that often jest and laugh;
+'Tis old, but true, Still swine eat all the draff.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2093">[Exit]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2094">[Re-enter MISTRESS FORD with two Servants]</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2095">Go, sirs, take the basket again on your shoulders:
+your master is hard at door; if he bid you set it
+down, obey him: quickly, dispatch.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2098">[Exit]</lb>
+      </sp>
+      <sp who="#First_Servant">
+        <lb n="2099">Come, come, take it up.</lb>
+      </sp>
+      <sp who="#Second_Servant">
+        <lb n="2100">Pray heaven it be not full of knight again.</lb>
+      </sp>
+      <sp who="#First_Servant">
+        <lb n="2101">I hope not; I had as lief bear so much lead.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2102">[Enter FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2103">Ay, but if it prove true, Master Page, have you any
+way then to unfool me again? Set down the basket,
+villain! Somebody call my wife. Youth in a basket!
+O you panderly rascals! there's a knot, a ging, a
+pack, a conspiracy against me: now shall the devil
+be shamed. What, wife, I say! Come, come forth!
+Behold what honest clothes you send forth to bleaching!</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2110">Why, this passes, Master Ford; you are not to go
+loose any longer; you must be pinioned.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2112">Why, this is lunatics! this is mad as a mad dog!</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="2113">Indeed, Master Ford, this is not well, indeed.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2114">So say I too, sir.
+[Re-enter MISTRESS FORD]
+Come hither, Mistress Ford; Mistress Ford the honest
+woman, the modest wife, the virtuous creature, that
+hath the jealous fool to her husband! I suspect
+without cause, mistress, do I?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2120">Heaven be my witness you do, if you suspect me in
+any dishonesty.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2122">Well said, brazen-face! hold it out. Come forth, sirrah!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2123">[Pulling clothes out of the basket]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2124">This passes!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2125">Are you not ashamed? let the clothes alone.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2126">I shall find you anon.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2127">'Tis unreasonable! Will you take up your wife's
+clothes? Come away.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2129">Empty the basket, I say!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2130">Why, man, why?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2131">Master Page, as I am a man, there was one conveyed
+out of my house yesterday in this basket: why may
+not he be there again? In my house I am sure he is:
+my intelligence is true; my jealousy is reasonable.
+Pluck me out all the linen.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2136">If you find a man there, he shall die a flea's death.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2137">Here's no man.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="2138">By my fidelity, this is not well, Master Ford; this
+wrongs you.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2140">Master Ford, you must pray, and not follow the
+imaginations of your own heart: this is jealousies.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2142">Well, he's not here I seek for.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2143">No, nor nowhere else but in your brain.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2144">Help to search my house this one time. If I find
+not what I seek, show no colour for my extremity; let
+me for ever be your table-sport; let them say of
+me, 'As jealous as Ford, Chat searched a hollow
+walnut for his wife's leman.' Satisfy me once more;
+once more search with me.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2150">What, ho, Mistress Page! come you and the old woman
+down; my husband will come into the chamber.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2152">Old woman! what old woman's that?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2153">Nay, it is my maid's aunt of Brentford.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2154">A witch, a quean, an old cozening quean! Have I not
+forbid her my house? She comes of errands, does
+she? We are simple men; we do not know what's
+brought to pass under the profession of
+fortune-telling. She works by charms, by spells,
+by the figure, and such daubery as this is, beyond
+our element we know nothing. Come down, you witch,
+you hag, you; come down, I say!</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2162">Nay, good, sweet husband! Good gentlemen, let him
+not strike the old woman.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2164">[Re-enter FALSTAFF in woman's clothes, and MISTRESS PAGE]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2165">Come, Mother Prat; come, give me your hand.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2166">I'll prat her.
+[Beating him]
+Out of my door, you witch, you hag, you baggage, you
+polecat, you runyon! out, out! I'll conjure you,
+I'll fortune-tell you.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2171">[Exit FALSTAFF]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2172">Are you not ashamed? I think you have killed the
+poor woman.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2174">Nay, he will do it. 'Tis a goodly credit for you.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2175">Hang her, witch!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2176">By the yea and no, I think the 'oman is a witch
+indeed: I like not when a 'oman has a great peard;
+I spy a great peard under his muffler.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2179">Will you follow, gentlemen? I beseech you, follow;
+see but the issue of my jealousy: if I cry out thus
+upon no trail, never trust me when I open again.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2182">Let's obey his humour a little further: come,
+gentlemen.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2184">[Exeunt FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2185">Trust me, he beat him most pitifully.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2186">Nay, by the mass, that he did not; he beat him most
+unpitifully, methought.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2188">I'll have the cudgel hallowed and hung o'er the
+altar; it hath done meritorious service.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2190">What think you? may we, with the warrant of
+womanhood and the witness of a good conscience,
+pursue him with any further revenge?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2193">The spirit of wantonness is, sure, scared out of
+him: if the devil have him not in fee-simple, with
+fine and recovery, he will never, I think, in the
+way of waste, attempt us again.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2197">Shall we tell our husbands how we have served him?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2198">Yes, by all means; if it be but to scrape the
+figures out of your husband's brains. If they can
+find in their hearts the poor unvirtuous fat knight
+shall be any further afflicted, we two will still be
+the ministers.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2203">I'll warrant they'll have him publicly shamed: and
+methinks there would be no period to the jest,
+should he not be publicly shamed.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2206">Come, to the forge with it then; shape it: I would
+not have things cool.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2208">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="3">
+      <sp who="#(stage_directions)">
+        <lb n="2211">[Enter Host and BARDOLPH]</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="2212">Sir, the Germans desire to have three of your
+horses: the duke himself will be to-morrow at
+court, and they are going to meet him.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2215">What duke should that be comes so secretly? I hear
+not of him in the court. Let me speak with the
+gentlemen: they speak English?</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="2218">Ay, sir; I'll call them to you.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2219">They shall have my horses; but I'll make them pay;
+I'll sauce them: they have had my house a week at
+command; I have turned away my other guests: they
+must come off; I'll sauce them. Come.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2223">[Exeunt]
+[Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD,]
+and SIR HUGH EVANS]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="4">
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2228">'Tis one of the best discretions of a 'oman as ever
+I did look upon.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2230">And did he send you both these letters at an instant?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2231">Within a quarter of an hour.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2232">Pardon me, wife. Henceforth do what thou wilt;
+I rather will suspect the sun with cold
+Than thee with wantonness: now doth thy honour stand
+In him that was of late an heretic,
+As firm as faith.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2237">'Tis well, 'tis well; no more:
+Be not as extreme in submission
+As in offence.
+But let our plot go forward: let our wives
+Yet once again, to make us public sport,
+Appoint a meeting with this old fat fellow,
+Where we may take him and disgrace him for it.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2244">There is no better way than that they spoke of.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2245">How? to send him word they'll meet him in the park
+at midnight? Fie, fie! he'll never come.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2247">You say he has been thrown in the rivers and has
+been grievously peaten as an old 'oman: methinks
+there should be terrors in him that he should not
+come; methinks his flesh is punished, he shall have
+no desires.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2252">So think I too.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2253">Devise but how you'll use him when he comes,
+And let us two devise to bring him thither.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2255">There is an old tale goes that Herne the hunter,
+Sometime a keeper here in Windsor forest,
+Doth all the winter-time, at still midnight,
+Walk round about an oak, with great ragg'd horns;
+And there he blasts the tree and takes the cattle
+And makes milch-kine yield blood and shakes a chain
+In a most hideous and dreadful manner:
+You have heard of such a spirit, and well you know
+The superstitious idle-headed eld
+Received and did deliver to our age
+This tale of Herne the hunter for a truth.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2266">Why, yet there want not many that do fear
+In deep of night to walk by this Herne's oak:
+But what of this?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2269">Marry, this is our device;
+That Falstaff at that oak shall meet with us.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2271">Well, let it not be doubted but he'll come:
+And in this shape when you have brought him thither,
+What shall be done with him? what is your plot?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2274">That likewise have we thought upon, and thus:
+Nan Page my daughter and my little son
+And three or four more of their growth we'll dress
+Like urchins, ouphes and fairies, green and white,
+With rounds of waxen tapers on their heads,
+And rattles in their hands: upon a sudden,
+As Falstaff, she and I, are newly met,
+Let them from forth a sawpit rush at once
+With some diffused song: upon their sight,
+We two in great amazedness will fly:
+Then let them all encircle him about
+And, fairy-like, to-pinch the unclean knight,
+And ask him why, that hour of fairy revel,
+In their so sacred paths he dares to tread
+In shape profane.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2289">And till he tell the truth,
+Let the supposed fairies pinch him sound
+And burn him with their tapers.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2292">The truth being known,
+We'll all present ourselves, dis-horn the spirit,
+And mock him home to Windsor.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2295">The children must
+Be practised well to this, or they'll ne'er do't.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2297">I will teach the children their behaviors; and I
+will be like a jack-an-apes also, to burn the
+knight with my taber.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2300">That will be excellent. I'll go and buy them vizards.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2301">My Nan shall be the queen of all the fairies,
+Finely attired in a robe of white.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2303">That silk will I go buy.
+[Aside]
+And in that time
+Shall Master Slender steal my Nan away
+And marry her at Eton. Go send to Falstaff straight.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2308">Nay I'll to him again in name of Brook
+He'll tell me all his purpose: sure, he'll come.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2310">Fear not you that. Go get us properties
+And tricking for our fairies.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2312">Let us about it: it is admirable pleasures and fery
+honest knaveries.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2314">[Exeunt PAGE, FORD, and SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2315">Go, Mistress Ford,
+Send quickly to Sir John, to know his mind.
+[Exit MISTRESS FORD]
+I'll to the doctor: he hath my good will,
+And none but he, to marry with Nan Page.
+That Slender, though well landed, is an idiot;
+And he my husband best of all affects.
+The doctor is well money'd, and his friends
+Potent at court: he, none but he, shall have her,
+Though twenty thousand worthier come to crave her.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2325">[Exit]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="5">
+      <sp who="#(stage_directions)">
+        <lb n="2328">[Enter Host and SIMPLE]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2329">What wouldst thou have, boor? what: thick-skin?
+speak, breathe, discuss; brief, short, quick, snap.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2331">Marry, sir, I come to speak with Sir John Falstaff
+from Master Slender.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2333">There's his chamber, his house, his castle, his
+standing-bed and truckle-bed; 'tis painted about
+with the story of the Prodigal, fresh and new. Go
+knock and call; hell speak like an Anthropophaginian
+unto thee: knock, I say.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2338">There's an old woman, a fat woman, gone up into his
+chamber: I'll be so bold as stay, sir, till she come
+down; I come to speak with her, indeed.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2341">Ha! a fat woman! the knight may be robbed: I'll
+call. Bully knight! bully Sir John! speak from
+thy lungs military: art thou there? it is thine
+host, thine Ephesian, calls.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2345">[Above] How now, mine host!</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2346">Here's a Bohemian-Tartar tarries the coming down of
+thy fat woman. Let her descend, bully, let her
+descend; my chambers are honourable: fie! privacy?
+fie!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2350">[Enter FALSTAFF]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2351">There was, mine host, an old fat woman even now with
+me; but she's gone.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2353">Pray you, sir, was't not the wise woman of
+Brentford?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2355">Ay, marry, was it, mussel-shell: what would you with her?</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2356">My master, sir, Master Slender, sent to her, seeing
+her go through the streets, to know, sir, whether
+one Nym, sir, that beguiled him of a chain, had the
+chain or no.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2360">I spake with the old woman about it.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2361">And what says she, I pray, sir?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2362">Marry, she says that the very same man that
+beguiled Master Slender of his chain cozened him of
+it.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2365">I would I could have spoken with the woman herself;
+I had other things to have spoken with her too from
+him.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2368">What are they? let us know.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2369">Ay, come; quick.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2370">I may not conceal them, sir.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2371">Conceal them, or thou diest.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2372">Why, sir, they were nothing but about Mistress Anne
+Page; to know if it were my master's fortune to
+have her or no.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2375">'Tis, 'tis his fortune.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2376">What, sir?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2377">To have her, or no. Go; say the woman told me so.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2378">May I be bold to say so, sir?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2379">Ay, sir; like who more bold.</lb>
+      </sp>
+      <sp who="#Simple">
+        <lb n="2380">I thank your worship: I shall make my master glad
+with these tidings.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2382">[Exit]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2383">Thou art clerkly, thou art clerkly, Sir John. Was
+there a wise woman with thee?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2385">Ay, that there was, mine host; one that hath taught
+me more wit than ever I learned before in my life;
+and I paid nothing for it neither, but was paid for
+my learning.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2389">[Enter BARDOLPH]</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="2390">Out, alas, sir! cozenage, mere cozenage!</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2391">Where be my horses? speak well of them, varletto.</lb>
+      </sp>
+      <sp who="#Bardolph">
+        <lb n="2392">Run away with the cozeners; for so soon as I came
+beyond Eton, they threw me off from behind one of
+them, in a slough of mire; and set spurs and away,
+like three German devils, three Doctor Faustuses.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2396">They are gone but to meet the duke, villain: do not
+say they be fled; Germans are honest men.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2398">[Enter SIR HUGH EVANS]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2399">Where is mine host?</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2400">What is the matter, sir?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2401">Have a care of your entertainments: there is a
+friend of mine come to town tells me there is three
+cozen-germans that has cozened all the hosts of
+Readins, of Maidenhead, of Colebrook, of horses and
+money. I tell you for good will, look you: you
+are wise and full of gibes and vlouting-stocks, and
+'tis not convenient you should be cozened. Fare you well.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2408">[Exit]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2409">[Enter DOCTOR CAIUS]</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="2410">Vere is mine host de Jarteer?</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2411">Here, master doctor, in perplexity and doubtful dilemma.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="2412">I cannot tell vat is dat: but it is tell-a me dat
+you make grand preparation for a duke de Jamany: by
+my trot, dere is no duke dat the court is know to
+come. I tell you for good vill: adieu.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2416">[Exit]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2417">Hue and cry, villain, go! Assist me, knight. I am
+undone! Fly, run, hue and cry, villain! I am undone!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2419">[Exeunt Host and BARDOLPH]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2420">I would all the world might be cozened; for I have
+been cozened and beaten too. If it should come to
+the ear of the court, how I have been transformed
+and how my transformation hath been washed and
+cudgelled, they would melt me out of my fat drop by
+drop and liquor fishermen's boots with me; I warrant
+they would whip me with their fine wits till I were
+as crest-fallen as a dried pear. I never prospered
+since I forswore myself at primero. Well, if my
+wind were but long enough to say my prayers, I would repent.
+[Enter MISTRESS QUICKLY]
+Now, whence come you?</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2432">From the two parties, forsooth.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2433">The devil take one party and his dam the other! and
+so they shall be both bestowed. I have suffered more
+for their sakes, more than the villanous inconstancy
+of man's disposition is able to bear.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2437">And have not they suffered? Yes, I warrant;
+speciously one of them; Mistress Ford, good heart,
+is beaten black and blue, that you cannot see a
+white spot about her.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2441">What tellest thou me of black and blue? I was
+beaten myself into all the colours of the rainbow;
+and I was like to be apprehended for the witch of
+Brentford: but that my admirable dexterity of wit,
+my counterfeiting the action of an old woman,
+delivered me, the knave constable had set me i' the
+stocks, i' the common stocks, for a witch.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2448">Sir, let me speak with you in your chamber: you
+shall hear how things go; and, I warrant, to your
+content. Here is a letter will say somewhat. Good
+hearts, what ado here is to bring you together!
+Sure, one of you does not serve heaven well, that
+you are so crossed.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2454">Come up into my chamber.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2455">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="6">
+      <sp who="#(stage_directions)">
+        <lb n="2458">[Enter FENTON and Host]</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2459">Master Fenton, talk not to me; my mind is heavy: I
+will give over all.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="2461">Yet hear me speak. Assist me in my purpose,
+And, as I am a gentleman, I'll give thee
+A hundred pound in gold more than your loss.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2464">I will hear you, Master Fenton; and I will at the
+least keep your counsel.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="2466">From time to time I have acquainted you
+With the dear love I bear to fair Anne Page;
+Who mutually hath answer'd my affection,
+So far forth as herself might be her chooser,
+Even to my wish: I have a letter from her
+Of such contents as you will wonder at;
+The mirth whereof so larded with my matter,
+That neither singly can be manifested,
+Without the show of both; fat Falstaff
+Hath a great scene: the image of the jest
+I'll show you here at large. Hark, good mine host.
+To-night at Herne's oak, just 'twixt twelve and one,
+Must my sweet Nan present the Fairy Queen;
+The purpose why, is here: in which disguise,
+While other jests are something rank on foot,
+Her father hath commanded her to slip
+Away with Slender and with him at Eton
+Immediately to marry: she hath consented: Now, sir,
+Her mother, ever strong against that match
+And firm for Doctor Caius, hath appointed
+That he shall likewise shuffle her away,
+While other sports are tasking of their minds,
+And at the deanery, where a priest attends,
+Straight marry her: to this her mother's plot
+She seemingly obedient likewise hath
+Made promise to the doctor. Now, thus it rests:
+Her father means she shall be all in white,
+And in that habit, when Slender sees his time
+To take her by the hand and bid her go,
+She shall go with him: her mother hath intended,
+The better to denote her to the doctor,
+For they must all be mask'd and vizarded,
+That quaint in green she shall be loose enrobed,
+With ribands pendent, flaring 'bout her head;
+And when the doctor spies his vantage ripe,
+To pinch her by the hand, and, on that token,
+The maid hath given consent to go with him.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2503">Which means she to deceive, father or mother?</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="2504">Both, my good host, to go along with me:
+And here it rests, that you'll procure the vicar
+To stay for me at church 'twixt twelve and one,
+And, in the lawful name of marrying,
+To give our hearts united ceremony.</lb>
+      </sp>
+      <sp who="#Host">
+        <lb n="2509">Well, husband your device; I'll to the vicar:
+Bring you the maid, you shall not lack a priest.</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="2511">So shall I evermore be bound to thee;
+Besides, I'll make a present recompense.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2513">[Exeunt]</lb>
+      </sp>
+    </div>
+  </div>
+  <div type="act" n="5">
+    <div type="scene" n="1">
+      <sp who="#(stage_directions)">
+        <lb n="2516">[Enter FALSTAFF and MISTRESS QUICKLY]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2517">Prithee, no more prattling; go. I'll hold. This is
+the third time; I hope good luck lies in odd
+numbers. Away I go. They say there is divinity in
+odd numbers, either in nativity, chance, or death. Away!</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2521">I'll provide you a chain; and I'll do what I can to
+get you a pair of horns.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2523">Away, I say; time wears: hold up your head, and mince.
+[Exit MISTRESS QUICKLY]
+[Enter FORD]
+How now, Master Brook! Master Brook, the matter
+will be known to-night, or never. Be you in the
+Park about midnight, at Herne's oak, and you shall
+see wonders.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2530">Went you not to her yesterday, sir, as you told me
+you had appointed?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2532">I went to her, Master Brook, as you see, like a poor
+old man: but I came from her, Master Brook, like a
+poor old woman. That same knave Ford, her husband,
+hath the finest mad devil of jealousy in him,
+Master Brook, that ever governed frenzy. I will tell
+you: he beat me grievously, in the shape of a
+woman; for in the shape of man, Master Brook, I fear
+not Goliath with a weaver's beam; because I know
+also life is a shuttle. I am in haste; go along
+with me: I'll tell you all, Master Brook. Since I
+plucked geese, played truant and whipped top, I knew
+not what 'twas to be beaten till lately. Follow
+me: I'll tell you strange things of this knave
+Ford, on whom to-night I will be revenged, and I
+will deliver his wife into your hand. Follow.
+Strange things in hand, Master Brook! Follow.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2548">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="2">
+      <sp who="#(stage_directions)">
+        <lb n="2551">[Enter PAGE, SHALLOW, and SLENDER]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2552">Come, come; we'll couch i' the castle-ditch till we
+see the light of our fairies. Remember, son Slender,
+my daughter.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="2555">Ay, forsooth; I have spoke with her and we have a
+nay-word how to know one another: I come to her in
+white, and cry 'mum;' she cries 'budget;' and by
+that we know one another.</lb>
+      </sp>
+      <sp who="#Robert_Shallow">
+        <lb n="2559">That's good too: but what needs either your 'mum'
+or her 'budget?' the white will decipher her well
+enough. It hath struck ten o'clock.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2562">The night is dark; light and spirits will become it
+well. Heaven prosper our sport! No man means evil
+but the devil, and we shall know him by his horns.
+Let's away; follow me.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2566">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="3">
+      <sp who="#(stage_directions)">
+        <lb n="2569">[Enter MISTRESS PAGE, MISTRESS FORD, and DOCTOR CAIUS]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2570">Master doctor, my daughter is in green: when you
+see your time, take her by the band, away with her
+to the deanery, and dispatch it quickly. Go before
+into the Park: we two must go together.</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="2574">I know vat I have to do. Adieu.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2575">Fare you well, sir.
+[Exit DOCTOR CAIUS]
+My husband will not rejoice so much at the abuse of
+Falstaff as he will chafe at the doctor's marrying
+my daughter: but 'tis no matter; better a little
+chiding than a great deal of heart-break.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2581">Where is Nan now and her troop of fairies, and the
+Welsh devil Hugh?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2583">They are all couched in a pit hard by Herne's oak,
+with obscured lights; which, at the very instant of
+Falstaff's and our meeting, they will at once
+display to the night.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2587">That cannot choose but amaze him.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2588">If he be not amazed, he will be mocked; if he be
+amazed, he will every way be mocked.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2590">We'll betray him finely.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2591">Against such lewdsters and their lechery
+Those that betray them do no treachery.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2593">The hour draws on. To the oak, to the oak!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2594">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="4">
+      <sp who="#(stage_directions)">
+        <lb n="2597">[Enter SIR HUGH EVANS, disguised, with others as Fairies]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2598">Trib, trib, fairies; come; and remember your parts:
+be pold, I pray you; follow me into the pit; and
+when I give the watch-'ords, do as I pid you:
+come, come; trib, trib.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2602">[Exeunt]</lb>
+      </sp>
+    </div>
+    <div type="scene" n="5">
+      <sp who="#(stage_directions)">
+        <lb n="2605">[Enter FALSTAFF disguised as Herne]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2606">The Windsor bell hath struck twelve; the minute
+draws on. Now, the hot-blooded gods assist me!
+Remember, Jove, thou wast a bull for thy Europa; love
+set on thy horns. O powerful love! that, in some
+respects, makes a beast a man, in some other, a man
+a beast. You were also, Jupiter, a swan for the love
+of Leda. O omnipotent Love! how near the god drew
+to the complexion of a goose! A fault done first in
+the form of a beast. O Jove, a beastly fault! And
+then another fault in the semblance of a fowl; think
+on 't, Jove; a foul fault! When gods have hot
+backs, what shall poor men do? For me, I am here a
+Windsor stag; and the fattest, I think, i' the
+forest. Send me a cool rut-time, Jove, or who can
+blame me to piss my tallow? Who comes here? my
+doe?</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2622">[Enter MISTRESS FORD and MISTRESS PAGE]</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2623">Sir John! art thou there, my deer? my male deer?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2624">My doe with the black scut! Let the sky rain
+potatoes; let it thunder to the tune of Green
+Sleeves, hail kissing-comfits and snow eringoes; let
+there come a tempest of provocation, I will shelter me here.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2628">Mistress Page is come with me, sweetheart.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2629">Divide me like a bribe buck, each a haunch: I will
+keep my sides to myself, my shoulders for the fellow
+of this walk, and my horns I bequeath your husbands.
+Am I a woodman, ha? Speak I like Herne the hunter?
+Why, now is Cupid a child of conscience; he makes
+restitution. As I am a true spirit, welcome!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2635">[Noise within]</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2636">Alas, what noise?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2637">Heaven forgive our sins</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2638">What should this be?</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2639">[with Mistress Page] Away, away!</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2640">[They run off]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2641">I think the devil will not have me damned, lest the
+oil that's in me should set hell on fire; he would
+never else cross me thus.
+[Enter SIR HUGH EVANS, disguised as before; PISTOL,]
+as Hobgoblin; MISTRESS QUICKLY, ANNE PAGE, and
+others, as Fairies, with tapers]</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2647">Fairies, black, grey, green, and white,
+You moonshine revellers and shades of night,
+You orphan heirs of fixed destiny,
+Attend your office and your quality.
+Crier Hobgoblin, make the fairy oyes.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="2652">Elves, list your names; silence, you airy toys.
+Cricket, to Windsor chimneys shalt thou leap:
+Where fires thou find'st unraked and hearths unswept,
+There pinch the maids as blue as bilberry:
+Our radiant queen hates sluts and sluttery.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2657">They are fairies; he that speaks to them shall die:
+I'll wink and couch: no man their works must eye.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2659">[Lies down upon his face]</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2660">Where's Bede? Go you, and where you find a maid
+That, ere she sleep, has thrice her prayers said,
+Raise up the organs of her fantasy;
+Sleep she as sound as careless infancy:
+But those as sleep and think not on their sins,
+Pinch them, arms, legs, backs, shoulders, sides and shins.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2666">About, about;
+Search Windsor Castle, elves, within and out:
+Strew good luck, ouphes, on every sacred room:. That it may stand till the perpetual doom,
+In state as wholesome as in state 'tis fit,
+Worthy the owner, and the owner it.
+The several chairs of order look you scour
+With juice of balm and every precious flower:
+Each fair instalment, coat, and several crest,
+With loyal blazon, evermore be blest!
+And nightly, meadow-fairies, look you sing,
+Like to the Garter's compass, in a ring:
+The expressure that it bears, green let it be,
+More fertile-fresh than all the field to see;
+And 'Honi soit qui mal y pense' write
+In emerald tufts, flowers purple, blue and white;
+Let sapphire, pearl and rich embroidery,
+Buckled below fair knighthood's bending knee:
+Fairies use flowers for their charactery.
+Away; disperse: but till 'tis one o'clock,
+Our dance of custom round about the oak
+Of Herne the hunter, let us not forget.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2687">Pray you, lock hand in hand; yourselves in order set
+And twenty glow-worms shall our lanterns be,
+To guide our measure round about the tree.
+But, stay; I smell a man of middle-earth.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2691">Heavens defend me from that Welsh fairy, lest he
+transform me to a piece of cheese!</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="2693">Vile worm, thou wast o'erlook'd even in thy birth.</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2694">With trial-fire touch me his finger-end:
+If he be chaste, the flame will back descend
+And turn him to no pain; but if he start,
+It is the flesh of a corrupted heart.</lb>
+      </sp>
+      <sp who="#Pistol">
+        <lb n="2698">A trial, come.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2699">Come, will this wood take fire?</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2700">[They burn him with their tapers]</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2701">Oh, Oh, Oh!</lb>
+      </sp>
+      <sp who="#Hostess_Quickly">
+        <lb n="2702">Corrupt, corrupt, and tainted in desire!
+About him, fairies; sing a scornful rhyme;
+And, as you trip, still pinch him to your time.
+SONG.
+Fie on sinful fantasy!
+Fie on lust and luxury!
+Lust is but a bloody fire,
+Kindled with unchaste desire,
+Fed in heart, whose flames aspire
+As thoughts do blow them, higher and higher.
+Pinch him, fairies, mutually;
+Pinch him for his villany;
+Pinch him, and burn him, and turn him about,
+Till candles and starlight and moonshine be out.
+[During this song they pinch FALSTAFF. DOCTOR CAIUS]
+comes one way, and steals away a boy in green;
+SLENDER another way, and takes off a boy in white;
+and FENTON comes and steals away ANN PAGE.
+A noise of hunting is heard within. All the
+Fairies run away. FALSTAFF pulls off his buck's
+head, and rises]</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2723">[Enter PAGE, FORD, MISTRESS PAGE, and MISTRESS FORD]</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2724">Nay, do not fly; I think we have watch'd you now
+Will none but Herne the hunter serve your turn?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2726">I pray you, come, hold up the jest no higher
+Now, good Sir John, how like you Windsor wives?
+See you these, husband? do not these fair yokes
+Become the forest better than the town?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2730">Now, sir, who's a cuckold now? Master Brook,
+Falstaff's a knave, a cuckoldly knave; here are his
+horns, Master Brook: and, Master Brook, he hath
+enjoyed nothing of Ford's but his buck-basket, his
+cudgel, and twenty pounds of money, which must be
+paid to Master Brook; his horses are arrested for
+it, Master Brook.</lb>
+      </sp>
+      <sp who="#Mistress_Ford">
+        <lb n="2737">Sir John, we have had ill luck; we could never meet.
+I will never take you for my love again; but I will
+always count you my deer.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2740">I do begin to perceive that I am made an ass.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2741">Ay, and an ox too: both the proofs are extant.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2742">And these are not fairies? I was three or four
+times in the thought they were not fairies: and yet
+the guiltiness of my mind, the sudden surprise of my
+powers, drove the grossness of the foppery into a
+received belief, in despite of the teeth of all
+rhyme and reason, that they were fairies. See now
+how wit may be made a Jack-a-Lent, when 'tis upon
+ill employment!</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2750">Sir John Falstaff, serve Got, and leave your
+desires, and fairies will not pinse you.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2752">Well said, fairy Hugh.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2753">And leave your jealousies too, I pray you.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2754">I will never mistrust my wife again till thou art
+able to woo her in good English.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2756">Have I laid my brain in the sun and dried it, that
+it wants matter to prevent so gross o'erreaching as
+this? Am I ridden with a Welsh goat too? shall I
+have a coxcomb of frize? 'Tis time I were choked
+with a piece of toasted cheese.</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2761">Seese is not good to give putter; your belly is all putter.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2762">'Seese' and 'putter'! have I lived to stand at the
+taunt of one that makes fritters of English? This
+is enough to be the decay of lust and late-walking
+through the realm.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2766">Why Sir John, do you think, though we would have the
+virtue out of our hearts by the head and shoulders
+and have given ourselves without scruple to hell,
+that ever the devil could have made you our delight?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2770">What, a hodge-pudding? a bag of flax?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2771">A puffed man?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2772">Old, cold, withered and of intolerable entrails?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2773">And one that is as slanderous as Satan?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2774">And as poor as Job?</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2775">And as wicked as his wife?</lb>
+      </sp>
+      <sp who="#Sir_Hugh_Evans">
+        <lb n="2776">And given to fornications, and to taverns and sack
+and wine and metheglins, and to drinkings and
+swearings and starings, pribbles and prabbles?</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2779">Well, I am your theme: you have the start of me; I
+am dejected; I am not able to answer the Welsh
+flannel; ignorance itself is a plummet o'er me: use
+me as you will.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2783">Marry, sir, we'll bring you to Windsor, to one
+Master Brook, that you have cozened of money, to
+whom you should have been a pander: over and above
+that you have suffered, I think to repay that money
+will be a biting affliction.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2788">Yet be cheerful, knight: thou shalt eat a posset
+to-night at my house; where I will desire thee to
+laugh at my wife, that now laughs at thee: tell her
+Master Slender hath married her daughter.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2792">[Aside] Doctors doubt that: if Anne Page be my
+daughter, she is, by this, Doctor Caius' wife.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2794">[Enter SLENDER]</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="2795">Whoa ho! ho, father Page!</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2796">Son, how now! how now, son! have you dispatched?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="2797">Dispatched! I'll make the best in Gloucestershire
+know on't; would I were hanged, la, else.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2799">Of what, son?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="2800">I came yonder at Eton to marry Mistress Anne Page,
+and she's a great lubberly boy. If it had not been
+i' the church, I would have swinged him, or he
+should have swinged me. If I did not think it had
+been Anne Page, would I might never stir!--and 'tis
+a postmaster's boy.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2806">Upon my life, then, you took the wrong.</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="2807">What need you tell me that? I think so, when I took
+a boy for a girl. If I had been married to him, for
+all he was in woman's apparel, I would not have had
+him.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2811">Why, this is your own folly. Did not I tell you how
+you should know my daughter by her garments?</lb>
+      </sp>
+      <sp who="#Slender">
+        <lb n="2813">I went to her in white, and cried 'mum,' and she
+cried 'budget,' as Anne and I had appointed; and yet
+it was not Anne, but a postmaster's boy.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2816">Good George, be not angry: I knew of your purpose;
+turned my daughter into green; and, indeed, she is
+now with the doctor at the deanery, and there married.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2819">[Enter DOCTOR CAIUS]</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="2820">Vere is Mistress Page? By gar, I am cozened: I ha'
+married un garcon, a boy; un paysan, by gar, a boy;
+it is not Anne Page: by gar, I am cozened.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2823">Why, did you take her in green?</lb>
+      </sp>
+      <sp who="#Doctor_Caius">
+        <lb n="2824">Ay, by gar, and 'tis a boy: by gar, I'll raise all Windsor.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2825">[Exit]</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2826">This is strange. Who hath got the right Anne?</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2827">My heart misgives me: here comes Master Fenton.
+[Enter FENTON and ANNE PAGE]
+How now, Master Fenton!</lb>
+      </sp>
+      <sp who="#Anne_Page">
+        <lb n="2830">Pardon, good father! good my mother, pardon!</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2831">Now, mistress, how chance you went not with Master Slender?</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2832">Why went you not with master doctor, maid?</lb>
+      </sp>
+      <sp who="#Fenton">
+        <lb n="2833">You do amaze her: hear the truth of it.
+You would have married her most shamefully,
+Where there was no proportion held in love.
+The truth is, she and I, long since contracted,
+Are now so sure that nothing can dissolve us.
+The offence is holy that she hath committed;
+And this deceit loses the name of craft,
+Of disobedience, or unduteous title,
+Since therein she doth evitate and shun
+A thousand irreligious cursed hours,
+Which forced marriage would have brought upon her.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2844">Stand not amazed; here is no remedy:
+In love the heavens themselves do guide the state;
+Money buys lands, and wives are sold by fate.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2847">I am glad, though you have ta'en a special stand to
+strike at me, that your arrow hath glanced.</lb>
+      </sp>
+      <sp who="#Page">
+        <lb n="2849">Well, what remedy? Fenton, heaven give thee joy!
+What cannot be eschew'd must be embraced.</lb>
+      </sp>
+      <sp who="#Falstaff">
+        <lb n="2851">When night-dogs run, all sorts of deer are chased.</lb>
+      </sp>
+      <sp who="#Mistress_Page">
+        <lb n="2852">Well, I will muse no further. Master Fenton,
+Heaven give you many, many merry days!
+Good husband, let us every one go home,
+And laugh this sport o'er by a country fire;
+Sir John and all.</lb>
+      </sp>
+      <sp who="#Ford">
+        <lb n="2857">Let it be so. Sir John,
+To Master Brook you yet shall hold your word
+For he tonight shall lie with Mistress Ford.</lb>
+      </sp>
+      <sp who="#(stage_directions)">
+        <lb n="2860">[Exeunt]</lb>
+      </sp>
+    </div>
+  </div>
+</play>
