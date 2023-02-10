@@ -7,5 +7,5 @@ Welcome to the repository for Python coding puzzles designed by Dr. Luis Meneses
 <br/>
 
 <p>
-Each directory contains an instruction pdf, a solution file, and a requirements file containg the libraries needed for each program.
+Each directory contains an instruction pdf, a solution file, a requirements file containg the libraries needed for each program, and some test files.
 </p>
