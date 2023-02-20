@@ -1,2 +1,11 @@
 # Series-of-Python-Puzzles
-A series of Python coding puzzles using differnet librarys. Designed by Dr. Luis Meneses for CSCI 331 Object Oriented Programming.
+
+<p>
+Welcome to the repository for Python coding puzzles designed by Dr. Luis Meneses for the CSCI 331 Object Oriented Programming course. This repository contains a series of coding challenges using different Python libraries. Each puzzle is designed to help you improve your Python coding skills and get more familiar with various libraries.
+</p>
+
+<br/>
+
+<p>
+Each directory contains an instruction pdf, a solution file, a requirements file containg the libraries needed for each program, and some test files.
+</p>
