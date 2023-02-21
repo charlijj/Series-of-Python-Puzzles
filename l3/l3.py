@@ -13,8 +13,7 @@ Ex.)
 1232.txt produces:
 
 ***** Sample entries: *****
-addresses [5149] -> the word 'addresses' appears on line 5149
-
+addresses [5149]
 Sforza [172, 384, 560, 643, 1191, 1201, 1404, 1918, 1921, 1932, 2003, 2190, 3088, 3089, 3108, 3108, 3115, 3350]
 Second [162, 1360, 1387, 2050, 2348, 3514]
 Service [5109]
@@ -29,6 +28,11 @@ people 115 -> the word people appears 115 times
 prince 185
 Castruccio 140
 
+*+* Erasing data ... *+*
+{}
+Elapsed time is 0.150183 seconds.
+
+In this example the word 'addresses' appears on line 5149 and Sforza appears on lines 172, 384, 560, 643, 1191...ect.
 """
 
 from nltk.tokenize import wordpunct_tokenize
@@ -52,8 +56,12 @@ class Lab3(dict):
 
     def clear(self) -> None:
 
+        print('\n')
         print('*+* Erasing data ... *+*')
+        print('\n')
         super().clear()
+
+        print('Printing object: ', end='')
 
     def topKeys(self, number: int = 100) -> list:
 
@@ -61,11 +69,11 @@ class Lab3(dict):
 
         for key in super().keys(): # for each key in the dictionary
 
-            numValues = len(super().get(key)) # get the length of the associated list
+            numValues = len(super().get(key)) # get the length of the key's associated list
 
-            if numValues >= number: 
+            if numValues >= number: # if the key has an associated list that is longer than the specified number
 
-                topKeys += [key] # this key has a associated list that is longer than the specified number, so add it to top keys list. 
+                topKeys += [key] # add it to top keys list 
 
         return topKeys      
 
