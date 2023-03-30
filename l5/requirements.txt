@@ -1,0 +1,4 @@
+requests 
+beautifulsoup4
+docxpy
+user_agent
